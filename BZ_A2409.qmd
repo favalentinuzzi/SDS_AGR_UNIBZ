@@ -1,0 +1,375 @@
+---
+title: "Lab A2.4.09 - Laboratory for Bioenergy & Biofuels - Analytics and Processes"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#library(icon)
+library(kableExtra)
+library(formattable)
+library(dplyr)
+```
+
+```{r include=FALSE}
+
+# loading the main table from csv
+lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
+
+# filtering for Lab
+lista <- subset(lista_tot, lab=="A2.4.09")
+
+colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
+
+subset_by_letter <- function(data, letter) {
+  output <- subset(data, filter_name == letter)
+  return(output)
+}
+
+tab_reagenti <- function(input) {
+  output <- input %>%
+    mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
+    select(-c(1,2,3,5,6,8,10)) %>%
+    kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
+    kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
+  
+  return(output)
+}
+
+# tab_fridge <- function(input) {
+#   output <- input %>%
+#     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
+#     select(-c(1,2,3,5,6,8,10)) %>%
+#     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
+#     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
+#   
+#   return(output)
+# }
+# 
+# tab_acid_base <- function(input) {
+#   output <- input %>%
+#     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
+#     select(-c(1,2,5,6,8,10)) %>%
+#     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
+#     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
+#   
+#   return(output)
+# }
+
+letter_A <- subset_by_letter(lista, "A")
+letter_B <- subset_by_letter(lista, "B")
+letter_C <- subset_by_letter(lista, "C")
+letter_D <- subset_by_letter(lista, "D")
+letter_E <- subset_by_letter(lista, "E")
+letter_F <- subset_by_letter(lista, "F")
+letter_G <- subset_by_letter(lista, "G")
+letter_H <- subset_by_letter(lista, "H")
+letter_I <- subset_by_letter(lista, "I")
+letter_J <- subset_by_letter(lista, "J")
+letter_K <- subset_by_letter(lista, "K")
+letter_L <- subset_by_letter(lista, "L")
+letter_M <- subset_by_letter(lista, "M")
+letter_N <- subset_by_letter(lista, "N")
+letter_O <- subset_by_letter(lista, "O")
+letter_P <- subset_by_letter(lista, "P")
+letter_Q <- subset_by_letter(lista, "Q")
+letter_R <- subset_by_letter(lista, "R")
+letter_S <- subset_by_letter(lista, "S")
+letter_T <- subset_by_letter(lista, "T")
+letter_U <- subset_by_letter(lista, "U")
+letter_V <- subset_by_letter(lista, "V")
+letter_W <- subset_by_letter(lista, "W")
+letter_X <- subset_by_letter(lista, "X")
+letter_Y <- subset_by_letter(lista, "Y")
+letter_Z <- subset_by_letter(lista, "Z")
+
+# # subsetting the fridge tables
+# 
+# letter_FA <- subset_by_letter(lista, "F_A")
+# letter_FB <- subset_by_letter(lista, "F_B")
+# letter_FC <- subset_by_letter(lista, "F_C")
+# letter_FD <- subset_by_letter(lista, "F_D")
+# letter_FE <- subset_by_letter(lista, "F_E")
+# letter_FF <- subset_by_letter(lista, "F_F")
+# letter_FG <- subset_by_letter(lista, "F_G")
+# letter_FH <- subset_by_letter(lista, "F_H")
+# letter_FI <- subset_by_letter(lista, "F_I")
+# letter_FJ <- subset_by_letter(lista, "F_J")
+# letter_FK <- subset_by_letter(lista, "F_K")
+# letter_FL <- subset_by_letter(lista, "F_L")
+# letter_FM <- subset_by_letter(lista, "F_M")
+# letter_FN <- subset_by_letter(lista, "F_N")
+# letter_FO <- subset_by_letter(lista, "F_O")
+# letter_FP <- subset_by_letter(lista, "F_P")
+# letter_FQ <- subset_by_letter(lista, "F_Q")
+# letter_FR <- subset_by_letter(lista, "F_R")
+# letter_FS <- subset_by_letter(lista, "F_S")
+# letter_FT <- subset_by_letter(lista, "F_T")
+# letter_FU <- subset_by_letter(lista, "F_U")
+# letter_FV <- subset_by_letter(lista, "F_V")
+# letter_FW <- subset_by_letter(lista, "F_W")
+# letter_FX <- subset_by_letter(lista, "F_X")
+# letter_FY <- subset_by_letter(lista, "F_Y")
+# letter_FZ <- subset_by_letter(lista, "F_Z")
+# 
+# # subsetting the Acid / Base tables
+# 
+# letter_AB_A <- subset_by_letter(lista, "AB_A")
+# letter_AB_B <- subset_by_letter(lista, "AB_B")
+# letter_AB_C <- subset_by_letter(lista, "AB_C")
+# letter_AB_D <- subset_by_letter(lista, "AB_D")
+# letter_AB_E <- subset_by_letter(lista, "AB_E")
+# letter_AB_F <- subset_by_letter(lista, "AB_F")
+# letter_AB_G <- subset_by_letter(lista, "AB_G")
+# letter_AB_H <- subset_by_letter(lista, "AB_H")
+# letter_AB_I <- subset_by_letter(lista, "AB_I")
+# letter_AB_J <- subset_by_letter(lista, "AB_J")
+# letter_AB_K <- subset_by_letter(lista, "AB_K")
+# letter_AB_L <- subset_by_letter(lista, "AB_L")
+# letter_AB_M <- subset_by_letter(lista, "AB_M")
+# letter_AB_N <- subset_by_letter(lista, "AB_N")
+# letter_AB_O <- subset_by_letter(lista, "AB_O")
+# letter_AB_P <- subset_by_letter(lista, "AB_P")
+# letter_AB_Q <- subset_by_letter(lista, "AB_Q")
+# letter_AB_R <- subset_by_letter(lista, "AB_R")
+# letter_AB_S <- subset_by_letter(lista, "AB_S")
+# letter_AB_T <- subset_by_letter(lista, "AB_T")
+# letter_AB_U <- subset_by_letter(lista, "AB_U")
+# letter_AB_V <- subset_by_letter(lista, "AB_V")
+# letter_AB_W <- subset_by_letter(lista, "AB_W")
+# letter_AB_X <- subset_by_letter(lista, "AB_X")
+# letter_AB_Y <- subset_by_letter(lista, "AB_Y")
+# letter_AB_Z <- subset_by_letter(lista, "AB_Z")
+
+```
+
+::: {.callout-note}
+**Laboratory Responsible**: Marco Baratieri - [email](mailto:marco.baratieri@unibz.it)
+
+**Laboratory Technician**: Andrea La Monica - [email](mailto:andrea.lamonica@unibz.it) [phone](tel:+390471017040) 
+
+**General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
+:::
+
+::: {.callout-important}
+Call [112](tel:112) in case of Emergency
+:::
+
+Last update: 08 / 09 / 2023
+
+------------------------------------------------------------------------
+
+#### Last changes:
+
+-   List update
+
+------------------------------------------------------------------------
+
+## Reagents
+
+### A
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_A)
+
+```
+
+### B
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_B)
+
+```
+
+### C
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_C)
+
+```
+
+### D
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_D)
+
+```
+
+### E
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_E)
+
+```
+
+### F
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_F)
+
+```
+
+### G
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_G)
+
+```
+
+### H
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_H)
+
+```
+
+<!-- ### I -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_I) -->
+
+<!-- ``` -->
+
+<!-- ### J -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_J) -->
+
+<!-- ``` -->
+
+<!-- ### K -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_K) -->
+
+<!-- ``` -->
+
+<!-- ### L -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_L) -->
+
+<!-- ``` -->
+
+### M
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_M)
+
+```
+
+### N
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_N)
+
+```
+
+### O
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_O)
+
+```
+
+### P
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_P)
+
+```
+
+<!-- ### Q -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_Q) -->
+
+<!-- ``` -->
+
+<!-- ### R -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_R) -->
+
+<!-- ``` -->
+
+### S
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_S)
+
+```
+
+### T
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_T)
+
+```
+
+<!-- ### U -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_U) -->
+
+<!-- ``` -->
+
+<!-- ### V -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_V) -->
+
+<!-- ``` -->
+
+<!-- ### W -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_W) -->
+
+<!-- ``` -->
+
+<!-- ### X -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_X) -->
+
+<!-- ``` -->
+
+<!-- ### Y -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_Y) -->
+
+<!-- ``` -->
+
+<!-- ### Z -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_Z) -->
+
+<!-- ``` -->
