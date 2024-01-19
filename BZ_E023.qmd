@@ -1,5 +1,5 @@
 ---
-title: "Lab E0.23 - Laboratory XZY"
+title: "Lab E0.23 - Laboratory for Animal Science"
 ---
 
 ```{r setup, include=FALSE}
@@ -143,9 +143,9 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Stefano Benini - [email](mailto:stefano.benini@unibz.it)
+**Laboratory Responsible**: Matthias Gauly - [email](mailto:matthias.gauly@unibz.it)
 
-**Laboratory Technician**: Christian Ceccon - [email](mailto:christian.ceccon@unibz.it) [phone](tel:+390471 017014) 
+**Laboratory Technician**: Christian Ceccon - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
@@ -214,13 +214,13 @@ tab_reagenti(letter_F)
 
 ```
 
-### G
+<!-- ### G -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_G)
+<!-- tab_reagenti(letter_G) -->
 
-```
+<!-- ``` -->
 
 ### H
 
@@ -246,29 +246,29 @@ tab_reagenti(letter_I)
 
 <!-- ``` -->
 
-### K
-
-```{r echo=FALSE}
-
-tab_reagenti(letter_K)
-
-```
-
-### L
-
-```{r echo=FALSE}
-
-tab_reagenti(letter_L)
-
-```
-
-<!-- ### M -->
+<!-- ### K -->
 
 <!-- ```{r echo=FALSE} -->
 
-<!-- tab_reagenti(letter_M) -->
+<!-- tab_reagenti(letter_K) -->
 
 <!-- ``` -->
+
+<!-- ### L -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_L) -->
+
+<!-- ``` -->
+
+### M
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_M)
+
+```
 
 ### N
 
@@ -278,13 +278,13 @@ tab_reagenti(letter_N)
 
 ```
 
-<!-- ### O -->
+### O
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_O) -->
+tab_reagenti(letter_O)
 
-<!-- ``` -->
+```
 
 ### P
 
@@ -326,13 +326,13 @@ tab_reagenti(letter_T)
 
 ```
 
-### U
+<!-- ### U -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_U)
+<!-- tab_reagenti(letter_U) -->
 
-```
+<!-- ``` -->
 
 ### V
 
@@ -358,13 +358,13 @@ tab_reagenti(letter_V)
 
 <!-- ``` -->
 
-### Y
+<!-- ### Y -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Y)
+<!-- tab_reagenti(letter_Y) -->
 
-```
+<!-- ``` -->
 
 <!-- ### Z -->
 
