@@ -22,7 +22,7 @@ title: "Laboratories of the Faculty of Agricultural, Environmental and Food Scie
 - [BZ-E0.20](BZ_E020.qmd) - Laboratory for Sample Preparation I
 - [BZ-E0.21](BZ_E021.qmd) - Laboratory for Bioorganic Chemistry and Bio-crystallography
 - [BZ-E0.22](BZ_E022.qmd) - Laboratory for Phytopathology
-- [BZ-E0.23](BZ_E023.qmd)- Laboratory for Animal Science
+- [BZ-E0.23](BZ_E023.qmd) - Laboratory for Animal Science
 - BZ-E1.11 - Isotope Laboratory
 - [BZ-E1.12](BZ_E112.qmd) - Teaching Laboratory I
 - [BZ-E1.20](BZ_E120.qmd) - Laboratory for Analytical Chemistry II

@@ -61,4 +61,7 @@ qr_code_A2409 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_A240
 generate_svg(qrcode = qr_code_A2409, filename = "A2409.svg", size = 500, show = FALSE)
 
 
+qr_code_E023 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_E023.html")
+
+generate_svg(qrcode = qr_code_E023, filename = "E023.svg", size = 500, show = FALSE)
 
