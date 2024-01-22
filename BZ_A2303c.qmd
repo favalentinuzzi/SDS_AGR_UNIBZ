@@ -145,7 +145,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ::: {.callout-note}
 **Laboratory Responsible**: Emanuele Boselli - [email](mailto:emanuele.boselli@unibz.it)
 
-**Laboratory Technician**: Sara Casagrande - [email](mailto:sara.casagrande@unibz.it) [phone](tel:+390471017713) 
+**Laboratory Technician**: Giulia Windisch - [email](mailto:giulia.windisch@unibz.it) [phone](tel:+390471017009) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::

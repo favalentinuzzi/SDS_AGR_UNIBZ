@@ -145,7 +145,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ::: {.callout-note}
 **Laboratory Responsible**: Matthias Gauly - [email](mailto:matthias.gauly@unibz.it)
 
-**Laboratory Technician**: Christian Ceccon - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)
+**Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
