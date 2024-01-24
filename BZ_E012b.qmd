@@ -342,13 +342,13 @@ tab_reagenti(letter_V)
 
 ```
 
-<!-- ### W -->
+### W
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_W) -->
+tab_reagenti(letter_W)
 
-<!-- ``` -->
+```
 
 ### X
 
