@@ -1,5 +1,5 @@
 ---
-title: "Lab A2.2.28 - Basic Microbiology"
+title: "Lab A2.2.29 - Genetics & SHIME"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="A2.2.28")
+lista <- subset(lista_tot, lab=="A2.2.29")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -174,29 +174,29 @@ tab_reagenti(letter_A)
 
 ```
 
-### B
+<!-- ### B -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_B)
+<!-- tab_reagenti(letter_B) -->
 
-```
+<!-- ``` -->
 
-### C
+<!-- ### C -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_C)
+<!-- tab_reagenti(letter_C) -->
 
-```
+<!-- ``` -->
 
-### D
+<!-- ### D -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_D)
+<!-- tab_reagenti(letter_D) -->
 
-```
+<!-- ``` -->
 
 ### E
 
@@ -206,37 +206,37 @@ tab_reagenti(letter_E)
 
 ```
 
-### F
+<!-- ### F -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_F)
+<!-- tab_reagenti(letter_F) -->
 
-```
+<!-- ``` -->
 
-### G
+<!-- ### G -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_G)
+<!-- tab_reagenti(letter_G) -->
 
-```
+<!-- ``` -->
 
-### H
+<!-- ### H -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_H)
+<!-- tab_reagenti(letter_H) -->
 
-```
+<!-- ``` -->
 
-### I
+<!-- ### I -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_I)
+<!-- tab_reagenti(letter_I) -->
 
-```
+<!-- ``` -->
 
 <!-- ### J -->
 
@@ -246,13 +246,13 @@ tab_reagenti(letter_I)
 
 <!-- ``` -->
 
-### K
+<!-- ### K -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_K)
+<!-- tab_reagenti(letter_K) -->
 
-```
+<!-- ``` -->
 
 ### L
 
@@ -270,21 +270,21 @@ tab_reagenti(letter_M)
 
 ```
 
-### N
+<!-- ### N -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_N)
+<!-- tab_reagenti(letter_N) -->
 
-```
+<!-- ``` -->
 
-### O
+<!-- ### O -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_O)
+<!-- tab_reagenti(letter_O) -->
 
-```
+<!-- ``` -->
 
 ### P
 
@@ -326,49 +326,49 @@ tab_reagenti(letter_T)
 
 ```
 
-### U
+<!-- ### U -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_U)
+<!-- tab_reagenti(letter_U) -->
 
-```
-### V
+<!-- ``` -->
+<!-- ### V -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_V)
+<!-- tab_reagenti(letter_V) -->
 
-```
+<!-- ``` -->
 
-### W
+<!-- ### W -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_W)
+<!-- tab_reagenti(letter_W) -->
 
-```
+<!-- ``` -->
 
-### X
+<!-- ### X -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_X)
+<!-- tab_reagenti(letter_X) -->
 
-```
+<!-- ``` -->
 
-### Y
+<!-- ### Y -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Y)
+<!-- tab_reagenti(letter_Y) -->
 
-```
+<!-- ``` -->
 
-### Z
+<!-- ### Z -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Z)
+<!-- tab_reagenti(letter_Z) -->
 
-```
+<!-- ``` -->

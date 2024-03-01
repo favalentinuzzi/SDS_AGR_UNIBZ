@@ -2016,7 +2016,7 @@ A2.2.28;P;CHEMICALS;POTASSIUM HYDROXIDE;1;kg;VWR;1;0489;https://it.vwr.com/asset
 A2.2.28;P;CHEMICALS;POTASSIUM PHOSPHATE DIBASIC ;1000+ 250 + 250;g;SIGMA ALDRICH;1;P3786-1kg;https://www.sigmaaldrich.com/IT/en/sds/sigald/p3786?userType=anonymous
 A2.2.28;R;CHEMICALS;D+RAFFINOSE PENTAHYDRATE;25;g;SIGMA;1;R0250;https://www.sigmaaldrich.com/IT/en/sds/sigma/r0250?userType=anonymous
 A2.2.28;S;CHEMICALS;SODIUM BICARBONATE;1;kg;SIGMA;1;S5761;https://www.sigmaaldrich.com/IT/en/sds/sigma/s5761?userType=anonymous
-A2.2.28;S;CHEMICALS;SODIUM CARBONATE;1;kg;MERCK;1;1.06392;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06392?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM CARBONATE;1;kg;MERCK;1;106.392;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06392?userType=anonymous
 A2.2.28;S;CHEMICALS;SODIUM CHLORIDE;1;kg;PANREAC APPLICHEM;1;1316591211;https://www.itwreagents.com/download_file/sds/131659/gb/sds_131659_en.pdf
 A2.2.28;S;CHEMICALS;SODIUM CITRATE DIHYDRATE;1;kg;SIGMA ALDRICH;1;W302600;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w302600?userType=anonymous
 A2.2.28;D;CHEMICALS;DI-SODIUM HYDROGEN PHOPSPHATE DIHYDRATE;500;g;MERCK;1;1065800500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06580?userType=anonymous
@@ -2096,3 +2096,53 @@ A2.2.28;T;+ 4°C;THIAMINE HYDROCHLORIIDEBIOCHEMICA;50;g;PANREAC;1;A0955;https://
 A2.2.28;T;+ 4°C;TTC SOLUTION 1%;5*10;mL;HIMEDIA;1;FD057-5VL;https://www.himediadownloads.com/MSDS/FD057.pdf
 A2.2.28;V;+ 4°C;VITAMIN B12;1;g;SIGMA ALDRICH;1;V6629;https://www.sigmaaldrich.com/IT/en/sds/sigma/v6629?userType=anonymous
 A2.2.28;V;+ 4°C;VITAMIN B12;250;mg;SIGMA ALDRICH;2;V6629;https://www.sigmaaldrich.com/IT/en/sds/sigma/v6629?userType=anonymous
+A2.2.29;A;Chemicals;ALUMINIUM CHLORIDE ANHYDROUS;1;kg;VWR;1;21031293;https://it.vwr.com/assetsvc/asset/en_GB/id/7666281/contents
+A2.2.29;E;Chemicals;ETHYLENEDIAMINETETRAACETIC ACID;1;kg;Alfa Aesar;1;A10713;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAAA10713~~PDF~~MTR~~CLP1~~EN~~2024-02-03%2020:48:39~~Ethylenediaminetetraacetic%20acid~~
+A2.2.29;E;Chemicals;ETHYLENEDIAMINETETRAACETIC ACID;500;g;Sigma;1;101994254;https://www.sigmaaldrich.com/IT/en/sds/sigma/e6758?userType=anonymous
+A2.2.29;E;Chemicals;ETHYLHEXADECYLDIMETHYLAMMONIUM BROMIDE;100;g;MERCK;1;818424;https://www.sigmaaldrich.com/IT/en/sds/mm/8.18424?userType=anonymous
+A2.2.29;L;Chemicals;light green sf yellowish crystalline ;25;g;siGMA ALDRICH;1;L5382;https://www.sigmaaldrich.com/IT/en/sds/sial/l5382?userType=anonymous
+A2.2.29;M;Chemicals;MAGNESIUM CHLORIDE HEXAHYDRATE;500;g;SIGMA;1;M2393;https://www.sigmaaldrich.com/IT/en/sds/sigma/m2393?userType=anonymous
+A2.2.29;M;Chemicals;MOPS;25;g;SIGMA ALDRICH;1;69947;https://www.sigmaaldrich.com/IT/en/sds/sial/69947?userType=anonymous
+A2.2.29;M;Chemicals;MOPS;25;g;SIGMA ALDRICH;1;M1254;https://www.sigmaaldrich.com/IT/en/sds/sigma/m1254?userType=anonymous
+A2.2.29;P;Chemicals;POTASSIUM CHLORIDE ;1;kg;CARLO ERBA;1;471177;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/Potassium-chloride-RPE---For-analysis---ISO---ACS---Reag-Ph-Eur---Reag-USP/p/142500AA03050
+A2.2.29;P;Chemicals;POTASSIUM DIHYDROGEN PHOSPHATE;1;kg;CL Chem-Lab;2;CL00.1146.1000;https://www.chem-lab.be/en-gb/prod/1393515
+A2.2.29;P;Chemicals;POTASSIUM HYDROXIDE;500;g;Merck;1;1050330500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.05033?userType=anonymous
+A2.2.29;P;Chemicals;POTASSIUM PHOSPHATE DIBASIC (Di-POTASSIUM HYDROGEN PHOSPHATE);500;g;Acros ;1;424195000;https://www.sigmaaldrich.com/IT/en/sds/sigald/p3786?userType=anonymous
+A2.2.29;P;Chemicals;POTASSIUM PHOSPHATE DIBASIC (Di-POTASSIUM HYDROGEN PHOSPHATE);1;kg;Merck;1;1051041000;https://www.sigmaaldrich.com/IT/en/sds/mm/1.05104?userType=anonymous
+A2.2.29;P;Chemicals;POTASSIUM PHOSPHATE DIBASIC TRIHYDRATE;250;g;Sigma;1;60349-250g-M;https://www.sigmaaldrich.com/IT/en/sds/sial/60349-m?userType=anonymous
+A2.2.29;P;Chemicals;POTASSIUM PHOSPHATE MONOBASIC;1;kg;SIGMA;1;60220;https://www.sigmaaldrich.com/IT/en/sds/mm/529568?userType=anonymous
+A2.2.29;P;Chemicals;POTASSIUM PHOSPHATE MONOBASIC;500;g;Acros ;2;4242025000;https://www.sigmaaldrich.com/IT/en/sds/mm/529568?userType=anonymous
+A2.2.29;R;Chemicals;RNASE ZAP;250;mL;Sigma;1;R2020;https://www.sigmaaldrich.com/IT/en/sds/sigma/r2020?userType=anonymous
+A2.2.29;S;Chemicals;SODIUM ACETATE BUFFER SOLUTION;500;mL;SIGMA;1;S7899;https://www.sigmaaldrich.com/IT/en/sds/sigma/s7899?userType=anonymous
+A2.2.29;S;Chemicals;SODIUM DEOXYCHOLATE;25;g;SIGMA;1;30970;https://www.sigmaaldrich.com/IT/en/sds/sigma/30970?userType=anonymous
+A2.2.29;S;Chemicals;SODIUM DODECYL SULFATE;500;g;FISHER CHEMICAL;1;S/P530/53;https://www.fishersci.it/store/msds?partNumber=10509770&countryCode=IT&language=en
+A2.2.29;S;Chemicals;Sodium phosphate monobasic dihydrate;1;kg;siGMA;1;04269-1KG;https://www.sigmaaldrich.com/IT/en/sds/sigald/04269?userType=anonymous
+A2.2.29;R;Chemicals;RNA LATER;500;mL;THERMO FISHER;2;AM7021;https://www.sigmaaldrich.com/IT/en/sds/sigma/r0901?userType=anonymous
+A2.2.29;T;Chemicals;TRIS;1;kg;VWR;1;103156X;https://it.vwr.com/assetsvc/asset/en_GB/id/7667805/contents/7667805.pdf
+A2.2.29;T;Chemicals;TRIS EDTA BUFFER for molecular biology pH 8.0;500;mL;Thermo scientific;1;327345000;https://www.fishersci.it/store/msds?partNumber=10586441&countryCode=IT&language=en
+A2.2.29;T;Chemicals;TRITON X-100;100;mL;siGMA ALDRICH;1;T8787;https://www.sigmaaldrich.com/IT/en/sds/sigma/t8787?userType=anonymous
+A2.2.38;S;SHIME;Sodium Hydroxide;5;kg;VWR (BDH Chemicals);1;28240,361;https://it.vwr.com/assetsvc/asset/en_GB/id/7668668/contents
+A2.2.38;A;SHIME;Ammonium carbonate;1;kg;Sigma - Aldrich;3;207861;https://www.sigmaaldrich.com/IT/en/sds/sigald/207861?userType=anonymous
+A2.2.38;M;SHIME;Magnesium Chloride Hexahydrate;1;kg;Merck;2;1.05833.1000;https://www.sigmaaldrich.com/IT/en/sds/mm/1.05833?userType=anonymous
+A2.2.38;C;SHIME;Calcium Chloride Dihydrate;1;kg;Sigma - Aldrich;2;C3881;https://www.sigmaaldrich.com/IT/en/sds/sigald/c3881?userType=anonymous
+A2.2.38;B;SHIME;Bile bovine;500; g;Sigma - Aldrich;1;B3883;https://www.sigmaaldrich.com/IT/en/sds/sial/b3883?userType=anonymous
+A2.2.38;O;SHIME;Oxygall ;500;g;Becton, Dickinson and Company;7;212829;https://us.vwr.com/assetsvc/asset/en_US/id/9102031/contents/9102031.pdf
+A2.2.38;C;SHIME;Calcium Chloride Dihydrate;1; kg;Honeywell | Fluka;1;31307;https://lab.honeywell.com/sm/api/rc/documents/download/31307-1KG_SDS_GB_E?appId=76&catNo=31307-1KG&matnr=10191128&lang=E&country=GB&type=SDS
+A2.2.38;P;SHIME;Potassium Chloride;1;kg;Sigma - Aldrich;2;P9541;https://www.sigmaaldrich.com/IT/en/sds/sigma/p9541?userType=anonymous
+A2.2.38;P;SHIME;Potassium Chloride;1;kg;Honeywell | Fluka;1;12636;https://lab.honeywell.com/sm/api/rc/documents/download/12636-1KG_SDS_IT_I?appId=76&catNo=12636-1KG&matnr=10094185&lang=I&country=IT&type=SDS
+A2.2.38;L;SHIME;Lecithin ;250; g;Roth;3;L03648630;https://www.carloerbareagents.com/cerstorefront/medias/CH2198-GB.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3wxOTgyMzd8YXBwbGljYXRpb24vcGRmfGFEWTNMMmc0TkM4eE5UUTNNemsxTXpZek5qTTRNaTlEU0RJeE9UaGZSMEl1Y0dSbXw3NWM1ODZkYjMzY2JjYWFkMTJhMjc3YTQxZjEyZTFlZTc0MjYwNmQ0ZjMwMTllNzk5YzVjNDViOWYzYmI5NTc0&attachment=true
+A2.2.38;S;SHIME;Starch from corn;1;kg;Roth;3;9444,1;https://www.carlroth.com/medias/SPEZ-9444-EN.pdf?context=bWFzdGVyfHNwZWNpZmljYXRpb25zfDIxNDA0MXxhcHBsaWNhdGlvbi9wZGZ8aGNhL2gyNC85MTM0OTk4Mzg4NzY2L1NQRVpfOTQ0NF9FTi5wZGZ8N2RkMmVlZWEyM2NmZDk4MGI4ZTE2YzJlOTMwYjk1NTc4MjZmOWRhOWVmZjA2ZTkzMmM2MmU3ODk5MzExZTQ0OA
+A2.2.38;X;SHIME;Xylan from beechwood;10; g;Roth;6;4414,2;https://www.carlroth.com/medias/SDB-4414-GB-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyMjc5Njh8YXBwbGljYXRpb24vcGRmfHNlY3VyaXR5RGF0YXNoZWV0cy9oODMvaDA3LzkwNjE2MDI1MjUyMTQucGRmfGU4ODk3N2ZlNjg4MzdhZDM1MDM4ZmU1YTJiMDUyZDFkOWQ3MjNlZjZkOTgyNTQ3M2MzNDBlMmMxODNjZGM0MzM
+A2.2.38;S;SHIME;Sodium Chloride;1; kg;Honeywell | Fluka;1;31434;https://lab.honeywell.com/sm/api/rc/documents/download/31434-1KG_SDS_GB_E?appId=76&catNo=31434-1KG&matnr=10191183&lang=E&country=GB&type=SDS
+A2.2.38;A;SHIME;Arabinogalactan (+);100; g;Sigma - Aldrich;1;10830;https://www.sigmaaldrich.com/IT/en/sds/sigma/10830?userType=anonymous
+A2.2.38;P;SHIME;Potassium Phosphate Monobasic;1; kg;Merck;1;60220;https://www.sigmaaldrich.com/IT/en/sds/sial/60220-m?userType=anonymous
+A2.2.38;P;SHIME;Potassium Phosphate Monobasic;1; kg;Honeywell | Fluka;1;4243;https://lab.honeywell.com/sm/api/rc/documents/download/04243-1KG_SDS_GB_E?appId=76&catNo=04243-1KG&matnr=10185607&lang=E&country=GB&type=SDS
+A2.2.38;A;SHIME;Arabinogalactan (+);25; g;Sigma - Aldrich;1;10830;https://www.sigmaaldrich.com/IT/en/sds/sigma/10830?userType=anonymous
+A2.2.38;C;SHIME;L-cysteine hydrochloride;50; g;Sigma - Aldrich;1;30120;https://www.sigmaaldrich.com/IT/en/sds/sigma/30120?userType=anonymous
+A2.2.38;G;SHIME;D-(+)-Glucose monohydrate;1;kg;Sigma - Aldrich;1;49159;https://www.sigmaaldrich.com/IT/en/sds/sial/49159?userType=anonymous
+A2.2.38;S;SHIME;Sodium Carbonate;1;kg;Sigma - Aldrich;1;791768;https://www.sigmaaldrich.com/IT/en/sds/sigald/791768?userType=anonymous
+A2.2.38;M;SHIME;Magnesium chloride hexahydrate;500;g;Sigma - Aldrich;1;M2393;https://www.sigmaaldrich.com/IT/en/sds/sigma/m2393?userType=anonymous
+A2.2.38;S;SHIME;Sodium Hydroxide;5;kg;Merck;1;1.06.462.5000;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06462?userType=anonymous
+A2.2.38;S;SHIME;Sodium phospate monobasic monohydrate ;500;g;Sigma - Aldrich;1;S9638;https://www.sigmaaldrich.com/IT/en/sds/sigald/s9638?userType=anonymous
+A2.2.38;P;SHIME;Potassium Dihydrogen phosphate;1;kg;VWR chemicals;1;26936,293;https://it.vwr.com/assetsvc/asset/en_GB/id/7669769/contents
+A2.2.38;A;SHIME;Amylose from potato;1;g;Merck;1;A0512;https://www.sigmaaldrich.com/IT/en/sds/sigma/a0512?userType=anonymous
