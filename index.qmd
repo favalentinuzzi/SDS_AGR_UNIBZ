@@ -45,6 +45,7 @@ title: "Laboratories of the Faculty of Agricultural, Environmental and Food Scie
 - BZ-NOI-A2 2.05 - Dairy Center
 - BZ-NOI-A2 2.07 - Vegetable Fermentation
 - BZ-NOI-A2 2.13 - Food Physics Lab
+- [BZ-NOI-A2 2.15](BZ_A2215.qmd) - Technicians Office
 - BZ-NOI-A2 2.25 - Advanced Technologies Lab
 - BZ-NOI-A2 2.26 - Food Chemistry Lab
 - [BZ-NOI-A2 2.27](BZ_A2227.qmd) - Phenomics & Metabolomics
