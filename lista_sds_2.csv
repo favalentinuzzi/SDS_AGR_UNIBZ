@@ -1915,7 +1915,7 @@ A2.2.15;P;;2- PROPANOL ACS, 99.8% (GC);2,5;L;HONEYWELL;1;33539;https://www.honey
 A2.2.15;P;;2-PROPANOL CHROMASOLV LC-MS;2,5;L;HONEYWELL;2;34964;https://www.honeywellmsds.com/ehswww/hon/result/wait.jsp?P_LANGU=E&P_SYS=1&P_SSN=3491&P_REP=00000000000000000046&P_RES=925&P_SPEC=R
 A2.2.15;P;;2-PROPANOL LICHROSOLV for liquid chromatography;2,5;L;MERCK;1;101040,25;https://www.sigmaaldrich.com/IT/en/sds/mm/1.01040?userType=anonymous
 A2.2.15;A;;ACETIC ACID 99.8%;2,5;L;hONEYWELL;1;33209-2.5;https://lab.honeywell.com/sm/api/rc/documents/download/33209-2.5L_SDS_US_E?appId=7868&catNo=33209-2.5L&matnr=10192250&lang=E&country=US&type=SDS
-A2.2.15;A;;ACETIC ACID 99-100%;1;L;SIGMA ALDRICH;1;8.18755.1000;https://www.sigmaaldrich.com/IT/en/sds/mm/8.18755?userType=anonymous
+A2.2.15;A;;ACETIC ACID 99-100%;1;L;SIGMA ALDRICH;1;8.187.551.000;https://www.sigmaaldrich.com/IT/en/sds/mm/8.18755?userType=anonymous
 A2.2.15;A;;ACETONE FOR SPECTROSCOPY;2,5;L;VWR;1;84700,32;https://it.vwr.com/assetsvc/asset/en_GB/id/9815572/contents/9815572.pdf
 A2.2.15;A;;ACETONE FOr hplc;1;L;vWR;2;20067,29;https://it.vwr.com/assetsvc/asset/en_GB/id/7668864/contents/7668864.pdf
 A2.2.15;A;;ACETONE;1;L;ACROS ORGANIC-VWR;2;ACRO447450010;https://it.vwr.com/store/catalog/product.jsp?catalog_number=ACRO447450010
@@ -1925,7 +1925,7 @@ A2.2.15;A;;ACETONITRILE HYPERGRADE (LC/MS);2,5;L;hONEYWELL;2;34967-2.5;https://w
 A2.2.15;B;;BORIC ACID;2;kg;ACROS ORGANIC-VWR;1;423480020;https://it.vwr.com/store/catalog/product.jsp?catalog_number=ACRO447450010
 A2.2.15;C;;CHLOROFORM for liquid chromatography;2,5;L;Merck-Supelco;2+ 1 me lo deve la Ksenia;102444;https://www.sigmaaldrich.com/IT/en/sds/mm/1.02444?userType=anonymous
 A2.2.15;D;;DIETHYL ETHER;1;L;Merck;1;1009311000;https://www.sigmaaldrich.com/IT/en/sds/mm/1.00931?userType=anonymous
-A2.2.15;E;;ETHANOL ABSOLUTE ;2,5;L;VWR;3;20821.330;https://it.vwr.com/assetsvc/asset/en_GB/id/7669152/contents/7669152.pdf
+A2.2.15;E;;ETHANOL ABSOLUTE ;2,5;L;VWR;3;20.821.330;https://it.vwr.com/assetsvc/asset/en_GB/id/7669152/contents/7669152.pdf
 A2.2.15;E;;ETHANOL CHROMASOLV;2,5;L;hONEYWELL;0;2855-2.5l;https://www.honeywellmsds.com/ehswww/hon/result/report.jsp?P_LANGU=E&P_SYS=1&P_SSN=3514&P_REP=00000000000000000055&P_RES=934
 A2.2.15;E;;ETHANOL ABSOLUTE FOR ANALYSIS ACS, ISO;2,5;L;MERCK;0;100983,25;https://www.sigmaaldrich.com/IT/en/sds/mm/1.00983?userType=anonymous
 A2.2.15;E;;ETHANOL ABSOLUTE FOR ANALYSIS ACS, ISO;2,5;L;hONEYWELL;0;02860-2.5;https://www.fishersci.it/store/msds?partNumber=12468750&countryCode=IT&language=en
@@ -1935,7 +1935,164 @@ A2.2.15;F;;FoRMIC ACID 99-100%;1;L;Chem-Lab;1;1305,1;https://www.chem-lab.be/en-
 A2.2.15;H;;HEXANE 99% GC;2,5;L;hONEYWELL;6;32293-2.5;https://www.honeywellmsds.com/ehswww/hon/result/report.jsp?P_LANGU=E&P_SYS=1&P_SSN=4070&P_REP=00000000000000000044&P_RES=955
 A2.2.15;M;;METHANOL ACS REAGENT 99.8 %;2,5;L;HONEYWELL;1;32213;https://www.honeywellmsds.com/ehswww/hon/result/report.jsp?P_LANGU=E&P_SYS=1&P_SSN=4075&P_REP=00000000000000000034&P_RES=956
 A2.2.15;M;;METHANOL FOR LC-MS;2,5;L;HONEYWELL;1;34966-2.5L;https://www.honeywellmsds.com/ehswww/hon/result/report.jsp?P_LANGU=E&P_SYS=1&P_SSN=4075&P_REP=00000000000000000034&P_RES=956
-A2.2.15;M;;METHANOL for LC-MS;2,5;L;Merck;3;106035.2500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06035?userType=anonymous
+A2.2.15;M;;METHANOL for LC-MS;2,5;L;Merck;3;1.060.352.500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06035?userType=anonymous
 A2.2.15;D;;N,N Dimethylformamide;1;L;hONEYWELL;2;33120-1L;https://www.honeywellmsds.com/ehswww/hon/result/report.jsp?P_LANGU=E&P_SYS=1&P_SSN=4077&P_REP=00000000000000000033&P_RES=957
 A2.2.15;P;;PETROLEUM ETHER PURISS;2,5;L;HONEYWELL;2;32299-2.5L;https://lab.honeywell.com/sm/api/rc/documents/download/32299-2.5L_SDS_JP_E?appId=7868&catNo=32299-2.5L&matnr=10191531&lang=E&country=JP&type=SDS
 A2.2.15;P;;PETROLEUM ETHER PURISSIMO;1;L;Merck;1;24587-1L-M;https://www.sigmaaldrich.com/IT/en/sds/sial/24587-m?userType=anonymous
+A2.2.28;A;MEDIA;ACETOBACTER AGAR (GLUCOSE);500;g;HIMEDIA;1;M238;https://www.himediadownloads.com/MSDS/M238.pdf
+A2.2.28;A;MEDIA;AGAR BACTERIOLOGICAL;500;g;OXOID;1;LP0011B;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FNZ-000981A_ASNZ_ANZ_EN.pdf
+A2.2.28;B;MEDIA;BACTERIOLOGICAL PEPTONE;500;g;OXOID;2;LP0037B;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FNZ-000733A_ASNZ_ANZ_EN.pdf
+A2.2.28;B;MEDIA;BACTO PEPTONE;500;g;BD;1;211677;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2F211677_MTR-EULT_BE.pdf
+A2.2.28;B;MEDIA;BACTO PROTEOSE PEPTONE No.3;500;g;GIBCO;1;211693;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2F211693_MTR-EULT_BE.pdf
+A2.2.28;B;MEDIA;BAIRD PARKER AGAR (ISO);500;g;OXOID;1;CM1127B;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;B;MEDIA;BAIRD PARKER AGAR BASE;500;g;OXOID;1;CM0275;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FNZ-000008_ASNZ_ANZ_EN.pdf
+A2.2.28;B;MEDIA;BRAIN HEART INFUSION BROTH;500;g;SIGMA ALDRICH;1 quasi finito;53286;https://www.sigmaaldrich.com/IT/en/sds/sial/53286?userType=anonymous
+A2.2.28;B;MEDIA;BRAIN HEART INFUSION BROTH;500;g;MP ;1;1002417;https://www.mpbio.com/media/document/file/sds/dest/m/p/_/m/s/d/s/_/1/0/0/2/4/MP_MSDS_1002417_US_EN.pdf
+A2.2.28;B;MEDIA;BSM BROTH;500;g;SIGMA ALDRICH;1;90273-500G-F;https://www.sigmaaldrich.com/IT/en/sds/sial/90273?userType=anonymous
+A2.2.28;C;MEDIA;COLUMBIA AGAR ;500;g;Merck;1;1002140500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.00214?userType=anonymous
+A2.2.28;C;MEDIA;CHROMOCULT COLIFORM AGAR;500;g;MERCK;1;1104260500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.10426?userType=anonymous
+A2.2.28;D;MEDIA;DEXTROSE BACTERIOLOGICAL GRADE;500;g;OXOID;1;LP0071;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FNZ-000733A_ASNZ_ANZ_EN.pdf
+A2.2.28;E;MEDIA;ENTEROCOCCUS DIFFERENTIAL AGAR BASE;500;g;HIMEDIA;1;M1896;https://www.himediadownloads.com/MSDS/M1896.pdf
+A2.2.28;G;MEDIA;GSP AGAR;500;g;SIGMA;1;50875;https://www.sigmaaldrich.com/IT/en/sds/sial/50875?userType=anonymous
+A2.2.28;K;MEDIA;Kf streptococcus agar;500;g;Merck;1;110707;https://www.sigmaaldrich.com/IT/en/sds/mm/1.10707?userType=anonymous
+A2.2.28;L;MEDIA;LAB-LEMCO POWDER;500;g;OXOID;1;LP0029;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FNZ-000990_ASNZ_ANZ_EN.pdf
+A2.2.28;L;MEDIA;LACTOSE;500;g;OXOID;2;LP0070;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FNZ-000733A_ASNZ_ANZ_EN.pdf
+A2.2.28;L;MEDIA;LAURYL SULFATE BROTH;500;g;SIGMA;1;61749;https://www.sigmaaldrich.com/IT/en/sds/sial/61749?userType=anonymous
+A2.2.28;L;MEDIA;LB Broth;1;kg;SIGMA;1;L3022;https://www.sigmaaldrich.com/IT/en/sds/sigma/l3022?userType=anonymous
+A2.2.28;M;MEDIA;M17 AGAR;500;g;OXOID;;CM0785;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;M;MEDIA;M17 BROTH;500;g;OXOID;1;CM0817;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;M;MEDIA;MACCONKEY AGAR;500;g;OXOID;1;CM0007B;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;M;MEDIA;MALT EXTRACT BROTH;500;g;SIGMA;1;70146;https://www.sigmaaldrich.com/IT/en/sds/sial/70146?userType=anonymous
+A2.2.28;M;MEDIA;MALTOSE;500;g;BIOLIFE;1;41BAT0172;https://gest.joyadv.it/public/cartellina-allegati-schede-certificazioni/schede-sicurezza-inglese/SSE-41BAT0172.pdf
+A2.2.28;M;MEDIA;MANNITOL SALT AGAR;500;g;BIOLIFE;1;541665;https://gest.joyadv.it/public/cartellina-allegati-schede-certificazioni/schede-sicurezza-inglese/SSE-541665.pdf
+A2.2.28;M;MEDIA;MANNITOL SALT AGAR;500;g;OXOID;1;CM0085B;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;M;MEDIA;MRS BROTH;500;g;OXOID;1;CM0359;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;P;MEDIA;PEPTONE FROM Casein and other animal proteins;500;g;siGMA;;70173-500g;https://www.sigmaaldrich.com/IT/en/sds/sial/70173?userType=anonymous
+A2.2.28;P;MEDIA;PEPTONE FROM MEAT, ENZYMATIC DIGEST;1000;g;SIGMA;1;70175;https://www.sigmaaldrich.com/IT/en/sds/sial/70175?userType=anonymous
+A2.2.28;P;MEDIA;PEPTONE SPECIAL;500;g;SIGMA;1;68971;https://www.sigmaaldrich.com/IT/en/sds/sial/68971?userType=anonymous
+A2.2.28;P;MEDIA;PLATE COUNT AGAR;500;g;FLUKA;;70152;https://www.sigmaaldrich.com/IT/en/sds/sial/70152?userType=anonymous
+A2.2.28;P;MEDIA;PLATE COUNT AGAR;500;g;OXOID;6;CM0325;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;P;MEDIA;POTATO DEXTROSE AGAR;500;g;OXOID;1;CM0139;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;R;MEDIA;ROGOSA AGAR;500;g;OXOID ;1;CM0627;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;S;MEDIA;SABOURAUD DEXTROSE AGAR;500;g;OXOID;1;CM0041;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;S;MEDIA;SABOURAUD DEXTROSE BROTH;500;g;SIGMA;1;146366;https://www.sigmaaldrich.com/IT/en/sds/mm/1.46366?userType=anonymous
+A2.2.28;S;MEDIA;SKIM MILK ;500;g;OXOID;1;LP0031;
+A2.2.28;S;MEDIA;SLANETZ AND BARTLEY MEDIUM;500;g;OXOID;1;CM0377;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;S;MEDIA;STARCH FROM POTATO;500;g;Merck;1;S2004;https://www.sigmaaldrich.com/IT/en/sds/sial/s2004?userType=anonymous
+A2.2.28;S;MEDIA;STARCH SOLUBLE ACS REAGENT;250;g;Sigma;1;S9765;https://www.sigmaaldrich.com/IT/en/sds/sial/s9765?userType=anonymous
+A2.2.28;T;MEDIA;THIOGLYCOLLATE MEDIUM;500;g;BIOLIFE;1;4021372;https://gest.joyadv.it/public/cartellina-allegati-schede-certificazioni/schede-sicurezza-inglese/SSE-4021372.pdf
+A2.2.28;T;MEDIA;TRYPTIC SOY BROTH;500;g;BIOLIFE;1;4021552;https://gest.joyadv.it/public/cartellina-allegati-schede-certificazioni/schede-sicurezza-inglese/SSE-4021552.pdf
+A2.2.28;T;MEDIA;TRYPTONE;500;g;BIOLIFE;1;4122902;https://gest.joyadv.it/public/cartellina-allegati-schede-certificazioni/schede-sicurezza-inglese/SSE-4122902.pdf
+A2.2.28;T;MEDIA;TSC AGAR;500;g;SIGMA ALDRICH;1;93745;https://www.sigmaaldrich.com/IT/en/sds/sial/93745?userType=anonymous
+A2.2.28;V;MEDIA;VIOLET RED BILE GLUCOSE AGAR;500;g;OXOID;1;CM0485;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;W;MEDIA;WILKINS CHALGREN ANAEROBE AGAR;500;g;OXOID;1;CM0619;
+A2.2.28;W;MEDIA;WILKINS CHALGREN ANAEROBE BROTH;500;g;OXOID;1;CM0643;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;W;MEDIA;WL NUTRIENT AGAR;500;g;OXOID;1;CM0309B;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;W;MEDIA;WL NUTRIENT BROTH;500;g;OXOID;1;CM0501;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;W;MEDIA;WORT AGAR;500;g;OXOID;1;CM0247;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-000007_AUSD_ANZ_EN.pdf
+A2.2.28;Y;MEDIA;YEAST EXTRACT;500;g;OXOID;2;LP0021;
+A2.2.28;A;CHEMICALS;L-(+)-Arabinose;25;g;ACROS;1;365180250;https://www.fishersci.com/store/msds?partNumber=AC365180250&productDescription=L+-ARABINOSE+FOR+25GR&vendorId=VN00032119&countryCode=US&language=en
+A2.2.28;A;CHEMICALS;L-ASCORBIC ACID;250;g;SIGMA ALDRICH;1;95210-250g;https://www.sigmaaldrich.com/IT/en/sds/sial/95210?userType=anonymous
+A2.2.28;B;CHEMICALS;Bile salts;250;g;SIGMA ALDRICH;1;48305-250g;https://www.sigmaaldrich.com/IT/en/sds/sial/48305?userType=anonymous
+A2.2.28;C;CHEMICALS;CASEIN HYDROSYLATE;500;g;SIGMA ALDRICH;1;22090;https://www.sigmaaldrich.com/IT/en/sds/sial/22090?userType=anonymous
+A2.2.28;C;CHEMICALS;CASEIN FROM BOVINE MILK;500;g;SIGMA ALDRICH;1;C5679;https://www.sigmaaldrich.com/IT/en/sds/sigma/c5679?userType=anonymous
+A2.2.28;C;CHEMICALS;CALCIUM CARBONATE;2,5;kg;CaRLO ERBA;1;327002;https://www.carloerbareagents.com/cerstorefront/medias/CH0513-GB.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3wxOTgyNjF8YXBwbGljYXRpb24vcGRmfGFEbGhMMmcwTVM4eE5UUXlNVFF6TlRNME5qazNOQzlEU0RBMU1UTmZSMEl1Y0dSbXxiMjJmYWI1ZjE5Y2E5NjhmZmNmODMwNDMyYTEwM2I3OTdhY2U3MjQyNTQxYjVkYmI3ZWM5ZmY5NTA0NDNkMzkw&attachment=true
+A2.2.28;C;CHEMICALS;COPPER II SULFATE PENTAHYDRATE;250;g;Merck;1;1027900250;https://www.sigmaaldrich.com/IT/en/sds/mm/1.02790?userType=anonymous
+A2.2.28;G;CHEMICALS;D-(+)-GALACTOSE;100;g;SIGMA;1;48260;https://www.sigmaaldrich.com/IT/en/sds/sial/48260?userType=anonymous
+A2.2.28;G;CHEMICALS;D+ GLUCOSE;1;kg;siGMA;2;G7021-1kg;https://www.sigmaaldrich.com/IT/en/sds/sigma/g7021?userType=anonymous
+A2.2.28;G;CHEMICALS;D+ GLUCOSE;1;kg;MercK;1;108337,1;https://www.sigmaaldrich.com/IT/en/sds/sigma/g7021?userType=anonymous
+A2.2.28;G;CHEMICALS;Gelatin from porcine skin;500;g;Merck;1;G2500-500g;https://www.sigmaaldrich.com/IT/en/sds/sigma/g2500?userType=anonymous
+A2.2.28;G;CHEMICALS;GLYCEROL;1;L;Honeywell;1;15523-1L;https://lab.honeywell.com/sm/api/rc/documents/download/15523-1L_SDS_GB_E?appId=76&catNo=15523-1L&matnr=10188089&lang=E&country=GB&type=SDS
+A2.2.28;G;CHEMICALS;GLYCEROL;1;L;SIGMA ALDRICH;1;G7757;https://www.sigmaaldrich.com/IT/en/sds/sial/15523-m?userType=anonymous
+A2.2.28;F;CHEMICALS;D-FRUCTOSE;1;kg;SIGMA;1;F0127;https://www.sigmaaldrich.com/IT/en/sds/sigma/f0127?userType=anonymous
+A2.2.28;F;CHEMICALS;GLUTEN FROM WHEAT;500;g;SIGMA;1;G5004;https://www.sigmaaldrich.com/IT/en/sds/sigma/g5004?userType=anonymous
+A2.2.28;I;CHEMICALS;IRON (II) SULFATE HETAHYDRATE;1;kg;CARLO ERBA;1;451877;https://www.carloerbareagents.com/cerstorefront/medias/CH0529-GB.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3wzMDczOTZ8YXBwbGljYXRpb24vcGRmfGFESTRMMmhpTmk4eE5qQTBOemcyTURjME5ESXlNaTlEU0RBMU1qbGZSMEl1Y0dSbXw1YWZiYzI4NjNjOTg5ZjVmZjg2ZDM5Mzg3NTUxNDQyNGZkYzllYTZjY2YyNTBjMGRlYTg1YWI0ODA2NDRjZmJi&attachment=true
+A2.2.28;M;CHEMICALS;MANGANESE II SULFATE MONOHYDRATE FOR ANALYSIS;1;kg;CARLO ERBA;1;460307;https://www.carloerbareagents.com/cerstorefront/medias/CH0193-GB.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3w0ODA2Mzl8YXBwbGljYXRpb24vcGRmfGFHTXdMMmhoTWk4eE5UUXhNalUyTlRZM01UazJOaTlEU0RBeE9UTmZSMEl1Y0dSbXwwNTkyNWQ1ZDFkNDE0MWNmOTUwMGE0OTQ0MmM4YzY0Yjc4ZGE3NmJmZWJjOGU4ZjRhNmExNTU4ZDMxMTc1OGVk&attachment=true
+A2.2.28;M;CHEMICALS;MAGNESIUM SULFATE  ;1;kg;SIGMA ALDRICH;1;746452;https://www.sigmaaldrich.com/IT/en/sds/sigald/746452?userType=anonymous
+A2.2.28;M;CHEMICALS;MAGNESIUM SULFATE HEPTAHYDRATE;1;kg;CARLO ERBA;1;459667;https://www.carloerbareagents.com/cerstorefront/medias/CH0266-GB.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3wxOTkyNDl8YXBwbGljYXRpb24vcGRmfGFESXhMMmcwT1M4eE5UUXlNRE01TkRnNU56UXpPQzlEU0RBeU5qWmZSMEl1Y0dSbXw5OTEwNjk0MTg2ZDA4NDY4NWQwZGZiNGEzZTdmYjFiYWU4ZWI4ZDE2OTU2MGEzZDZiZjIzOWZhNzUyMDczNGI5&attachment=true
+A2.2.28;N;CHEMICALS;NINHYDRIN, A.C.S. REAGENT;25;g;SIGMA;1;151173;https://www.sigmaaldrich.com/IT/it/sds/sial/151173?userType=anonymous
+A2.2.28;P;CHEMICALS;PHOSPHATE BUFFER SALINE (PBS);100;tabLets;SIGMA ALDRICH;1;P4417;https://www.sigmaaldrich.com/IT/en/sds/sigma/p4417?userType=anonymous
+A2.2.28;P;CHEMICALS;POTASSIUM HYDROXIDE;1;kg;VWR;1;0489;https://it.vwr.com/assetsvc/asset/en_GB/id/23095365/contents
+A2.2.28;P;CHEMICALS;POTASSIUM PHOSPHATE DIBASIC ;1000+ 250 + 250;g;SIGMA ALDRICH;1;P3786-1kg;https://www.sigmaaldrich.com/IT/en/sds/sigald/p3786?userType=anonymous
+A2.2.28;R;CHEMICALS;D+RAFFINOSE PENTAHYDRATE;25;g;SIGMA;1;R0250;https://www.sigmaaldrich.com/IT/en/sds/sigma/r0250?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM BICARBONATE;1;kg;SIGMA;1;S5761;https://www.sigmaaldrich.com/IT/en/sds/sigma/s5761?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM CARBONATE;1;kg;MERCK;1;1.06392;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06392?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM CHLORIDE;1;kg;PANREAC APPLICHEM;1;1316591211;https://www.itwreagents.com/download_file/sds/131659/gb/sds_131659_en.pdf
+A2.2.28;S;CHEMICALS;SODIUM CITRATE DIHYDRATE;1;kg;SIGMA ALDRICH;1;W302600;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w302600?userType=anonymous
+A2.2.28;D;CHEMICALS;DI-SODIUM HYDROGEN PHOPSPHATE DIHYDRATE;500;g;MERCK;1;1065800500;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06580?userType=anonymous
+A2.2.28;D;CHEMICALS;DI-SODIUM HYDROGEN PHOPSPHATE;100;g;SIGMA ALDRICH;1;S5136-100g;https://www.sigmaaldrich.com/IT/en/sds/sigma/s5136?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM PHOSPHATE DIBASIC HEPTAHYDRATE;500;g;SIGMA ALDRICH;1;S9390-500g;https://www.sigmaaldrich.com/IT/en/sds/sigald/s9390?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM DiHYDROGEN PHOSPHATE MONOHYDRATE;500;g;SIGMA;1;S9638-500g;https://www.sigmaaldrich.com/IT/en/sds/sigald/s9638?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM NITRITE;500;g;SIGMA ALDRICH;1;237213;https://www.sigmaaldrich.com/IT/en/sds/sigald/237213?userType=anonymous
+A2.2.28;S;CHEMICALS;SODIUM TETRABORATE DECAHYDRATE;1;kg;ALDRICH;1;B9876;https://www.sigmaaldrich.com/IT/en/sds/sigald/b9876?userType=anonymous
+A2.2.28;S;CHEMICALS;D-SORBITOL;500;g;SIGMA;1;S1876;https://www.sigmaaldrich.com/IT/en/sds/sigma/s1876?userType=anonymous
+A2.2.28;S;CHEMICALS;Sucrose;1;kg;SIGMA;1;S7903;https://www.sigmaaldrich.com/IT/en/sds/sigma/s7903?userType=anonymous
+A2.2.28;T;CHEMICALS;TWEEN 80;1;L;SIGMA;1;P1754;https://www.sigmaaldrich.com/IT/en/sds/sial/p1754?userType=anonymous
+A2.2.28;U;CHEMICALS;UREA ;1;kg;SIGMA ALDRICH;1;U1250;https://www.sigmaaldrich.com/IT/en/sds/sial/u1250?userType=anonymous
+A2.2.28;X;CHEMICALS;D-Xylose;1;kg;sIGMA ALDRICH;1;W360620;https://www.sigmaaldrich.com/IT/en/sds/sial/w360620?userType=anonymous
+A2.2.28;Z;CHEMICALS;ZINC SULFATE HEPTAHYDRATE;500;g;MERCK;1;108883;https://www.sigmaaldrich.com/IT/en/sds/mm/1.08883?userType=anonymous
+A2.2.28;L;- 20°C;LYSOZYME FROM CHICKEN EGG;10;g;SIGMA ALDRICH;4;L6876;https://www.sigmaaldrich.com/IT/en/sds/sigma/l6876?userType=anonymous
+A2.2.28;C;- 20°C;Catechin;50;mg;CliniScience;3;A12029-50;
+A2.2.28;C;- 20°C;CLINDAMYCIN HIDROCHLORIDE;1;g;HELLO BIO;1;HB4364-1g;https://hellobio.com/product/index/supportingdocs/file/L29wdC9tYWdlbnRvL20yNDVfcHVibGljX2h0bWwvcHViL21lZGlhL2NhdGFsb2cvcHJvZHVjdC9wZGYvbmV3X3Nkcy9oYjQzNjRfLV9jbGluZGFteWNpbl9oeWRyb2NobG9yaWRlLnBkZg%3D%3D/
+A2.2.28;L;- 20°C;LYSOZYME FROM CHICKEN EGG;10;g;SIGMA ALDRICH;2;L6876;https://www.sigmaaldrich.com/IT/en/sds/sigma/l6876?userType=anonymous
+A2.2.28;L;- 20°C;LYTICASE FROM ARTHOBACTER LUTEUS;50;ku;SIGMA ALDRICH;1;L2524;https://www.sigmaaldrich.com/IT/en/sds/sigma/l2524?userType=anonymous
+A2.2.28;O;- 20°C;Oxyrase;100;mL;SIGMA ALDRICH;1;SAE0013-100 ml;No datasheet
+A2.2.28;N;- 20°C;Na-Benzoyl-L-Arginine-4 nitroanilide hydrochloride;100;mg;sIGMA ALDRICH;1;B3133-100mg;https://www.sigmaaldrich.com/IT/en/sds/sigma/b3133?userType=anonymous
+A2.2.28;B;- 20°C;N-Benzoyl-L-Tyrosine ethyl ester;5;g;SIGMA ALDRICH ;1;B6125-5g;https://www.sigmaaldrich.com/IT/en/sds/sigma/b6125?userType=anonymous
+A2.2.28;P;- 20°C;PANCREATIN FROM PORCINE PANCREAS;100;g;SIGMA ALDRICH;2;P1625;https://www.sigmaaldrich.com/IT/en/sds/sigma/p1625?userType=anonymous
+A2.2.28;P;- 20°C;PYRIDOXAL 5′-PHOSPHATE HYDRATE;;;SIGMA ALDRICH;2;P9255;https://www.sigmaaldrich.com/IT/en/sds/sigma/p9255?userType=anonymous
+A2.2.28;R;- 20°C;RPMI 1640 VITAMINS SOLUTION (100x);100;mL;SIGMA ALDRICH;1;R7256;https://www.sigmaaldrich.com/IT/en/sds/sigma/r7256?userType=anonymous
+A2.2.28;Z;- 20°C;Z-Gly-Gly-Leu p nitroanilide;25;mg;Sigma;1;C3022-25mg;Fuori produzione
+A2.2.28;D;- 20°C;DMSO;0,5;mL;Biolabs;1;4472301;https://biolab-biology.com/images/pdf_msds/044723_MSDS.pdf
+A2.2.28;T;+ 4°C;3,3,5,5-Tetramethylbenzidine;5;g;SIGMA ALDRICH ;1;860336;https://www.sigmaaldrich.com/IT/en/sds/aldrich/860336?userType=anonymous
+A2.2.28;H;+ 4°C;(+-)6-HYDROXY-2,5,7,8-TETRAMETHYL-CHROMANE-CARBOXYLIC ACID 97%;5;g;SIGMA ALDRICH ;1;238813;https://www.sigmaaldrich.com/IT/en/sds/aldrich/238813?userType=anonymous
+A2.2.28;D;+ 4°C;2,2-DIPHENYL-1- PICRYLHYDRAZYL (DPPH);5;g;SIGMA ALDRICH ;4;D9132 ;https://www.sigmaaldrich.com/IT/en/sds/aldrich/d9132?userType=anonymous
+A2.2.28;M;+ 4°C;2- MERCAPTOETHANOL;250;mL;SIGMA ALDRICH ;1;M6250;https://www.sigmaaldrich.com/IT/en/sds/aldrich/m6250?userType=anonymous
+A2.2.28;A;+ 4°C;A-AMYLASE FROM HOG PANCREAS;25;g;SIGMA ALDRICH ;8;10080;https://www.sigmaaldrich.com/IT/en/sds/sigma/10080?userType=anonymous
+A2.2.28;A;+ 4°C;A-AMYLASE HEAT STABLE;10;mL;SIGMA ALDRICH ;6;A3306;https://www.sigmaaldrich.com/IT/en/sds/sigma/a3306?userType=anonymous
+A2.2.28;A;+ 4°C;A-AMYLASE TYPE VI-B FROM PORCINE PANCREAS;500;KU;SIGMA ALDRICH ;4;A3176;https://www.sigmaaldrich.com/IT/en/sds/sigma/a3176?userType=anonymous
+A2.2.28;K;+ 4°C;A-KETOGLUCARIC ACID;100;g;SIGMA ALDRICH ;1;75890;https://www.sigmaaldrich.com/IT/en/sds/sial/75890?userType=anonymous
+A2.2.28;A;+ 4°C;AMPICILLIN-NA-SALT ;10;g;SERVA;1;1339901;https://www.serva.de/upload/msdssdb/13/sd_13399_GB_.pdf
+A2.2.28;A;+ 4°C;AMYLOGLUCOSIDASE FROM FROM ASPERGILLUS N;1;g;SIGMA ALDRICH;3;10113;https://www.sigmaaldrich.com/IT/en/sds/sigma/10113?userType=anonymous
+A2.2.28;A;+ 4°C;AMYLOGLUCOSIDASE FROM FROM ASPERGILLUS N;50;mL;SIGMA ALDRICH;2;A7095;https://www.sigmaaldrich.com/IT/en/sds/sigma/a7095?userType=anonymous
+A2.2.28;A;+ 4°C;AMYLOGLUCOSIDASE SOLUTION FROM FROM ASPERGILLUS N;10;mL;SIGMA ALDRICH;2;A9913;https://www.sigmaaldrich.com/IT/en/sds/sial/a9913?userType=anonymous
+A2.2.28;A;+ 4°C;AMYLOGLUCOSIDASE ;500;U;Roche;1;11202332001;https://www.sigmaaldrich.com/IT/it/sds/roche/roamygll?userType=anonymous
+A2.2.28;B;+ 4°C;BRADFORD SOLUTION FOR PROTEIN DETERMINATION;500;mL;PANREAC;1;A6932,0500;https://www.itwreagents.com/download_file/sds/A6932/eu/sds_A6932_en.pdf
+A2.2.28;B;+ 4°C;BRADFORD REAGENT FOR 0.1-1.4 MG/ML PROT;500;mL;SIGMA ALDRICH;2;B6916;https://www.sigmaaldrich.com/IT/en/sds/sigma/b6916?userType=anonymous
+A2.2.28;B;+ 4°C;BSM SUPPLEMENT;5;g;SIGMA ALDRICH;1;83055-5G-F;https://www.sigmaaldrich.com/IT/en/sds/sial/83055?userType=anonymous
+A2.2.28;B;+ 4°C;BOVINE SERUM ALBUMIN Lyophilized powder 96%;50;g;SIGMA ALDRICH;1;A2153;https://www.sigmaaldrich.com/IT/en/sds/sigma/a2153?userType=anonymous
+A2.2.28;C;+ 4°C;CHLORAMPHENICOL;25;g;SIGMA ALDRICH;1;C0378;https://www.sigmaaldrich.com/IT/en/sds/sigma/c0378?userType=anonymous
+A2.2.28;C;+ 4°C;Cysteamine s phosphate sodium ;50;mg;sigma;1;C8397;https://www.sigmaaldrich.com/IT/en/sds/sial/c8397?userType=anonymous
+A2.2.28;C;+ 4°C;L-Cysteine hydrochloride hydrate;100;g;Sigma;1;C121800;https://www.sigmaaldrich.com/IT/en/sds/aldrich/c121800?userType=anonymous
+A2.2.28;C;+ 4°C;CYCLOHEXIMIDE from microbial ≥94% (TLC);5;g;SIGMA ALDRICH;2;C7698;https://www.sigmaaldrich.com/IT/en/sds/sigma/c7698?userType=anonymous
+A2.2.28;D;+ 4°C;DL-DITHIOTHREITOL;5;g;SIGMA ALDRICH;2;43819;https://www.sigmaaldrich.com/IT/en/sds/sigma/43819?userType=anonymous
+A2.2.28;D;+ 4°C;DL-DITHIOTHREITOL;5;g;ACROS ORGANICS;1;A165680050;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR16568~~PDF~~MTR~~CGV4~~EN~~2023-08-07%2006:39:31~~DL-1%204-Dithiothreitol~~
+A2.2.28;P;+ 4°C;D-PANTOTHENIC ACID HEMICALCIUM SALT;100;g;SIGMA ALDRICH;1;P5155;https://www.sigmaaldrich.com/IT/en/sds/sigma/p5155?userType=anonymous
+A2.2.28;E;+ 4°C;EGG YOLK-TELLURITE EMULSION;100;mL;OXOID;6;SR0054C;https://tools.thermofisher.com/content/sfs/brochures/BT-SPEC-0575.pdf
+A2.2.28;F;+ 4°C;FLUORESCEIN ISOTHIOCYANATE ISOMER I;500;mg;SIGMA ALDRICH;1;F7250;https://www.sigmaaldrich.com/IT/en/sds/sigma/f7250?userType=anonymous
+A2.2.28;G;+ 4°C;GLYCOGEN FROM OYSTER;25;g;SIGMA ALDRICH;1;G8751-25g;https://www.sigmaaldrich.com/IT/en/sds/sigma/g8751?userType=anonymous
+A2.2.28;G;+ 4°C;GLYCEROL-3-PHOSPHATE DEHYDROGENASE (GDH);10;mg;SIGMA ALDRICH;1;10127752001;https://www.sigmaaldrich.com/IT/it/sds/roche/gdh-ro?userType=anonymous
+A2.2.28;H;+ 4°C;HYDROGEN PEROXIDE SOLUTION;500;mL;SIGMA ALDRICH;1;516813;https://www.sigmaaldrich.com/IT/en/sds/sigald/516813?userType=anonymous
+A2.2.28;H;+ 4°C;HYDROGEN PEROXIDE 30%;500;mL;ACROS ORGANICS;1;411881000;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR41188~~PDF~~MTR~~CGV4~~EN~~2022-04-04%2015:54:42~~Hydrogen%20peroxide%20%2030%20wt.%%20solution%20in%20water%20%20nonstabilized~~
+A2.2.28;L;+ 4°C;L-LEUCINE P_NITROANILIDE FREE BASE;500;mg;SIGMA ALDRICH;1;L9125;https://www.sigmaaldrich.com/IT/en/sds/sigma/l9125?userType=anonymous
+A2.2.28;L;+ 4°C;LIPASE FROM PORCINE PANCREAS;100;g;SIGMA ALDRICH;2;L3126;https://www.sigmaaldrich.com/IT/en/sds/sigma/l3126?userType=anonymous
+A2.2.28;P;+ 4°C;L-PROLINE P-NITROANILIDE TRIFLUOROACETATE SALT;1;g;SIGMA ALDRICH;3;P5267;https://www.sigmaaldrich.com/IT/en/sds/sigma/p5267?userType=anonymous
+A2.2.28;M;+ 4°C;METRONIDAZOLE;1;g;MP;1;02155710-CF;https://www.mpbio.com/media/document/file/sds/dest/m/p/_/m/s/d/s/_/1/5/5/7/1/MP_MSDS_155710_GB_EN.pdf
+A2.2.28;M;+ 4°C;MUCIN;1;kg;Carl ROTH;2;8494,7;https://www.carlroth.com/medias/SDB-8494-EN-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wxNTUyOXxhcHBsaWNhdGlvbi9wZGZ8c2VjdXJpdHlEYXRhc2hlZXRzL2g4OS9oMzcvODk2OTUzNDg5ODIwNi5wZGZ8YWE4ODkwNjJlNTQ1MjRhYzhkZDY5YTVmNTI3OWJlNDU0ZmI4ZGVkY2Y3NzhiYjM5ZDc2Nzk2YTIzZDVlYjQ5YQ
+A2.2.28;N;+ 4°C;Ninhydrin reagent 2%;100;mL;sigma aldrich;1;N7285;https://www.sigmaaldrich.com/IT/en/sds/sigma/n7285?userType=anonymous
+A2.2.28;N;+ 4°C;P nitrophenyl phosphate, DiTris salt;5;g;sigma;1;487655-5gm;https://www.sigmaaldrich.com/IT/en/sds/mm/487655?userType=anonymous
+A2.2.28;P;+ 4°C;PEPSIN FROM PORCINE GASTRIC MUCOSA;100;g;SIGMA ALDRICH;6;P7125;https://www.sigmaaldrich.com/IT/en/sds/sigma/p7125?userType=anonymous
+A2.2.28;P;+ 4°C;PHENOL FOR MOLECULAR BIOLOGY;500;g;sigma aldrich;5;P1037;https://www.sigmaaldrich.com/IT/en/sds/sial/p1037?userType=anonymous
+A2.2.28;P;+ 4°C;PHENOL EQUILIBRATED, STABILIZED :CHLORO 1;500;mL;VWR;3;A0889.0500;https://www.itwreagents.com/download_file/sds/A0889/eu/sds_A0889_en.pdf
+A2.2.28;P;+ 4°C;PHTALDIALDEHYDE for fluorometry;;;merck;1;111452;https://www.sigmaaldrich.com/IT/en/sds/mm/1.11452?userType=anonymous
+A2.2.28;P;+ 4°C;PHTHALDIALDEHYDE ≥97%HPLC;5;g;SIGMA ALDRICH;2;P1378;https://www.sigmaaldrich.com/IT/en/sds/sigma/p1378?userType=anonymous
+A2.2.28;P;+ 4°C;PROTEASE FROM BACILLUS LICHENIFORMIS;500;mg;SIGMA ALDRICH;4;P3910;https://www.sigmaaldrich.com/IT/en/sds/sigma/p3910?userType=anonymous
+A2.2.28;P;+ 4°C;PYRIDOXAL 5′-PHOSPHATE MONOHYDRATE;5 + 1 g;g;SIGMA ALDRICH;1;82870;https://www.sigmaaldrich.com/IT/en/sds/sigma/82870?userType=anonymous
+A2.2.28;R;+ 4°C;RPMI- 1640 medium;1;L;SIGMA ALDRICH;1;R8758;https://www.sigmaaldrich.com/IT/en/sds/sigma/r8758?userType=anonymous
+A2.2.28;S;+ 4°C;SODIUM LACTATE;100;g;PANREAC;2;A1004,0100;https://www.itwreagents.com/download_file/sds/A1004/eu/sds_A1004_en.pdf
+A2.2.28;S;+ 4°C;SODIUM PYRUVATE;25;g;SIGMA ALDRICH;1;P2256;https://www.sigmaaldrich.com/IT/en/sds/sial/p2256?userType=anonymous
+A2.2.28;S;+ 4°C;SODIUM PYRUVATE;100;g;SIGMA ALDRICH;1;P2256;https://www.sigmaaldrich.com/IT/en/sds/sial/p2256?userType=anonymous
+A2.2.28;T;+ 4°C;THIAMINE HYDROCHLORIIDEBIOCHEMICA;50;g;PANREAC;1;A0955;https://www.itwreagents.com/download_file/sds/A0955/eu/sds_A0955_en.pdf
+A2.2.28;T;+ 4°C;TTC SOLUTION 1%;5*10;mL;HIMEDIA;1;FD057-5VL;https://www.himediadownloads.com/MSDS/FD057.pdf
+A2.2.28;V;+ 4°C;VITAMIN B12;1;g;SIGMA ALDRICH;1;V6629;https://www.sigmaaldrich.com/IT/en/sds/sigma/v6629?userType=anonymous
+A2.2.28;V;+ 4°C;VITAMIN B12;250;mg;SIGMA ALDRICH;2;V6629;https://www.sigmaaldrich.com/IT/en/sds/sigma/v6629?userType=anonymous
