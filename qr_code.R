@@ -100,3 +100,7 @@ qr_code_A2303f <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_A23
 
 generate_svg(qrcode = qr_code_A2303f, filename = "A2303f.svg", size = 500, show = FALSE)
 
+
+qr_code_E111 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_E111.html")
+
+generate_svg(qrcode = qr_code_E111, filename = "E111.svg", size = 500, show = FALSE)
