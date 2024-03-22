@@ -28,7 +28,7 @@ subset_by_letter <- function(data, letter) {
 tab_reagenti <- function(input) {
   output <- input %>%
     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
-    select(-c(1,2,3,5,6,8,10)) %>%
+    select(-c(1,2,5,6,8,10)) %>%
     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
   
@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 08 / 09 / 2023
+Last update: 22 / 03 / 2024
 
 ------------------------------------------------------------------------
 
@@ -214,13 +214,13 @@ tab_reagenti(letter_F)
 
 ```
 
-<!-- ### G -->
+### G
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_G) -->
+tab_reagenti(letter_G)
 
-<!-- ``` -->
+```
 
 ### H
 
@@ -254,13 +254,13 @@ tab_reagenti(letter_I)
 
 <!-- ``` -->
 
-<!-- ### L -->
+### L
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_L) -->
+tab_reagenti(letter_L)
 
-<!-- ``` -->
+```
 
 ### M
 
@@ -358,18 +358,18 @@ tab_reagenti(letter_V)
 
 <!-- ``` -->
 
-<!-- ### Y -->
+### Y
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Y) -->
+tab_reagenti(letter_Y)
 
-<!-- ``` -->
+```
 
-<!-- ### Z -->
+### Z
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Z) -->
+tab_reagenti(letter_Z)
 
-<!-- ``` -->
+```
