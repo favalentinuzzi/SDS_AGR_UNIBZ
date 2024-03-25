@@ -46,10 +46,10 @@ title: "Laboratories of the Faculty of Agricultural, Environmental and Food Scie
 - BZ-NOI-A2 2.07 - Vegetable Fermentation
 - BZ-NOI-A2 2.13 - Food Physics Lab
 - [BZ-NOI-A2 2.15](BZ_A2215.qmd) - Technicians Office
-- BZ-NOI-A2 2.25 - Advanced Technologies Lab
-- BZ-NOI-A2 2.26 - Food Chemistry Lab
+- [BZ-NOI-A2 2.25](BZ_A2225.qmd) - Advanced Technologies Lab
+- [BZ-NOI-A2 2.26](BZ_A2226.qmd) - Food Chemistry Lab
 - [BZ-NOI-A2 2.27](BZ_A2227.qmd) - Phenomics & Metabolomics
-- [BZ-NOI-A2 2.28](BZ_A2228.qmd)- Basic Microbiology
+- [BZ-NOI-A2 2.28](BZ_A2228.qmd) - Basic Microbiology
 - [BZ-NOI-A2 2.29](BZ_A2229.qmd) - Genetics & SHIME
 - [BZ-NOI-A2 2.38](BZ_A2238.qmd) - Twinshime
 - [BZ-NOI-A2.3.03c](BZ_A2303c.qmd) - Oenolab
