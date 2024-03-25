@@ -294,13 +294,13 @@ tab_reagenti(letter_P)
 
 ```
 
-### Q
+<!-- ### Q -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Q)
+<!-- tab_reagenti(letter_Q) -->
 
-```
+<!-- ``` -->
 
 ### R
 
@@ -326,13 +326,14 @@ tab_reagenti(letter_T)
 
 ```
 
-### U
+<!-- ### U -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_U)
+<!-- tab_reagenti(letter_U) -->
 
-```
+<!-- ``` -->
+
 ### V
 
 ```{r echo=FALSE}
@@ -365,10 +366,10 @@ tab_reagenti(letter_Y)
 
 ```
 
-### Z
+<!-- ### Z -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Z)
+<!-- tab_reagenti(letter_Z) -->
 
-```
+<!-- ``` -->
