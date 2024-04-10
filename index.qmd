@@ -16,6 +16,7 @@ title: "Laboratories of the Faculty of Agricultural, Environmental and Food Scie
 
 ## E Building
 
+- [BZ-E0.10](BZ_E010.qmd) - Technical Room
 - [BZ-E0.11](BZ_E011.qmd) - Laboratory for Entomology and Fruit Analysis
 - BZ-E0.12a - Laboratory for Environmental Science
 - [BZ-E0.12b](BZ_E012b.qmd) - Laboratory for Analytical Chemistry I
