@@ -1525,13 +1525,13 @@ E1.20;M;;N,N'-Methylenebisacrylamide;100;g;Sigma Aldrich;1;M7279-100G;https://ww
 E1.20;N;;Naptalam;100;mg;Sigma Aldrich;1;33371-100MG;https://www.sigmaaldrich.com/IT/en/sds/sial/33371
 E1.20;N;;Nitric Acid;1;L;Honeywell Fluka;1;84385-1L;https://www.sigmaaldrich.com/IT/en/sds/aldrich/225711
 E1.20;N;;Nitric Acid 67-69%;2,5;L;Carlo Erba;1;408117;https://www.carloerbareagents.com/cerstorefront/medias/CH0007-US.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3w2NDcwNjF8YXBwbGljYXRpb24vcGRmfGFHUTFMMmd5T1M4eE5UUXhOVGsxT1RZNE16RXdNaTlEU0RBd01EZGZWVk11Y0dSbXw0NGE4ZGIyNDUzMTBkNTdmMGMyNzdhMzVhYWYwOTMwNGMzOGE4YmE5ZGU4OTE0NmI1MWUwNTJjMjg1ZWE3OGIz&attachment=true
-E1.20;N;;N-Methyl-4-tyramine;5;g;Combi-Blocks;1;OR-4655;
+E1.20;N;;N-Methyl-4-tyramine;5;g;Combi-Blocks;1;OR-4655;https://www.combi-blocks.com/msds/OR-4655.pdf
 E1.20;O;;Oxalic acid 98%;250;g;Sigma Aldrich;1;194131-250G;https://www.sigmaaldrich.com/IT/en/sds/aldrich/194131
 E1.20;P;;PAH mixture;;;ultra scientific;1;US-106N-1;https://www.ultrasci.it//SchedeDiSicurezza/US-106N-1_IT(IT)_5.pdf
 E1.20;P;;PAH standard;;;ultra scientific;1;US-106N-1;
 E1.20;P;;Palmitic acid;25;g;Sigma Aldrich;1;P0500-25G;https://www.sigmaaldrich.com/IT/en/sds/sigma/p0500
 E1.20;C;;p-coumaric acid;5;g;Sigma Aldrich;1;C9008-5G;https://www.sigmaaldrich.com/IT/en/sds/sigma/c9008
-E1.20;P;;PENS-0.98 740-490nm;1;g;Cospheric;1;140410-1;
+E1.20;P;;PENS-0.98 740-490nm;1;g;Cospheric;1;140410-1;https://www.cospheric.com/Shared/Public%20Documents/SDS-350.pdf
 E1.20;P;;Pentaerythritol;50;g;Sigma Aldrich;1;236241-50G;https://www.sigmaaldrich.com/IT/en/sds/aldrich/236241
 E1.20;P;;Phenil§-D-glucopyranoside;5;g;Sigma Aldrich;1;292710-5G;https://www.sigmaaldrich.com/IT/en/sds/aldrich/292710
 E1.20;P;;Phenolphthalein;25;g;VWR;1;86158,15;https://it.vwr.com/assetsvc/asset/it_IT/id/26896922/contents/26896922.pdf
@@ -1554,7 +1554,7 @@ E1.20;P;;Potassium phosphate dibasic;500;g;Sigma Aldrich;1;4248;
 E1.20;P;;Potassium phosphate monobasic;500;g;Sigma Aldrich;1;P5655-500G;https://www.sigmaaldrich.com/IT/en/sds/sigma/p5655
 E1.20;P;;Potassium sulfate;1;kg;Sigma Aldrich;1;P0772-1KG;https://www.sigmaaldrich.com/IT/en/sds/sigald/p0772
 E1.20;P;;Pyridine;1;L;Sigma Aldrich;1;270407-1L;https://www.sigmaaldrich.com/IT/en/sds/sigald/270407
-E1.20;P;;Pyrol Pulver;10;g;Keller;1;G240;
+E1.20;P;;Pyrol Pulver;10;g;Keller;1;G240;https://www.keller-mannheim.de/fileadmin/pdfs/G240-Pyrol-SDB.pdf
 E1.20;P;;Pyruvic acid, 98 %;25;g;Sigma Aldrich;1;107360;https://www.sigmaaldrich.com/IT/en/sds/aldrich/107360
 E1.20;Q;;Quercitin 95% solid;10;g;Sigma Aldrich;1;Q4951-10G;https://www.sigmaaldrich.com/IT/en/sds/sigma/q4951
 E1.20;Q;;Quercitin dihydrate;50;mg;HWI ANALYTIK GMBH;1;0020-05-95;
@@ -1562,7 +1562,7 @@ E1.20;R;;Resorcinol;1;kg;Sigma Aldrich;1;307521-1KG;https://www.sigmaaldrich.com
 E1.20;R;;Rutin hydrate;50;g;Sigma Aldrich;1;R5143-50G;https://www.sigmaaldrich.com/IT/en/sds/sigma/r5143
 E1.20;S;;Sephadex G-10;50;g;Sigma Aldrich;1;G10120-50G;https://www.sigmaaldrich.com/IT/en/sds/sigma/g10120
 E1.20;S;;Shikimic acid;1;g;Sigma Aldrich;1;S5375-1G;https://www.sigmaaldrich.com/IT/en/sds/sigma/s5375
-E1.20;S;;Silwet L-77;1;kg;Kurt Obermeler;1;UN3082;
+E1.20;S;;Silwet L-77;1;kg;Kurt Obermeler;1;UN3082;https://shop.leugygax.ch/shop/resources/downloads/Silwet_L-77_(I)_SDB.pdf
 E1.20;S;;Sodium acetate;500;g;Sigma Aldrich;1;32319-500G-R;https://www.sigmaaldrich.com/IT/en/sds/sigald/32319
 E1.20;S;;Sodium acetate;50;g;Fluka;1;71185-50G;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06264
 E1.20;S;;Sodium acetate;250;g;Honeywell Fluka;1;71185-250G;https://www.sigmaaldrich.com/IT/en/sds/mm/1.06264
@@ -2638,3 +2638,15 @@ A2.2.26;X;Food or biological components;Xanthan gum from Xanthomonas campestris;
 A2.2.26;Z;Food or biological components;Zein;;;;;9010-66-6;https://www.sigmaaldrich.com/IT/en/sds/sigma/z3625?userType=anonymous
 A2.2.26;Z;Salts and buffers;Zinc acetate anhydrous 99.9%;;;;;557-34-6;https://www.sigmaaldrich.com/IT/en/sds/aldrich/383317?userType=anonymous
 A2.2.26;C;Food or biological components;λ-Carrageenan;;;;;9064-57-7;https://file.chemscene.com/pdf/UsaMSDS/MSDSUSACS-0179790.pdf
+E0.10;E;-80;(-)-Epicatechin;1;mL;Sigma;1;E4018;https://www.sigmaaldrich.com/IT/en/sds/sigma/e4018
+E0.10;C;-80;(-)-Catechin;1;mL;Sigma;1;C0567;https://www.sigmaaldrich.com/IT/en/sds/sigma/C0567
+E0.10;C;-80;Callistephin chloride;1;mL;Sigma;1;79576;https://www.sigmaaldrich.com/IT/en/sds/sigma/79576
+E0.10;D;-80;Delphinidin chloride;1;mL;Sigma;1;43725;https://www.sigmaaldrich.com/IT/en/sds/sigma/43725
+E0.10;I;-80;Idaein chloride;1;mL;Sigma;1;19050;https://www.sigmaaldrich.com/IT/en/sds/sigma/19050
+E0.10;K;-80;Kaempferol;1;mL;Sigma;1;60010;https://www.sigmaaldrich.com/IT/en/sds/sigma/60010
+E0.10;K;-80;Kuromanin chloride;1;mL;Sigma;1;52976;https://www.sigmaaldrich.com/IT/en/sds/sigma/52976
+E0.10;M;-80;Malvidin-3-galactoside chloride;1;mL;Sigma;1;79311;https://www.sigmaaldrich.com/IT/en/sds/sial/79311
+E0.10;O;-80;Oenin chloride;1;mL;Sigma;1;72813;https://www.sigmaaldrich.com/IT/en/sds/sigma/72813
+E0.10;P;-80;Procyanidin B2;1;mL;Sigma;1;42157;https://www.sigmaaldrich.com/IT/en/sds/sial/42157
+E0.10;Q;-80;Quercetin 3-D-galactoside;1;mL;Sigma;1;83388;https://www.sigmaaldrich.com/IT/en/sds/sigma/83388
+E0.10;Q;-80;Quercetin-3-β-D-glucoside;1;mL;Sigma;1;17793;https://www.sigmaaldrich.com/IT/en/sds/sigma/17793
