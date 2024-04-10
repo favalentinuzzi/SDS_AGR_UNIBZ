@@ -104,3 +104,13 @@ generate_svg(qrcode = qr_code_A2303f, filename = "A2303f.svg", size = 500, show 
 qr_code_E111 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_E111.html")
 
 generate_svg(qrcode = qr_code_E111, filename = "E111.svg", size = 500, show = FALSE)
+
+
+qr_code_A2225 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_A2225.html")
+
+generate_svg(qrcode = qr_code_A2225, filename = "A2225.svg", size = 500, show = FALSE)
+
+
+qr_code_A2226 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_A2226.html")
+
+generate_svg(qrcode = qr_code_A2226, filename = "A2226.svg", size = 500, show = FALSE)
