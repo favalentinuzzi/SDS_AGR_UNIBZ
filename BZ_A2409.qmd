@@ -154,13 +154,13 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 08 / 09 / 2023
+Last update: 20 / 06 / 2024
 
 ------------------------------------------------------------------------
 
 #### Last changes:
 
--   List update
+-   List update + shelves
 
 ------------------------------------------------------------------------
 
