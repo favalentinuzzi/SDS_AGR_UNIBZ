@@ -1032,73 +1032,6 @@ A2.3.03c;D;Ufficio davanti;1,4-Dioxane;1;L;Sigma;1;589591;https://www.sigmaaldri
 A2.3.03c;D;Ufficio davanti;Dichloromethane puriss.;02.May;L;Honeywell;2;32222;https://lab.honeywell.com/sm/api/rc/documents/download/32222-2.5L_SDS_GB_E?appId=76&catNo=32222-2.5L&matnr=10233575&lang=E&country=GB&type=SDS
 A2.3.03c;D;Ufficio davanti;Diethyl ether, anhydrous, A.C.S. reagent;1;L;Sigma;2;673811;https://www.sigmaaldrich.com/IT/en/sds/sigald/673811?userType=anonymous
 A2.3.03c;B;Ufficio davanti;1-Butanol;1;L;Sigma;3;34867;https://www.sigmaaldrich.com/IT/en/sds/sigald/34867
-A2.4.09;T;; composti TAR;;;;;;
-A2.4.09;P;;2-propanol;2,5;L;Panreac;4;2210901612;
-A2.4.09;P;;2-propanolo per HPLC;2,5;L;Pan Reac;1;221090;https://www.itwreagents.com/download_file/sds/221090/us/sds_221090_en.pdf
-A2.4.09;S;;5-Sulfosalicyclic acid dihydrate;500;g;Sigma Aldrich;1;S2130;https://www.sigmaaldrich.com/IT/en/sds/sial/s2130
-A2.4.09;A;;Acetone;2,5;L;Pan Reac;4;1007;https://www.itwreagents.com/download_file/sds/131007/us/sds_131007_en.pdf
-A2.4.09;A;;acetone per ACS e ISO;2,5;L;Pan Reac;1;1007;https://www.itwreagents.com/download_file/sds/131007/us/sds_131007_en.pdf
-A2.4.09;A;;Acetonitrile;2,5;L;Honeywell;1;34888;https://lab.honeywell.com/sm/api/rc/documents/download/34888-2.5L_SDS_GB_E?appId=76&catNo=34888-2.5L&matnr=10193237&lang=E&country=GB&type=SDS
-A2.4.09;A;;Acido Acetico;1;L;Honeywell;1;33209;https://lab.honeywell.com/sm/api/rc/documents/download/33209-2.5L_SDS_GB_E?appId=76&catNo=33209-2.5L&matnr=10192250&lang=E&country=GB&type=SDS
-A2.4.09;A;;Alluminio cloruro;100;g;Sigma Aldrich;1;801081;https://www.sigmaaldrich.com/IT/en/sds/mm/8.01081
-A2.4.09;A;;Ammonio 50 - 1-40 mg/L NH4-N, 1-50 mg/L NH4+;;;;;985005;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985005_en-EN_GHS.pdf
-A2.4.09;A;;Anaerobe basal Broth;500;g;Oxoid/Thermo fisher;1;CM0957B;
-A2.4.09;A;;azoto totale TNb 220 - 5-220 mg/L N;;;Macherey-Nagel;2;985088;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985088_en-EN_GHS.pdf
-A2.4.09;A;;azoto totale TNb 220 - 5-220 mg/L N;;;Macherey-Nagel;4;985088;
-A2.4.09;A;;Azoto totale TNb 60-3-60mg/L N;;;Macherey-Nagel;1;985092;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985092_en-EN_GHS.pdf
-A2.4.09;A;;Azoto totale TNb 60-3-60mg/L N;;;Macherey-Nagel;;985092;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985092_en-EN_GHS.pdf
-A2.4.09;B;;Benzene per HPLC;1;L;Sigma Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/401765
-A2.4.09;B;;Benzene per HPLC;2,5;L;Sigma Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/401765
-A2.4.09;B;;BOD5-TT - 0.5-3000 mg/L O2;;;Macherey-Nagel;2;985825;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985825_en-EN_GHS.pdf
-A2.4.09;C;;COD 10000, 1.00-10.00 g/L O2;;;Macherey-Nagel;4;985023;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985023_en-EN_GHS.pdf
-A2.4.09;C;;cyclohexane;2,5;L;Honeywell;1;33117;110-82-7
-A2.4.09;G;;D(+)-Glucose anhydrous;500;g;VWR Chemicals;;284504S;https://it.vwr.com/assetsvc/asset/en_GB/id/7665436/contents
-A2.4.09;D;;Decahydronaphtalene;500;mL;Alfa Aeser;4;111845000;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR11184~~PDF~~MTR~~CLP1~~EN~~2020-12-10%2020:42:51~~Decahydronaphthalene%20%20mixture%20of%20cis%20and%20trans~~
-A2.4.09;D;;Detergente Acido (ADF) per fibre;20;L;Titol chimica;2;TC29250UU;
-A2.4.09;D;;Dichloromethane;1;L;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/270997
-A2.4.09;D;;Diclorometano;2,5;L;Honeywell;1;34488;https://lab.honeywell.com/sm/api/rc/documents/download/34488-2.5L_SDS_GB_E?appId=76&catNo=34488-2.5L&matnr=10192856&lang=E&country=GB&type=SDS
-A2.4.09;G;;E-Glycerin;100;mL;HERRLAN;2;B-536-31;
-A2.4.09;E;;Etanolo;2,5;L;Honeywell;2;2860;https://lab.honeywell.com/sm/api/rc/documents/download/02860-2.5L_SDS_GB_E?appId=76&catNo=02860-2.5L&matnr=10641691&lang=E&country=GB&type=SDS
-A2.4.09;F;;fosfato orto&tot.15 - 0.30- 15.00mg/L P(PO4-P), 1.0-45.0mg/L;;;Macherey-Nagel;1;985080;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985080_en-EN_GHS.pdf
-A2.4.09;F;;fosfato orto&tot.15 - 0.30- 15.00mg/L P(PO4-P), 1.0-45.0mg/L;;;Macherey-Nagel;3;985080;
-A2.4.09;G;;Glycerol;1;L;Honeywell;1;15523;https://lab.honeywell.com/sm/api/rc/documents/download/15523-1L_SDS_GB_E?appId=76&catNo=15523-1L&matnr=10188089&lang=E&country=GB&type=SDS
-A2.4.09;H;;Hexane;2,5;L;J.T.Baker;1;;https://www.fishersci.it/store/msds?partNumber=10610421&productDescription=lt-nhexane--for-hplc&keyword=true&countryCode=IT&language=it
-A2.4.09;H;;HYDRANAL composite 5;1;L;Honeywell;2;34805;https://lab.honeywell.com/sm/api/rc/documents/download/34805-1L_SDS_GB_E?appId=76&catNo=34805-1L&matnr=10193057&lang=E&country=GB&type=SDS
-A2.4.09;H;;HYDRANAL Methanol dry;1;L;Honeywell;2;34741;https://lab.honeywell.com/sm/api/rc/documents/download/34741-1L_SDS_GB_E?appId=76&catNo=34741-1L&matnr=10192986&lang=E&country=GB&type=SDS
-A2.4.09;H;;HYDRANAL Solver (crude) oil;1;L;Honeywell;1;34697;https://lab.honeywell.com/sm/api/rc/documents/download/34697-1L_SDS_GB_E?appId=76&catNo=34697-1L&matnr=10289532&lang=E&country=GB&type=SDS
-A2.4.09;H;;Hydrocloric acid;2,5;L;Honeywell Fluka;1;30720;https://lab.honeywell.com/sm/api/rc/documents/download/30720-2.5L_SDS_GB_E?appId=76&catNo=30720-2.5L&matnr=10629263&lang=E&country=GB&type=SDS
-A2.4.09;H;;Hydrocloric acid 1mol/l (1N);1;L;Pan Reac;1;186985;https://www.itwreagents.com/download_file/sds/186985/us/sds_186985_en.pdf
-A2.4.09;M;;Magnesium sulfate anhydrous, Reagent Gra de, =99.5%;500;g;Honeywell;1;M7506;https://lab.honeywell.com/sm/api/rc/documents/download/M7506-500G_SDS_GB_E?appId=76&catNo=M7506-500G&matnr=10646612&lang=E&country=GB&type=SDS
-A2.4.09;M;;Manganese cloruro oso tetraidrato RPE ;100;g;Carlo Erba;1;460158;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/Manganese-%28II%29-chloride-tetrahydrate-RPE---For-analysis/p/107900AA04450
-A2.4.09;M;;Methanol for GS;1;L;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/sigald/34860
-A2.4.09;B;;N,O-Bis(trimethylsilyl)trifluoroacetamide for GC derivatization, LiChropur™, ?99.0%;5;mL; Supelco;1;15222;https://www.sigmaaldrich.com/IT/en/sds/sial/15222
-A2.4.09;N;;Nanocolor TOC 30;;;Macherey-Nagel;2;985075;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985075_en-EN_GHS.pdf
-A2.4.09;N;;Nitric acid 1mol/L (1N);1;L;Carlo Erba;2;408171000;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Volumetry/Volumetric-solutions%2C-ready-to-use/Nitric-acid-1-mol-l-%281N%29-RPE---For-analysis/p/124500AA04450
-A2.4.09;O;;Octanoic acid ?99%;10;mL; Sigma-Aldrich;1;C2875;https://www.sigmaaldrich.com/IT/en/sds/sigma/c2875
-A2.4.09;O;;Octanoic-d15 acid ?98 atom % D, ?99% (CP);25;mg;Sigma Aldrich;1;448214;https://www.sigmaaldrich.com/IT/en/sds/aldrich/448214
-A2.4.09;O;;Octanoic-d15 acid analytical standard;25;mg; Supelco;;55471;https://www.sigmaaldrich.com/IT/en/sds/sial/55471
-A2.4.09;O;;Oleic acid ?99% (GC);1;g;Sigma Aldrich;1;O1008;https://www.sigmaaldrich.com/IT/en/sds/sial/o1008
-A2.4.09;O;;Organic acid 3000;;;Macherey-Nagel;1;985050;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985050_en-EN_GHS.pdf
-A2.4.09;P;;Palmitic acid ?99%;10;g;Sigma Aldrich;1;P0500;https://www.sigmaaldrich.com/IT/en/sds/sigma/p0500
-A2.4.09;P;;Palmitic acid-d31 98 atom % D, 99% (CP);100;mg; Sigma-Aldrich;;366897;https://www.sigmaaldrich.com/IT/en/sds/aldrich/366897
-A2.4.09;P;;Ph solution 4 + 7 ;;;;;;
-A2.4.09;P;;Phenol puriss;250;g;Honeywell;1;33517H;https://lab.honeywell.com/sm/api/rc/documents/download/33517H-1KG_SDS_GB_E?appId=76&catNo=33517H-1KG&matnr=10192469&lang=E&country=GB&type=SDS
-A2.4.09;P;;Phosphate buffer solution;2,5;L;Sigma Aldrich;1;76847;https://www.sigmaaldrich.com/IT/en/sds/sial/76847
-A2.4.09;P;;Phosphoric acid solution 49.5-50.5%;250;mL;Sigma Aldrich;1;93752;https://www.sigmaaldrich.com/IT/en/sds/sial/93752
-A2.4.09;P;;Potassium hydroxide;1;kg;Sigma Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sigald/221473
-A2.4.09;P;;Potassium hydroxyde 1mol/l (1N);1;L;Carlo Erba;2;472287000;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Volumetry/Volumetric-solutions%2C-ready-to-use/Potassium-hydroxide-1-mol-l-%281N%29-RPE---For-analysis/p/146700AA04450
-A2.4.09;P;;Pyridine anhydrous, 99.8%;100;mL;Sigma-Aldrich;1;270970;https://www.sigmaaldrich.com/IT/en/sds/sial/270970
-A2.4.09;S;;Sicacide with indicator;500;mL;Merck;;;
-A2.4.09;S;;Sicapent with indicator;;;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/mm/1.00543
-A2.4.09;S;;Silica , fumed;25;g;Sigma Aldrich;1;S5130;https://www.sigmaaldrich.com/IT/en/sds/aldrich/s5130
-A2.4.09;S;;Sodio tungstato diidrato 99+% ;5;5;Thermo Scientific;1;207620050;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR20762~~PDF~~MTR~~CLP1~~EN~~2020-12-20%2011:17:36~~Sodium%20tungstate%20dihydrate~~
-A2.4.09;S;;Sodium Hydroxide;1;kg;Merck;1;;https://www.sigmaaldrich.com/IT/it/sds/sigald/655104
-A2.4.09;S;;Sodium hydroxide 1mol/L (1N);1;L;Pan Reac;1;186982;https://www.itwreagents.com/download_file/sds/186982/us/sds_186982_en.pdf
-A2.4.09;S;;Sodium sulfide nonahydrate;50;g;Sigma Aldrich;1;431648;https://www.sigmaaldrich.com/IT/en/sds/aldrich/431648
-A2.4.09;S;;sulfuric acid 95-97%;2,5;L;Merck;3;258105;https://www.sigmaaldrich.com/IT/en/sds/sigald/258105
-A2.4.09;T;;ter-Butilmetiletere RS;2,5;L;Carlo Erba;1;432022000;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Liquid-chromatography/HPLC-Preparative-Solvents/tert-Butylmethylether-RS---For-preparative-HPLC/p/032300BB12050
-A2.4.09;T;;Toluene;1;L;Pan Reac;1;1745;https://www.itwreagents.com/download_file/sds/131745/us/sds_131745_en.pdf
-A2.4.09;T;;Total Nitrogen - 0.5–22.0 mg/L N;;;Macherey-Nagel;1;985083;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985083_en-EN_GHS.pdf
 E0.12b;A;Pii;1-AMINOCYCLOPROPANECARBOXYLIC ACID;1;g;TOKYO CHEMICAL INDUSTRY;1;A1178;https://www.tcichemicals.com/OP/en/sds/A1178_JP_EN.pdf
 E0.12b;M;Pii;2-MERCAPTOETHANOL;10;mL;Carlo Erba;1;460691;https://www.carloerbareagents.com/cerstorefront/medias/CH1143-EU.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3w1NDY3MTV8YXBwbGljYXRpb24vcGRmfGFEY3lMMmhpTnk4eE5UUTBPVE0xTmpJM01UWTBOaTlEU0RFeE5ETmZSVlV1Y0dSbXw5MTkzNDBkNmMzNzdmODliZmNmNTYxZTVhZGJlMWUwOTQ5NGZkOGM0OWE5NjU3ZjMwNTIyNDBkMDAxYmU3ZGUz&attachment=true
 E0.12b;P;Pii;2-PROPANOL;2,5;L;Sigma Aldrich;2;190764-2.5L;https://www.sigmaaldrich.com/IT/en/sds/sigald/190764
@@ -2650,3 +2583,91 @@ E0.10;O;-80;Oenin chloride;1;mL;Sigma;1;72813;https://www.sigmaaldrich.com/IT/en
 E0.10;P;-80;Procyanidin B2;1;mL;Sigma;1;42157;https://www.sigmaaldrich.com/IT/en/sds/sial/42157
 E0.10;Q;-80;Quercetin 3-D-galactoside;1;mL;Sigma;1;83388;https://www.sigmaaldrich.com/IT/en/sds/sigma/83388
 E0.10;Q;-80;Quercetin-3-β-D-glucoside;1;mL;Sigma;1;17793;https://www.sigmaaldrich.com/IT/en/sds/sigma/17793
+A2.4.09;A;Stanzino A1;Alluminio cloruro;100;g;Sigma-Aldrich;1;801081;https://www.sigmaaldrich.com/IT/en/sds/mm/8.01081
+A2.4.09;A;Stanzino A1;Anaerobe basal Broth;500;g;Oxoid/Thermo fisher;1;CM0957B;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=OXDCM0957~~PDF~~MTR~~CLP1~~EE~~2021-12-18%2001:18:07~~ANAEROBE%20BASAL%20BROTH~~
+A2.4.09;G;Stanzino A1;D(+)-Glucose anhydrous;500;g;VWR Chemicals;1;284504S;https://it.vwr.com/assetsvc/asset/en_GB/id/7665436/contents
+A2.4.09;G;Stanzino A1;E-Glycerin;100;mL;HERRLAN;2;B-536-31;
+A2.4.09;G;Stanzino A1;Glycerol;1;L;Honeywell;1;15523;https://lab.honeywell.com/sm/api/rc/documents/download/15523-1L_SDS_GB_E?appId=76&catNo=15523-1L&matnr=10188089&lang=E&country=GB&type=SDS
+A2.4.09;H;Stanzino A1;HYDRANAL composite 5;1;L;Honeywell;1;34805;https://lab.honeywell.com/sm/api/rc/documents/download/34805-1L_SDS_GB_E?appId=76&catNo=34805-1L&matnr=10193057&lang=E&country=GB&type=SDS
+A2.4.09;H;Stanzino A1;Hydrocloric acid;2,5;L;Honeywell Fluka;1;30720;https://lab.honeywell.com/sm/api/rc/documents/download/30720-2.5L_SDS_GB_E?appId=76&catNo=30720-2.5L&matnr=10629263&lang=E&country=GB&type=SDS
+A2.4.09;I;Stanzino A1;Imidazole;100;g;Sigma-Aldrich;1;56750;https://www.sigmaaldrich.com/IT/en/sds/sial/56750?userType=anonymous
+A2.4.09;M;Stanzino A1;Methylcyclohexene 1-2 dicarboxylic Anhydride;25;g;TCI;1;TCIAM0683;https://us.vwr.com/assetsvc/asset/en_US/id/16821758/contents
+A2.4.09;P;Stanzino A1;Phosphoric acid solution 49.5-50.5%;250;mL;Sigma-Aldrich;1;93752;https://www.sigmaaldrich.com/IT/en/sds/sial/93752
+A2.4.09;S;Stanzino A1;Sodio tungstato diidrato 99+% ;5;5;Thermo Scientific;1;207620050;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR20762~~PDF~~MTR~~CLP1~~EN~~2020-12-20%2011:17:36~~Sodium%20tungstate%20dihydrate~~
+A2.4.09;S;Stanzino A1;sulfuric acid 95-97%;2,5;L;Merck;3;258105;https://www.sigmaaldrich.com/IT/en/sds/sigald/258105
+A2.4.09;A;Stanzino A2;Acetone;2,5;L;Pan Reac;4;1007;https://www.itwreagents.com/download_file/sds/131007/us/sds_131007_en.pdf
+A2.4.09;C;Stanzino A2;Carbon powder activate dacid washed ;500;g;alfa aesar;1;;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAAL11860~~PDF~~MTR~~CLP1~~EE~~2024-02-26%2001:50:58~~Carbon%20powder%20%20activated~~
+A2.4.09;C;Stanzino A2;Carborundum 1,190 mm;1;kg;VWR Chemicals;1;;
+A2.4.09;C;Stanzino A2;Citric Acid;1;kg;VWR Chemicals;1;;https://us.vwr.com/assetsvc/asset/en_US/id/25614369/contents
+A2.4.09;C;Stanzino A2;Cobalt (II) nitrate hexahydrate 99%;100;g;Acros Organics;1;;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR21309~~PDF~~MTR~~CLP1~~EE~~2023-11-10%2022:14:47~~Cobalt(II
+A2.4.09;M;Stanzino A2;Magnesium nitrate hexahydrate ACS;500;g;alfa aesar;1;;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAA11564~~PDF~~MTR~~CLP1~~EE~~2024-02-05%2010:29:01~~Magnesium%20nitrate%20hexahydrate~~
+A2.4.09;N;Stanzino A2;Nichel (II) nitrate hexahydrate 98%;100;g;alfa aesar;1;;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAAA15540~~PDF~~MTR~~CLP1~~EE~~2024-03-25%2017:43:20~~Nickel(II
+A2.4.09;N;Stanzino A2;Nitric acid 1mol/L (1N);1;L;Carlo Erba;1;408171000;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Volumetry/Volumetric-solutions%2C-ready-to-use/Nitric-acid-1-mol-l-%281N%29-RPE---For-analysis/p/124500AA04450
+A2.4.09;U;Stanzino A2;Urea for biochemistry;250;g;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/u1250?userType=anonymous
+A2.4.09;D;Stanzino B1;Detergente Acido (ADF) per fibre;20;L;Titol chimica;2;TC29250UU;
+A2.4.09;P;Stanzino B1;Potassium hydroxyde ;1;kg;Fluka;1;;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR13406~~PDF~~MTR~~CLP1~~EE~~2023-09-25%2014:24:23~~Potassium%20hydroxide~~
+A2.4.09;P;Stanzino B1;Potassium hydroxyde 1mol/l (1N);1;L;Carlo Erba;2;472287000;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Volumetry/Volumetric-solutions%2C-ready-to-use/Potassium-hydroxide-1-mol-l-%281N%29-RPE---For-analysis/p/146700AA04450
+A2.4.09;F;Stanzino B2;fosfato orto&tot.15 - 0.30- 15.00mg/L P(PO4-P), 1.0-45.0mg/L;;;Macherey-Nagel;1;985080;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985080_en-EN_GHS.pdf
+A2.4.09;K;Stanzino B2;Kühlflüssigkeit HKF 15.1 MW65;5;Kg;Macherey-Nagel;2;;
+A2.4.09;N;Stanzino B2;NANOCOLOR Ammonium 200;;;Macherey-Nagel;4;;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985006_en-EN_GHS.pdf
+A2.4.09;N;Stanzino B2;NANOCOLOR BSB5-RKT;;;Macherey-Nagel;6;;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985825_en-EN_GHS.pdf
+A2.4.09;N;Stanzino B2;NANOCOLOR CSB 10.000;;;Macherey-Nagel;7;;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985023_en-EN_GHS.pdf
+A2.4.09;N;Stanzino B2;NANOCOLOR CSB1500 HgFree;;;Macherey-Nagel;1;;https://www.mn-net.com/files/digitalAssets/sds/en-EN/963029_en-EN_GHS.pdf
+A2.4.09;N;Stanzino B2;NANOCOLOR gesamt Stickstoff TN60;;;Macherey-Nagel;2;;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985083_en-EN_GHS.pdf
+A2.4.09;N;Stanzino B2;NANOCOLOR organische Säure;;;Macherey-Nagel;2;;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985050_en-EN_GHS.pdf
+A2.4.09;S;Stanzino B2;soluzione ADF;;;;;;
+A2.4.09;S;Stanzino B2;Soluzione NDF;;;;;;
+A2.4.09;T;Stanzino B2;Total Nitrogen - 0.5–22.0 mg/L N;;;Macherey-Nagel;1;985083;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985083_en-EN_GHS.pdf
+A2.4.09;N;frigo;N,O-Bis(trimethylsilyl)trifluoroacetamide for GC derivatization, LiChropur™, ≥99.0%;5;mL; Supelco;1;15222;https://www.sigmaaldrich.com/IT/en/sds/sial/15222
+A2.4.09;N;frigo;Nanocolor TOC 30;;;Macherey-Nagel;2;985075;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985075_en-EN_GHS.pdf
+A2.4.09;D;frigo;N-Dodecane;5;mL;Merck;1;;https://www.sigmaaldrich.com/IT/it/sds/mm/8.20543?userType=anonymous
+A2.4.09;O;frigo;Octanoic acid ≥99%;10;mL; Sigma-Aldrich;1;C2875;https://www.sigmaaldrich.com/IT/en/sds/sigma/c2875
+A2.4.09;O;frigo;Octanoic-d15 acid analytical standard;25;mg; Supelco;;55471;https://www.sigmaaldrich.com/IT/en/sds/sial/55471
+A2.4.09;O;frigo;Oleic acid ≥99% (GC);1;g;Sigma-Aldrich;1;O1008;https://www.sigmaaldrich.com/IT/en/sds/sial/o1008
+A2.4.09;P;frigo;Palmitic acid ≥99%;10;g;Sigma-Aldrich;1;P0500;https://www.sigmaaldrich.com/IT/en/sds/sigma/p0500
+A2.4.09;P;frigo;Palmitic acid-d31 98 atom % D, 99% (CP);100;mg; Sigma-Aldrich;;366897;https://www.sigmaaldrich.com/IT/en/sds/aldrich/366897
+A2.4.09;P;frigo;Phosphate buffer solution;2,5;L;Sigma-Aldrich;1;76847;https://www.sigmaaldrich.com/IT/en/sds/sial/76847
+A2.4.09;P;frigo;Pyridine anhydrous, 99.8%;100;mL; Sigma-Aldrich;1;270970;https://www.sigmaaldrich.com/IT/en/sds/sial/270970
+A2.4.09;S;frigo;Sodium sulfide nonahydrate;50;g;Sigma-Aldrich;1;431648;https://www.sigmaaldrich.com/IT/en/sds/aldrich/431648
+A2.4.09;A;Acidi 3;Acetic Acid;1;L;Fluka;1;;https://lab.honeywell.com/sm/api/rc/documents/download/33209-2.5L_SDS_GB_E?appId=76&catNo=33209-2.5L&matnr=10192250&lang=E&country=GB&type=SDS
+A2.4.09;A;Acidi 3;Acido Acetico;1;L;Honeywell;1;33209;https://lab.honeywell.com/sm/api/rc/documents/download/33209-2.5L_SDS_GB_E?appId=76&catNo=33209-2.5L&matnr=10192250&lang=E&country=GB&type=SDS
+A2.4.09;H;Acidi 3;Hexamethylenetetramine;250;g;Alfa Aesar;1;;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAAA17213~~PDF~~MTR~~CLP1~~EE~~2024-02-06%2000:02:59~~Hexamethylenetetramine~~
+A2.4.09;H;Acidi 3;Hydrocloric acid 1mol/l (1N);1;L;Pan Reac;1;186985;https://www.itwreagents.com/download_file/sds/186985/us/sds_186985_en.pdf
+A2.4.09;P;Acidi 3;Ph solution 4 + 7 ;;;;;;
+A2.4.09;P;Acidi 3;Phenol puriss;250;g;Honeywell;1;33517H;https://lab.honeywell.com/sm/api/rc/documents/download/33517H-1KG_SDS_GB_E?appId=76&catNo=33517H-1KG&matnr=10192469&lang=E&country=GB&type=SDS
+A2.4.09;P;Acidi 3;Potassium hydroxide;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sigald/221473
+A2.4.09;S;Acidi 3;Sicacide with indicator;500;mL;Merck;;;
+A2.4.09;S;Acidi 3;Sicapent with indicator;;;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/mm/1.00543
+A2.4.09;S;Acidi 3;Sodium Hydroxide on support ;250;g;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/mm/1.01567?userType=anonymous
+A2.4.09;A;infiammabili 1;acetone per ACS e ISO;2,5;L;Pan Reac;1;1007;https://www.itwreagents.com/download_file/sds/131007/us/sds_131007_en.pdf
+A2.4.09;A;infiammabili 1;Acetonitrile;2,5;L;Honeywell;1;34888;https://lab.honeywell.com/sm/api/rc/documents/download/34888-2.5L_SDS_GB_E?appId=76&catNo=34888-2.5L&matnr=10193237&lang=E&country=GB&type=SDS
+A2.4.09;B;infiammabili 1;Benzene per HPLC;1;L;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/401765
+A2.4.09;B;infiammabili 1;Benzene per HPLC;2,5;L;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/401765
+A2.4.09;D;infiammabili 1;Decahydronaphtalene;500;mL;Alfa Aeser;1;111845000;https://assets.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR11184~~PDF~~MTR~~CLP1~~EN~~2020-12-10%2020:42:51~~Decahydronaphthalene%20%20mixture%20of%20cis%20and%20trans~~
+A2.4.09;H;infiammabili 1;Hexane;2,5;L;J.T.Baker;1;;https://www.fishersci.it/store/msds?partNumber=10610421&productDescription=lt-nhexane--for-hplc&keyword=true&countryCode=IT&language=it
+A2.4.09;H;infiammabili 1;Hydranal Composite 5;1;l;Fluka;1;;https://lab.honeywell.com/sm/api/rc/documents/download/34805-1L_SDS_IT_I?appId=76&catNo=34805-1L&matnr=10193057&lang=I&country=IT&type=SDS
+A2.4.09;M;infiammabili 1;Methanol for GS;1;L;Merck;1;;https://www.sigmaaldrich.com/IT/en/sds/sigald/34860
+A2.4.09;B;infiammabili 1;ter-Butilmetiletere RS;2,5;L;Carlo Erba;1;432022000;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/CARLO-ERBA-Reagents/Liquid-chromatography/HPLC-Preparative-Solvents/tert-Butylmethylether-RS---For-preparative-HPLC/p/032300BB12050
+A2.4.09;P;infiammabili 2;2-propanolo per HPLC;2,5;L;Pan Reac;1;221090;https://www.itwreagents.com/download_file/sds/221090/us/sds_221090_en.pdf
+A2.4.09;P;infiammabili 2;2-propanolo per HPLC;2,5;L;Honeywell;1;221090;https://www.itwreagents.com/download_file/sds/221090/us/sds_221090_en.pdf
+A2.4.09;A;infiammabili 2;Acetone;2,5;L;Carlo Erba;1;;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/Acetone-RE---Pure/p/002100DD14150
+A2.4.09;D;infiammabili 2;Diclorometano;2,5;L;Honeywell;1;34488;https://lab.honeywell.com/sm/api/rc/documents/download/34488-2.5L_SDS_GB_E?appId=76&catNo=34488-2.5L&matnr=10192856&lang=E&country=GB&type=SDS
+A2.4.09;E;infiammabili 2;Etanolo;2,5;L;Honeywell;2;2860;https://lab.honeywell.com/sm/api/rc/documents/download/02860-2.5L_SDS_GB_E?appId=76&catNo=02860-2.5L&matnr=10641691&lang=E&country=GB&type=SDS
+A2.4.09;E;infiammabili 2;Ethil methil Ketone;2,5;L;Carlo Erba;1;;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/Ethyl-methyl-ketone-RPE---For-analysis---Reag-Ph-Eur-/p/112900AA06850
+A2.4.09;H;infiammabili 2;HYDRANAL Methanol dry;1;L;Honeywell;2;34741;https://lab.honeywell.com/sm/api/rc/documents/download/34741-1L_SDS_GB_E?appId=76&catNo=34741-1L&matnr=10192986&lang=E&country=GB&type=SDS
+A2.4.09;H;infiammabili 2;HYDRANAL Solver (crude) oil;1;L;Honeywell;1;34697;https://lab.honeywell.com/sm/api/rc/documents/download/34697-1L_SDS_GB_E?appId=76&catNo=34697-1L&matnr=10289532&lang=E&country=GB&type=SDS
+A2.4.09;S;infiammabili 2;Sodium hydroxide 1mol/L (1N);1;L;Pan Reac;1;186982;https://www.itwreagents.com/download_file/sds/186982/us/sds_186982_en.pdf
+A2.4.09;T;infiammabili 2;Toluene;1;L;Pan Reac;1;1745;https://www.itwreagents.com/download_file/sds/131745/us/sds_131745_en.pdf
+A2.4.09;S;mobile;5-Sulfosalicyclic acid dihydrate;500;g;Sigma-Aldrich;1;S2130;https://www.sigmaaldrich.com/IT/en/sds/sial/s2130
+A2.4.09;A;mobile;Alluminium oxide;10;g;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/544833?userType=anonymous
+A2.4.09;C;mobile;Cellulosa pura 99.5%;;;;;;
+A2.4.09;M;mobile;Magnesium sulfate anhydrous, Reagent Gra de, =99.5%;500;g;Honeywell;1;M7506;https://lab.honeywell.com/sm/api/rc/documents/download/M7506-500G_SDS_GB_E?appId=76&catNo=M7506-500G&matnr=10646612&lang=E&country=GB&type=SDS
+A2.4.09;M;mobile;Manganese (II) chloride tetrahydrate;100;g;Carlo Erba;1;;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/Manganese-%28II%29-chloride-tetrahydrate-RE---Pure/p/107900DD14150
+A2.4.09;S;mobile;Silica , fumed;25;g;Sigma-Aldrich;1;S5130;https://www.sigmaaldrich.com/IT/en/sds/aldrich/s5130
+A2.4.09;C;stanzino A4; composti TAR;;;;;;
+A2.4.09;F;stanzino B3;Formaldheyde 37-38% stabilized with methanol;1;L;Pan Reac;1;;https://www.itwreagents.com/download_file/sds/131328/eu/sds_131328_en.pdf
+A2.4.09;P;stanzino B3;Phenol;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w322318?userType=anonymous
+A2.4.09;P;uff tecnici;2-propanol;2,5;L;Panreac;4;2210901612;https://www.itwreagents.com/download_file/sds/221090/gb/sds_221090_en.pdf
+A2.4.09;A;uff tecnici;azoto totale TNb 220 - 5-220 mg/L N;;;Macherey-Nagel;4;985088;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985088_en-EN_GHS.pdf
+A2.4.09;C;uff tecnici;cyclohexane;2,5;L;Honeywell;1;33117;https://lab.honeywell.com/sm/api/rc/documents/download/33117-2.5L_SDS_GB_E?appId=76&catNo=33117-2.5L&matnr=10192160&lang=E&country=GB&type=SDS
+A2.4.09;F;uff tecnici;fosfato orto&tot.15 - 0.30- 15.00mg/L P(PO4-P), 1.0-45.0mg/L;;;Macherey-Nagel;3;985080;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985080_en-EN_GHS.pdf
