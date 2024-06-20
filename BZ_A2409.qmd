@@ -230,13 +230,13 @@ tab_reagenti(letter_H)
 
 ```
 
-<!-- ### I -->
+### I
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_I) -->
+tab_reagenti(letter_I)
 
-<!-- ``` -->
+```
 
 <!-- ### J -->
 
@@ -246,13 +246,13 @@ tab_reagenti(letter_H)
 
 <!-- ``` -->
 
-<!-- ### K -->
+### K
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_K) -->
+tab_reagenti(letter_K)
 
-<!-- ``` -->
+```
 
 <!-- ### L -->
 
@@ -326,13 +326,13 @@ tab_reagenti(letter_T)
 
 ```
 
-<!-- ### U -->
+### U
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_U) -->
+tab_reagenti(letter_U)
 
-<!-- ``` -->
+```
 
 <!-- ### V -->
 
