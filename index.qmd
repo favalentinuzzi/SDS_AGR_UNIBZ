@@ -1,10 +1,11 @@
 ---
-title: "Laboratories of the Faculty of Agricultural, Environmental and Food Sciences"
+title: "MSDS of the Laboratories of the Faculty of Agricultural, Environmental and Food Sciences"
 ---
 
 ::: {style="font-size:18px;"}
 
-*Lorem* **ipsum** ***dolor*** sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed viverra ipsum nunc aliquet bibendum. Fusce id velit ut tortor pretium viverra suspendisse potenti nullam. Risus quis varius quam quisque id diam vel quam. Sit amet cursus sit amet.
+The Material Safety Data Sheets (MSDS) of the laboratories of the Faculty of Agricultural, Environmental and Food Sciences of the Free University of Bozen/Bolzano can be found on this page. The lists are sorted alphabetically and by individual laboratory. The MSDSs are constantly updated by the reagent manufacturer.
+The date on which the lists were updated can be found on each individual page.
 
 :::
 
