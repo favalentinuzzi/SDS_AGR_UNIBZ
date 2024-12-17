@@ -1,5 +1,5 @@
 ---
-title: "Lab E1.22 - Molecular entomology lab"
+title: "Lab E1.21 - Soil molecular ecology lab"
 ---
 
 ```{r setup, include=FALSE}
@@ -143,7 +143,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Hannes Schuler - [email](mailto:hannes.schuler@unibz.it)
+**Laboratory Responsible**: Luigimaria Borruso - [email](mailto:luigimaria.borruso@unibz.it)
 
 **Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+390471017627) 
 
@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 20 / 10 / 2023
+Last update: 17 / 12 / 2024
 
 ------------------------------------------------------------------------
 
