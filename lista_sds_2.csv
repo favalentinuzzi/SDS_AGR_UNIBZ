@@ -1621,21 +1621,21 @@ E1.20;T;;Tryptic soy agar;500;g;Biolife;1;4021502;https://gest.joyadv.it/public/
 E1.20;T;;Tryptone enzymatic digest from casein;1;kg;Fluka;1;95039-1KG;https://www.sigmaaldrich.com/IT/en/sds/sial/95039
 E1.20;Y;;Yeast extract;500;g;Fluka;1;70161-500G;https://www.sigmaaldrich.com/IT/en/sds/sial/70161
 E1.20;R;;Rosmarinic acid;50;mg;Sigma Aldrich;1;R4033-50MG;https://www.sigmaaldrich.com/IT/en/sds/sigma/r4033
-E1.21;N;;Nuclease-Free Water (NOT DEPC Treated);1;L;Invitrogen;1;AM9932;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FAM9932_MTR-NALT_EN.pdf
-E1.21;U;;UltraPure DEPC Treated Water;1;L;Invitrogen;1;750023;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2F750023_MTR-NALT_EN.pdf
-E1.21;T;;10X TBE Buffer;1;L;Invitrogen;1;AM9864;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FAM9864_MTR-NALT_EN.pdf
-E1.21;T;;TopVision Agarose;500;g;Thermo Scientific;1;R0492;-
-E1.21;S;;SYBR Safe DNA Gel Stain;400;µL;Invitrogen;1;S33102;https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FS33102_MTR-NALT_EN.pdf
-E1.21;R;;RNase AWAY (case of 6 bottles);475;mL;Thermo Fisher Scientific;1;7002;https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-001849_AUSD_ANZ_EN.pdf
-E1.21;R;;Rneasy PowerBiofilm kit (50);;;QIAGEN;1;25000-50;https://www.qiagen.com/binary/resource/sds/800000007794-en-US-US--1/7794-RNeasyPowerBiofilmKit(2)-en-US-US--1.00000.pdf
-E1.21;R;;Rneasy PowerSoil total RNA kit (25);;;QIAGEN;1;12866-25;https://www.qiagen.com/binary/resource/sds/800000007747-en-US-US--2/7747-RNeasyPowerSoilTotalRNAKit(25)-en-US-US--2.00000.pdf
-E1.21;P;;2X phusion flash PCR master mix;1;mL;Thermo Scientific;1;F-548;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FF548_MTR-EULT_BE.pdf
-E1.21;G;;GenRuler 50 bp DNA Ladder (Ready to use);50;µg;Thermo Scientific;1;SM0373;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FSM0374F_MTR-NALT_EN.pdf
-E1.21;G;;GenRuler Express DNA Ladder (Ready to use);50;µg;Thermo Scientific;1;SM1553;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FSM1554F_MTR-NALT_EN.pdf
-E1.21;T;;6 X TriTrack DNA Loading dye;1;mL;Thermo Scientific;1;R1161;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FR1161_MTR-EULT_BE.pdf
-E1.21;D;;6X DNA loading dye;1;mL;Thermo Scientific;1;R0611;-
-E1.21;K;;KAPA SYBR Fast qPCR Master mix 2X;5;mL;KAPABiosystem;1;KK4611;https://www.sigmaaldrich.com/IT/it/sds/roche/sflckb
-E1.21;P;;PowerProtect DNA/RNA;1;L;QIAGEN;1;14810;https://www.qiagen.com/us/knowledge-and-support/product-and-technical-support/quality-and-safety-data/sds-search?l=US&q=PowerProtect%20DNA%2FRNA
+E1.22;N;;Nuclease-Free Water (NOT DEPC Treated);1;L;Invitrogen;1;AM9932;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FAM9932_MTR-NALT_EN.pdf
+E1.22;U;;UltraPure DEPC Treated Water;1;L;Invitrogen;1;750023;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2F750023_MTR-NALT_EN.pdf
+E1.22;T;;10X TBE Buffer;1;L;Invitrogen;1;AM9864;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FAM9864_MTR-NALT_EN.pdf
+E1.22;T;;TopVision Agarose;500;g;Thermo Scientific;1;R0492;-
+E1.22;S;;SYBR Safe DNA Gel Stain;400;µL;Invitrogen;1;S33102;https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FS33102_MTR-NALT_EN.pdf
+E1.22;R;;RNase AWAY (case of 6 bottles);475;mL;Thermo Fisher Scientific;1;7002;https://assets.thermofisher.com/TFS-Assets%2FANZ%2FSDS%2FAUS-001849_AUSD_ANZ_EN.pdf
+E1.22;R;;Rneasy PowerBiofilm kit (50);;;QIAGEN;1;25000-50;https://www.qiagen.com/binary/resource/sds/800000007794-en-US-US--1/7794-RNeasyPowerBiofilmKit(2)-en-US-US--1.00000.pdf
+E1.22;R;;Rneasy PowerSoil total RNA kit (25);;;QIAGEN;1;12866-25;https://www.qiagen.com/binary/resource/sds/800000007747-en-US-US--2/7747-RNeasyPowerSoilTotalRNAKit(25)-en-US-US--2.00000.pdf
+E1.22;P;;2X phusion flash PCR master mix;1;mL;Thermo Scientific;1;F-548;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FF548_MTR-EULT_BE.pdf
+E1.22;G;;GenRuler 50 bp DNA Ladder (Ready to use);50;µg;Thermo Scientific;1;SM0373;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FSM0374F_MTR-NALT_EN.pdf
+E1.22;G;;GenRuler Express DNA Ladder (Ready to use);50;µg;Thermo Scientific;1;SM1553;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FSM1554F_MTR-NALT_EN.pdf
+E1.22;T;;6 X TriTrack DNA Loading dye;1;mL;Thermo Scientific;1;R1161;https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FR1161_MTR-EULT_BE.pdf
+E1.22;D;;6X DNA loading dye;1;mL;Thermo Scientific;1;R0611;-
+E1.22;K;;KAPA SYBR Fast qPCR Master mix 2X;5;mL;KAPABiosystem;1;KK4611;https://www.sigmaaldrich.com/IT/it/sds/roche/sflckb
+E1.22;P;;PowerProtect DNA/RNA;1;L;QIAGEN;1;14810;https://www.qiagen.com/us/knowledge-and-support/product-and-technical-support/quality-and-safety-data/sds-search?l=US&q=PowerProtect%20DNA%2FRNA
 E0.23;A;;Acetone;1;L;VWR;1;20.063.296;https://it.vwr.com/assetsvc/asset/en_GB/id/7468850/contents
 E0.23;A;;Ammonium nitrate≥98.5%, GPR RECTAPUR® ;1;kg;VWR;1;21.278.295;https://it.vwr.com/assetsvc/asset/en_GB/id/7666016/contents
 E0.23;D;;DMSO;500;mL;VWR;2;23.500.260;https://it.vwr.com/assetsvc/asset/en_GB/id/7666616/contents
