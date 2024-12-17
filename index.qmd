@@ -59,7 +59,7 @@ The date on which the lists were updated can be found on each individual page.
 - [BZ-NOI-A2 3.03f](BZ_A2303f.qmd) - Proteomics
 - [BZ-NOI-A2.4.09](BZ_A2409.qmd) - Laboratory for Bioenergy & Biofuels - Analytics and Processes
 
-## B1 Building
+## B5 Building
 
 - BZ-NOI-B5 0.02 - Agroforestry Innovations Lab
 
