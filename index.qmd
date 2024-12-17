@@ -64,6 +64,14 @@ The date on which the lists were updated can be found on each individual page.
 
 - BZ-NOI-B5 0.02 - Agroforestry Innovations Lab
 
+## D2 Building
+
+
+## F1 Building
+
+- BZ-NOI-F1 2.26 - Chemical Teaching Lab
+- BZ-NOI-F1 2.29 - Applied and Agro-Environmental Microbiology Lab
+
 # Laimburg
 
 ----
