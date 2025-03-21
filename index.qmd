@@ -70,7 +70,7 @@ The date on which the lists were updated can be found on each individual page.
 ## F1 Building
 
 - BZ-NOI-F1 2.26 - Chemical Teaching Lab
-- BZ-NOI-F1 2.29 - Applied and Agro-Environmental Microbiology Lab
+- [BZ-NOI-F1 2.29](BZ_F1229.qmd) - Applied and Agro-Environmental Microbiology Lab
 
 # Laimburg
 
