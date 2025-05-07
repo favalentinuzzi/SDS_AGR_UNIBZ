@@ -1,5 +1,5 @@
 ---
-title: "Lab E2.11 - Thin Film Lab"
+title: "Lab E2.11 - Thin Film Laboratory"
 ---
 
 ```{r setup, include=FALSE}
