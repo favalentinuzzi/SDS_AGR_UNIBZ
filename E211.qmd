@@ -1,5 +1,5 @@
 ---
-title: "Lab E1.23 - Laboratory for Soil Analysis"
+title: "Lab E2.11 - Thin Film Lab"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="E1.23")
+lista <- subset(lista_tot, lab=="E2.11")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -143,7 +143,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Paolo Lugli - [email](mailto:paolo.lugli@unibz.it)
+**Laboratory Responsible**: Niko Münzenrieder - [email](mailto:niko.münzenrieder@unibz.it)
 
 **Laboratory Technician**: Andrea La Monica - [email](mailto:andrea.lamonica@unibz.it) [phone](tel:+390471017040) 
 
