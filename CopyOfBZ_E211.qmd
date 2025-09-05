@@ -1,5 +1,5 @@
 ---
-title: "Lab A2.3.03c - Oenolab"
+title: "Lab E2.11 - Thin Film Laboratory"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="A2.3.03c")
+lista <- subset(lista_tot, lab=="E2.11")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -28,7 +28,7 @@ subset_by_letter <- function(data, letter) {
 tab_reagenti <- function(input) {
   output <- input %>%
     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
-    select(-c(1,2,5,6,8,10)) %>%
+    select(-c(1,2,3,5,6,8,10)) %>%
     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
   
@@ -143,9 +143,9 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Emanuele Boselli - [email](mailto:emanuele.boselli@unibz.it)
+**Laboratory Responsible**: Niko Münzenrieder - [email](mailto:niko.münzenrieder@unibz.it)
 
-**Laboratory Technician**: Giulia Windisch - [email](mailto:giulia.windisch@unibz.it) [phone](tel:+390471017009) 
+**Laboratory Technician**: Andrea La Monica - [email](mailto:andrea.lamonica@unibz.it) [phone](tel:+390471017040) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 05 / 09 / 2025
+Last update: 08 / 09 / 2023
 
 ------------------------------------------------------------------------
 
@@ -182,13 +182,13 @@ tab_reagenti(letter_B)
 
 ```
 
-### C
+<!-- ### C -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_C)
+<!-- tab_reagenti(letter_C) -->
 
-```
+<!-- ``` -->
 
 ### D
 
@@ -206,21 +206,21 @@ tab_reagenti(letter_E)
 
 ```
 
-### F
+<!-- ### F -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_F)
+<!-- tab_reagenti(letter_F) -->
 
-```
+<!-- ``` -->
 
-### G
+<!-- ### G -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_G)
+<!-- tab_reagenti(letter_G) -->
 
-```
+<!-- ``` -->
 
 ### H
 
@@ -230,13 +230,13 @@ tab_reagenti(letter_H)
 
 ```
 
-### I
+<!-- ### I -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_I)
+<!-- tab_reagenti(letter_I) -->
 
-```
+<!-- ``` -->
 
 <!-- ### J -->
 
@@ -246,21 +246,21 @@ tab_reagenti(letter_I)
 
 <!-- ``` -->
 
-### K
+<!-- ### K -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_K)
+<!-- tab_reagenti(letter_K) -->
 
-```
+<!-- ``` -->
 
-### L
+<!-- ### L -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_L)
+<!-- tab_reagenti(letter_L) -->
 
-```
+<!-- ``` -->
 
 ### M
 
@@ -270,21 +270,21 @@ tab_reagenti(letter_M)
 
 ```
 
-### N
-
-```{r echo=FALSE}
-
-tab_reagenti(letter_N)
-
-```
-
-<!-- ### O -->
+<!-- ### N -->
 
 <!-- ```{r echo=FALSE} -->
 
-<!-- tab_reagenti(letter_O) -->
+<!-- tab_reagenti(letter_N) -->
 
 <!-- ``` -->
+
+### O
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_O)
+
+```
 
 ### P
 
@@ -302,21 +302,21 @@ tab_reagenti(letter_P)
 
 <!-- ``` -->
 
-### R
+<!-- ### R -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_R)
+<!-- tab_reagenti(letter_R) -->
 
-```
+<!-- ``` -->
 
-### S
+<!-- ### S -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_S)
+<!-- tab_reagenti(letter_S) -->
 
-```
+<!-- ``` -->
 
 ### T
 
@@ -326,29 +326,29 @@ tab_reagenti(letter_T)
 
 ```
 
-### U
+<!-- ### U -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_U)
+<!-- tab_reagenti(letter_U) -->
 
-```
+<!-- ``` -->
 
-### V
+<!-- ### V -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_V)
+<!-- tab_reagenti(letter_V) -->
 
-```
+<!-- ``` -->
 
-### W
+<!-- ### W -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_W)
+<!-- tab_reagenti(letter_W) -->
 
-```
+<!-- ``` -->
 
 <!-- ### X -->
 
@@ -366,10 +366,10 @@ tab_reagenti(letter_W)
 
 <!-- ``` -->
 
-### Z
+<!-- ### Z -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Z)
+<!-- tab_reagenti(letter_Z) -->
 
-```
+<!-- ``` -->

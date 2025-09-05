@@ -767,271 +767,6 @@ E0.21;U;;Urea;1;kg;Panreac;1;A1049;https://www.itwreagents.com/download_file/sds
 E0.21;V;;Vitamin B12;25;mg;Sigma Aldrich;1;V2876;https://www.sigmaaldrich.com/IT/en/sds/sigma/v2876
 E0.21;Y;;Yeast extract;5;kg;Fluka;1;92144-5KG;https://www.sigmaaldrich.com/IT/en/sds/sial/92144
 E0.21;Y;;Yeast extract;5;kg;VWR;1;J850-5KG;https://it.vwr.com/assetsvc/asset/en_GB/id/23071709/contents
-A2.3.03c;F;Acidi 1;Formic Acid 98/100%;1;L;Fisher Chemical;2;F/1900/PB08;https://www.fishersci.it/store/msds?partNumber=10141570&productDescription=lt-formic-acid--certified-ar-for-analysis&keyword=true&countryCode=GB&language=en
-A2.3.03c;H;Acidi 1;Hydrocloric Acid;2,5;L;Honeywell - Fluka;1;30721;https://lab.honeywell.com/sm/api/rc/documents/download/30721-1L_SDS_GB_E?appId=76&catNo=30721-1L&matnr=10598287&lang=E&country=GB&type=SDS
-A2.3.03c;P;Acidi 1;Phosporic Acid 85%;1;L;Chem-Lab;2;CL00.0605.1000;https://www.chem-lab.be/en-gb/prod/1393422
-A2.3.03c;S;Acidi 1;Sodium Chloride 10g/l + Potassium aluminium (III) sulfate 120 g/l solution;500;mL;Chem-Lab;1;CL12.1416.0500;https://www.chem-lab.be/en-gb/prod/1397521
-A2.3.03c;S;Acidi 1;Sulfuric acid;02.May;L;Honeywell - Fluka;1;7208;https://lab.honeywell.com/sm/api/rc/documents/download/07208-1L_SDS_GB_E?appId=76&catNo=07208-1L&matnr=10185806&lang=E&country=GB&type=SDS
-A2.3.03c;H;Acidi 1;Hydrogen Perioxide 0.9 weight % solution;1;L;Chem-Lab;3;CL12.2303.1000;https://www.chem-lab.be/en-gb/prod/1396067
-A2.3.03c;H;Acidi 1;Hydrogen Peroxide 30%;1;L;Sigma-Aldrich;2;822287;https://www.sigmaaldrich.com/IT/en/sds/mm/8.22287
-A2.3.03c;A;Acidi 1;Ammonium formate 99%;250;g;ACROS;2;401152500;https://www.sigmaaldrich.com/IT/en/sds/sial/70221
-A2.3.03c;S;Acidi 1;Sodium thiosulfate concentrate;;;;;;
-A2.3.03c;A;Acidi 1;Acido solforico 1mol/L (2N);1;L;zeta Lab;2;CE41057;https://www.sigmaaldrich.com/IT/en/sds/mm/1.60313
-A2.3.03c;I;Acidi 1;Iodine ACS reagent 99.8% solid;100;g;Sigma-Aldrich;1;207772;https://www.sigmaaldrich.com/IT/en/sds/sigald/207772
-A2.3.03c;T;Acidi 1;Acido Trifluoroacetico;100;mL;VWR;1;;https://www.sigmaaldrich.com/IT/en/sds/sigald/t6508
-A2.3.03c;M;Acidi 2;5-Metil-3-eptanone;1;L;Sigma-Aldrich;1;67260;https://www.sigmaaldrich.com/IT/en/sds/aldrich/67260
-A2.3.03c;P;Acidi 2;α-Pinene;250;mL;Sigma-Aldrich;1;147524;https://www.sigmaaldrich.com/IT/en/sds/aldrich/147524
-A2.3.03c;M;Acidi 2;2-Methylpentanal;100;mL;Sigma-Aldrich;1;258563;https://www.sigmaaldrich.com/IT/en/sds/aldrich/258563
-A2.3.03c;P;Acidi 2;(-)-β-Pinene;250;mL;Sigma-Aldrich;1;112089;https://www.sigmaaldrich.com/IT/en/sds/aldrich/112089
-A2.3.03c;I;Acidi 2;Iron (III) chloride;500;g;Sigma-Aldrich;2;803945;https://www.sigmaaldrich.com/IT/en/sds/mm/8.03945
-A2.3.03c;S;Acidi 2;Sodium citrate dibasic sesquihydrate;1;kg;Sigma-Aldrich;1;71635;https://www.sigmaaldrich.com/IT/en/sds/sial/71635
-A2.3.03c;M;Acidi 2;Magnesium sulfate;1;kg;Sigma-Aldrich;1;793612;https://www.sigmaaldrich.com/IT/en/sds/sigald/793612
-A2.3.03c;H;Acidi 2;4-Hydroxybenzoic acid;1;kg;Sigma-Aldrich;1;W398608;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w398608
-A2.3.03c;A;Acidi 2;Ammonium iron (II) sulfate hexahydrate;500;g;Sigma-Aldrich;1;215406;https://www.sigmaaldrich.com/IT/en/sds/sigald/215406
-A2.3.03c;N;Acidi 2;Nitric Acid puriss;2,5;L;Honeywell;1;30702;https://lab.honeywell.com/sm/api/rc/documents/download/30702-2.5L_SDS_GB_E?appId=76&catNo=30702-2.5L&matnr=10629262&lang=E&country=GB&type=SDS
-A2.3.03c;I;Acidi 2;Iron (III) nitrate nonahydrate;1;kg;Carlo Erba;1;451727;https://www.carloerbareagents.com/cerstorefront/cer-it/Products-categories/Chemicals/Ferro-nitrato-ico-nonaidrato-RPE---Per-analisi---ACS/p/095600AA02550
-A2.3.03c;M;Acidi 2;Malvidin chloride;1;mg;Sigma-Aldrich;1;68120;https://www.sigmaaldrich.com/IT/en/sds/sigma/68120
-A2.3.03c;M;Acidi 2;Molybdenum Standard for ICP;100;mL;Sigma-Aldrich;1;39891;https://www.sigmaaldrich.com/IT/en/sds/sial/39891
-A2.3.03c;S;Acidi 2;Selenium Standard for ICP;100;mL;Sigma-Aldrich;1;98838;https://www.sigmaaldrich.com/IT/en/sds/sial/98838
-A2.3.03c;Z;Acidi 2;Zinc Standard for ICP;100;mL;Sigma-Aldrich;1;68961;https://www.sigmaaldrich.com/IT/en/sds/sial/68961
-A2.3.03c;I;Acidi 2;Iron Standard for ICP;100;mL;Sigma-Aldrich;1;56209;https://www.sigmaaldrich.com/IT/en/sds/sial/56209
-A2.3.03c;A;Acidi 2;Aluminium  Standard for ICP;100;mL;Sigma-Aldrich;1;41377;https://www.sigmaaldrich.com/IT/en/sds/sial/41377
-A2.3.03c;P;Acidi 2;Potassium Standard for ICP;100;mL;Sigma-Aldrich;1;68371;https://www.sigmaaldrich.com/IT/en/sds/sial/68371
-A2.3.03c;S;Acidi 2;Sodium Standard for ICP;100;mL;Sigma-Aldrich;1;39924;https://www.sigmaaldrich.com/IT/en/sds/sial/39924
-A2.3.03c;M;Acidi 2;Magnesium Standard for ICP;100;mL;Sigma-Aldrich;1;80759;https://www.sigmaaldrich.com/IT/en/sds/sial/80759
-A2.3.03c;C;Acidi 2;Calcium Standard for ICP;100;mL;Sigma-Aldrich;1;94458;https://www.sigmaaldrich.com/IT/en/sds/sial/94458
-A2.3.03c;S;Acidi 2;Scandium Standard for ICP;100;mL;Sigma-Aldrich;1;92279;https://www.sigmaaldrich.com/IT/en/sds/sial/92279
-A2.3.03c;L;Acidi 2;Lanthanum Standard for ICP;100;mL;Sigma-Aldrich;1;11523;https://www.sigmaaldrich.com/IT/en/sds/sial/11523
-A2.3.03c;C;Acidi 2;Copper Standard for ICP;100;mL;Sigma-Aldrich;1;94459;https://www.sigmaaldrich.com/IT/en/sds/sial/94459
-A2.3.03c;M;Acidi 2;Manganese Standard for ICP;100;mL;Sigma-Aldrich;1;74128;https://www.sigmaaldrich.com/IT/en/sds/sial/74128
-A2.3.03c;A;Acidi 2;Arsenic Standard for ICP;100;mL;Sigma-Aldrich;1;1969;https://www.sigmaaldrich.com/IT/en/sds/sial/01969
-A2.3.03c;P;Acidi 2;Phosphorous Standard for ICP;100;mL;Sigma-Aldrich;1;19916;https://www.sigmaaldrich.com/IT/en/sds/sial/19916
-A2.3.03c;S;Acidi 2;Sulfur Standard for ICP;100;mL;Sigma-Aldrich;1;94430;https://www.sigmaaldrich.com/IT/en/sds/sial/94430
-A2.3.03c;S;Acidi 2;Silicum Standard for ICP;100;mL;Sigma-Aldrich;1;8729;https://www.sigmaaldrich.com/IT/en/sds/sial/08729
-A2.3.03c;L;Acidi 2;Lead Standard for ICP;100;mL;Sigma-Aldrich;1;41318;https://www.sigmaaldrich.com/IT/en/sds/sial/41318
-A2.3.03c;T;Acidi 2;Titanium Standard for ICP;100;mL;Sigma-Aldrich;1;12237;https://www.sigmaaldrich.com/IT/en/sds/sial/12237
-A2.3.03c;C;Acidi 2;Cadmium;125;mL;inorganic ventures;1;CGCD10;https://ivlabsmsds.thewercs.com/External/Webviewer/DirectSearchResult/Result?lang-id=EN&subformat-id=EGHS&product-name=CGCD10#
-A2.3.03c;C;Acidi 3;Citric Acid;1;kg;;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/110221
-A2.3.03c;E;Acidi 3;4-Ethylphenol;100;g;Aldrich chemistry;1;E44205;https://www.sigmaaldrich.com/IT/en/sds/sial/251275
-A2.3.03c;I;Acidi 3;2-Isopropyl-3-methoxypyrazine;SAMPLE;;Sigma-Aldrich;1;W335808;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e44205
-A2.3.03c;P;Acidi 3;2-Pentanol;1;mL;Sigma-Aldrich;1;44759;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w335808
-A2.3.03c;M;Acidi 3;4-Methylcatechol;5;g;Aldrich chemistry;1;M34200;https://www.sigmaaldrich.com/IT/en/sds/sial/44759
-A2.3.03c;M;Acidi 3;3-(Methylthio)-1-propanol;SAMPLE;;Sigma-Aldrich;1;W341509;https://www.sigmaaldrich.com/IT/en/sds/aldrich/m34200
-A2.3.03c;M;Acidi 3;2-Methyl-3-pentanol;10;g;Aldrich chemistry;1;129976;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w341509
-A2.3.03c;E;Acidi 3;Ethyl lactate;SAMPLE;;Sigma-Aldrich;1;W244015;https://www.sigmaaldrich.com/IT/en/sds/aldrich/129976
-A2.3.03c;T;Acidi 3;2,4,6-Trichloroanisole;1;g;Aldrich chemistry;1;235393;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w244015
-A2.3.03c;G;Acidi 3;(+-) Geosmin solution;;;Sigma-Aldrich;1;CRM47522;https://www.sigmaaldrich.com/IT/en/sds/aldrich/235393
-A2.3.03c;V;Acidi 3;Vanillin;100;g;Sigma-Aldrich;1;V1104;https://www.sigmaaldrich.com/IT/en/sds/supelco/crm47522
-A2.3.03c;M;Acidi 3;Methyl anthranilate;SAMPLE;;Sigma-Aldrich;1;W268224;https://www.sigmaaldrich.com/IT/en/sds/sial/v1104
-A2.3.03c;M;Acidi 3;L-(-)-Malic Acid;100;g;Sigma-Aldrich;1;112577;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w268224
-A2.3.03c;A;Acidi 3;Activated charcoal purum;1;kg;;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/112577
-A2.3.03c;I;Acidi 3;iodio 0,5mol in soluzione acquosa;1;L;;1;CL12.1003;https://www.sigmaaldrich.com/IT/en/sds/sigald/161551
-A2.3.03c;F;Acidi 3;Formiato di ammonio;100;g;Sigma-Aldrich;1;70221;https://www.chem-lab.be/en-gb/prod/1397825
-A2.3.03c;G;Acidi 3;Gallic acid anhydrous;0.1000;kg;Carbosynth;1;FG11942;https://www.sigmaaldrich.com/IT/en/sds/sial/70221
-A2.3.03c;T;Acidi 3;Tolylene-2,4-diisocyanate;250;g;Sigma-Aldrich;1;216836;https://www.biosynth.com/Files/MSDS/FG/11/MSDS_FG11942_4000_EN.pdf
-A2.3.03c;G;Acidi 3;Glicole propilenico;1;L;Oxxigena;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/216836
-A2.3.03c;G;Acidi 3;Glicerina vegetale;1;L;Oxxigena;1;;
-A2.3.03c;A;Acidi 3;Ammonium chloride;500;g;Sigma-Aldrich;1;213330;https://www.sigmaaldrich.com/IT/en/sds/sigald/213330
-A2.3.03c;A;Acidi 3;Ammonium chloride;1;kg;Sigma-Aldrich;1;31107-M;https://www.sigmaaldrich.com/IT/en/sds/sial/31107-m
-A2.3.03c;D;Acidi 3;3,4-Dihydroxybenzoic Acid;;;TCI;1;C0055;https://www.tcichemicals.com/IT/en/p/C0055#docomentsSectionPDP
-A2.3.03c;C;Acidi 3;Calcium chloride anhydrous;1;kg;Carlo Erba;1;328757;https://www.carloerbareagents.com/cerstorefront/cer-exp/Products-categories/Chemicals/Calcium-chloride-anhydrous-RE---Pure---Granular/p/034200DD14210
-A2.3.03c;H;Acidi 3;2-(Hydroxyphenyl)ethanol;500;mg;Sigma-Aldrich;1;79058;https://www.sigmaaldrich.com/IT/en/sds/sial/79058
-A2.3.03c;C;Acidi 3;Chlorogenic acid hydrate;;;TCI;1;C0181;https://www.tcichemicals.com/IT/en/p/C0181#docomentsSectionPDP
-A2.3.03c;D;Acidi 3;2,4-Diaminotoluene 98%;50;g;Sigma-Aldrich;1;101915;https://www.sigmaaldrich.com/IT/en/sds/aldrich/101915
-A2.3.03c;M;Acidi 3;3-mercapto-1-hexanol 98% ;5;mL;Acros;1;347560050;https://www.sigmaaldrich.com/IT/en/sds/aldrich/cds001520
-A2.3.03c;M;Acidi 3;3-Mercaptohexyl acetate 98%  ;SAMPLE;;Sigma-Aldrich;1;W385101;https://www.sigmaaldrich.com/IT/en/sds/sial/w385101
-A2.3.03c;M;Acidi 3;Maltol 99% ;250;g;Sigma-Aldrich;1;W265608;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w265608
-A2.3.03c;M;Acidi 3;3-methyl-1,2-cyclopentanedione 99%;10;g;Sigma-Aldrich;1;178500;https://www.sigmaaldrich.com/IT/en/sds/aldrich/178500
-A2.3.03c;M;Acidi 3;2-methoxy-3-(1-methylpropyl)pyrazine 98%;25;g;Sigma-Aldrich;1;W343307;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w343307
-A2.3.03c;B;Acidi 3;Benzyl alcohol ;100;mL;Sigma-Aldrich;1;13160;https://www.sigmaaldrich.com/IT/en/sds/sigald/13160
-A2.3.03c;B;Acidi 3;Benzaldehyde 99%;250;mL;Sigma-Aldrich;1;B1334;https://www.sigmaaldrich.com/IT/en/sds/sial/b1334
-A2.3.03c;E;Acidi 3;eugenol;5;g;Sigma-Aldrich;1;E51791;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e51791
-A2.3.03c;A;Acidi 4;Amberlite XAD 16;500;g;Supelco;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/xad16
-A2.3.03c;S;Acidi 4;Sea Sand purified by acid and calcined for analysis;1;kg;Supelco;1;1077121000;https://www.sigmaaldrich.com/IT/en/sds/mm/1.07712
-A2.3.03c;S;Acidi 4;Sephadex LH 20;1;;Supelco;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/lh20100
-A2.3.03c;T;Acidi 4;TLC Silica gel 60;25;sheets;Supelco;1;1055530001;
-A2.3.03c;S;Acidi 4;Silica gel;1;kg;Supelco;1;227196;https://www.sigmaaldrich.com/IT/en/sds/sial/227196
-A2.3.03c;D;Acidi 4;Deuterium oxide 99.9%D;1;kg;Sigma-Aldrich;1;613444;https://www.sigmaaldrich.com/IT/en/sds/aldrich/613444
-A2.3.03c;A;Acidi 4;Amberlite XAD1180N;250;g;Sigma-Aldrich;1;6474;https://www.sigmaaldrich.com/IT/en/sds/sial/06474
-A2.3.03c;A;Acidi 4;Amberlite XAD-7HP;1;kg;Supelco;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/xad7
-A2.3.03c;A;Basi 1;Antischiuma silicone 2%;500;mL;Titolchimica;1;TC47000PP;
-A2.3.03c;C;Basi 1;Calcium hydroxide (12%CaO solution);500;mL;Chem-Lab;2;CL12.0303.0500;https://www.chem-lab.be/en-gb/prod/1395607
-A2.3.03c;M;Basi 1;Mixture indicator 1;100;mL;Chem-Lab;3;CL12.0904.0100;https://www.chem-lab.be/en-gb/prod/1396115
-A2.3.03c;S;Basi 1;Sodium Carbonate;1;kg; Honeywell- Fluka;1;31432;https://lab.honeywell.com/sm/api/rc/documents/download/31432-500G_SDS_GB_E?appId=76&catNo=31432-500G&matnr=10094562&lang=E&country=GB&type=SDS
-A2.3.03c;S;Basi 1;Sodium hydroxide 0.01 mol/l;1;L;Chem-Lab;4;CL05.1408.1000;https://www.chem-lab.be/en-gb/prod/1393563
-A2.3.03c;S;Basi 1;Sodium hydroxide ;1;kg;Honeywell-Fluka;1;30620;https://lab.honeywell.com/sm/api/rc/documents/download/30620-1KG_SDS_GB_E?appId=76&catNo=30620-1KG&matnr=10094491&lang=E&country=GB&type=SDS
-A2.3.03c;S;Basi 1;Sodium sulfate;500;g;Sigma-Aldrich;4;239313;https://www.sigmaaldrich.com/IT/en/sds/sigald/239313
-A2.3.03c;S;Basi 1;sodium chloride;1;kg;Honeywell-Fluka;2;;https://lab.honeywell.com/sm/api/rc/documents/download/31434-1KG_SDS_GB_E?appId=76&catNo=31434-1KG&matnr=10191183&lang=E&country=GB&type=SDS
-A2.3.03c;S;Basi 1;Sodium carbonate;1;kg;Sigma-Aldrich;1;223530;https://www.sigmaaldrich.com/IT/en/sds/sigald/223530?userType=anonymous
-A2.3.03c;P;Basi 1;Potassium permanganate solution;1;L;Supelco;1;109121;https://www.sigmaaldrich.com/IT/en/sds/mm/1.09121
-A2.3.03c;P;Basi 1;Pyridine;1;L;Chem-Lab;1;CL00.1611;https://www.chem-lab.be/en-gb/prod/1394289
-A2.3.03c;S;Basi 1;sodium phosphate monobasic dihydrate;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/71505
-A2.3.03c;P;Basi 1;Phenolphtalein 10g/l in ethanol indicator solution;100;mL;Chem-Lab;1;CL06.0604;https://www.chem-lab.be/en-gb/prod/1393737
-A2.3.03c;G;Basi 2;Gum arabic;1;kg;Merck;1;1,04228;https://www.sigmaaldrich.com/IT/en/sds/mm/1.04228
-A2.3.03c;S;Basi 2;Sodium Hydride, 60%;100;g;Sigma-Aldrich;1;452912;https://www.sigmaaldrich.com/IT/en/sds/aldrich/452912
-A2.3.03c;G;Basi 2;Gelatine;500;g;VWR;2;;https://www.sigmaaldrich.com/IT/en/sds/mm/1.04070
-A2.3.03c;L;Basi 2;Lithium chloride, anhydrous, 99%;250;g;Alfa Aesar;1;10515;https://www.alfa.com/en/msds/?language=EE&subformat=CLP1&sku=10515
-A2.3.03c;U;Basi 2;Urea;1;kg;Sigma-Aldrich;1;33247;https://www.sigmaaldrich.com/IT/en/sds/sial/33247
-A2.3.03c;S;Basi 2;Soda caustica;1;kg;;2;;
-A2.3.03c;C;Basi 2;B- Cyclodexterin;;;TCI;2;;https://www.tcichemicals.com/BE/en/p/C0777#docomentsSectionPDP
-A2.3.03c;E;Basi 2;Ethyl trans caffeate;100;mg;Sigma-Aldrich;1;PHL83086;https://www.sigmaaldrich.com/IT/en/sds/sial/phl83086?userType=anonymous
-A2.3.03c;E;Basi 2;Ethyl 4-hydroxy-3-methoxycinnamate 99%;1;g;Sigma-Aldrich;1;320617;https://www.sigmaaldrich.com/IT/en/sds/aldrich/320617?userType=anonymous
-A2.3.03c;P;Basi 2;6-O-palmitoyl-L-ascorbic acid;25;g;Sigma-Aldrich;1;76183;https://www.sigmaaldrich.com/IT/en/sds/sigma/76183?userType=anonymous
-A2.3.03c;E;Basi 2;Ethyl gallate;100;mg;Sigma-Aldrich;1;PHL83080;https://www.sigmaaldrich.com/IT/en/sds/sial/phl83080?userType=anonymous
-A2.3.03c;T;Basi 2;Tyrosol;20;mg;Sigma-Aldrich;1;PHL80166;https://www.sigmaaldrich.com/IT/it/sds/supelco/phl80166?userType=anonymous
-A2.3.03c;E;Basi 2;Ethyl 3,4-dihydroxybenzoate, 97%;5;g;Sigma-Aldrich;1;E24859;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e24859?userType=anonymous
-A2.3.03c;F;Basi 2;Trans-ferulic acid, 99%;25;g;Sigma-Aldrich;1;128708;https://www.sigmaaldrich.com/IT/it/sds/aldrich/128708?userType=anonymous
-A2.3.03c;P;Basi 3;Potassium disulfite;500;g;Sigma-Aldrich;1;P2522;https://www.sigmaaldrich.com/IT/en/sds/sigald/p2522
-A2.3.03c;I;Basi 3;Idrossido di potassio;1000;g;Sigma-Aldrich;2;814353;https://www.sigmaaldrich.com/IT/en/sds/mm/8.14353
-A2.3.03c;P;Basi 3;Potassium iodide;250;g;Honeywell- fluka;1;30315;https://lab.honeywell.com/sm/api/rc/documents/download/30315-250G_SDS_GB_E?appId=76&catNo=30315-250G&matnr=10190659&lang=E&country=GB&type=SDS
-A2.3.03c;P;Basi 3;Potassio idrossido >85%;500;g;VWR;1;;https://www.sigmaaldrich.com/IT/en/sds/mm/1.05033
-A2.3.03c;M;FOOD GRADE 1;DL-Malic acid FCC;1;kg;Sigma-Aldrich;1;27606;https://www.sigmaaldrich.com/IT/it/sds/sigma/27606
-A2.3.03c;M;FOOD GRADE 1;DL-Methionine FCC FG;1;kg;Sigma-Aldrich;1;W330108;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w330108
-A2.3.03c;S;FOOD GRADE 1;Succinic Acid;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/s7501
-A2.3.03c;T;FOOD GRADE 1;L-(+)- Tartaric Acid;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/251380
-A2.3.03c;L;FOOD GRADE 1;Lactic Acid;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w261106
-A2.3.03c;C;FOOD GRADE 1;Citric acid FCC, FG;1;kg;Sigma-Aldrich;1;W230618;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w230618
-A2.3.03c;F;FOOD GRADE 1;D-(-)-Fructose;1;kg;Sigma-Aldrich;1;F0127;https://www.sigmaaldrich.com/IT/en/sds/sigma/f0127
-A2.3.03c;M;FOOD GRADE 1;Metabisolfito di potassio;1;kg;Viny;1;240-795-3;https://www.enolapi.net/wordpress/wp-content/uploads/2017/10/METABISOLFITO-DI-POTASSIO-scheda-di-sicurezza.pdf?x44800
-A2.3.03c;G;FOOD GRADE 1;D-(+)-Glucose;1;kg;Sigma-Aldrich;1;49152;https://www.sigmaaldrich.com/IT/en/sds/sial/49152
-A2.3.03c;P;FOOD GRADE 1;Potassium L- tartrate monobasic for analysis;1;kg;Sigma-Aldrich;1;474517;https://www.sigmaaldrich.com/IT/en/sds/aldrich/243531
-A2.3.03c;C;FOOD GRADE 2;Caffeine anhydrous 99% FCC, FG;1;kg;Sigma-Aldrich;1;W222402;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w222402
-A2.3.03c;F;FOOD GRADE 2;D-(-)-Fructose;1;kg;Sigma-Aldrich;2;F0127;https://www.sigmaaldrich.com/IT/en/sds/sigma/f0127
-A2.3.03c;G;FOOD GRADE 2;D(+)Glucose;1;kg;Sigma-Aldrich;1;CL00.7505.1000;https://www.chem-lab.be/en-gb/prod/1392929
-A2.3.03c;E;Freezer;Ethanethiol;1;mL;Sigma-Aldrich;1;W425800;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w425800
-A2.3.03c;B;Freezer;Benzyl mercaptan;100;g;Aldrich;1;B25401;https://www.sigmaaldrich.com/IT/en/sds/aldrich/b25401
-A2.3.03c;M;Freezer;2-Methyl-3-pentanol, 99%;10;g;Alfa Aesar;1;L08015;https://www.alfa.com/it/msds/?language=EE&subformat=CLP1&sku=L08015
-A2.3.03c;T;Freezer;2,3,5,6-Tetrachloroanisole;100;mg;Sigma-Aldrich;1;78245;https://www.sigmaaldrich.com/IT/en/sds/sial/78245
-A2.3.03c;S;Freezer;Styrene;250;mg;Sigma-Aldrich;1;45993;https://www.sigmaaldrich.com/IT/en/sds/sial/45993
-A2.3.03c;P;Freezer;Phloroglucinol >99% (HPLC);100;g;Aldrich;1;79330;https://www.sigmaaldrich.com/IT/en/sds/aldrich/79330
-A2.3.03c;V;Freezer;Vanillic Acid 97%;25;g;Aldrich;1;H36001;https://www.sigmaaldrich.com/IT/en/sds/aldrich/h36001
-A2.3.03c;R;Freezer;Rutin Hydrate;0.0500;kg;Carbosynth;1;OR03679;https://www.biosynth.com/Files/MSDS/OR/03/MSDS_OR03679_4000_EN.pdf
-A2.3.03c;R;Freezer;Resveratrol(>99% HPLC);100;mg;Sigma;1;R5010;https://www.sigmaaldrich.com/IT/en/sds/sigma/r5010
-A2.3.03c;P;Freezer;Procyanidin A2;5;mg;Extrasynthese;1;0985 S;https://www.extrasynthese.com/MSDS/GBR/0985.pdf
-A2.3.03c;A;Freezer;ABTS;2;g;Sigma-Aldrich;1;11684302001;https://www.sigmaaldrich.com/IT/it/sds/roche/11684302001
-A2.3.03c;H;Freezer;4-Hydroxy-3-methoxycinnamic acid;100;mg;Sigma-Aldrich;1;90034;https://www.sigmaaldrich.com/IT/en/sds/sial/90034
-A2.3.03c;D;Freezer;4-(Dimethylamino)cinnamaldehyde;5;g;Sigma;1;D4506;https://www.sigmaaldrich.com/IT/en/sds/mm/8.22034
-A2.3.03c;D;Freezer;2,2-Dipenyl-1-picylhydrazyl;1;g;Aldrich;1;D9132;https://www.sigmaaldrich.com/IT/en/sds/aldrich/d9132
-A2.3.03c;C;Freezer;(+)- Cathechin;10;mg;Extrasynthese;1;0976 S;https://www.extrasynthese.com/MSDS/GBR/0976.pdf
-A2.3.03c;S;Freezer;Syringic acid;5;g;Sigma;1;S6881;https://www.sigmaaldrich.com/IT/en/sds/sigma/s6881
-A2.3.03c;E;Freezer;(-)-Epicatechin;1;g;Sigma;1;E1753;https://www.sigmaaldrich.com/IT/en/sds/sigma/e1753
-A2.3.03c;C;Freezer;(+)-Catechin hydrate;5;g;Sigma;1;C1251;https://www.sigmaaldrich.com/IT/en/sds/sigma/c1251
-A2.3.03c;B;Freezer;Betulin;50;mg;Fluka;1;92648;https://www.sigmaaldrich.com/IT/en/sds/sial/92648
-A2.3.03c;A;Freezer;Ammonium acetate D7 98%;;;Sigma-Aldrich;1;440485;https://www.sigmaaldrich.com/IT/en/sds/aldrich/440485
-A2.3.03c;P;Freezer;Protease from Streptomyces griseus;100;mg;Sigma-Aldrich;1;P5147;https://www.sigmaaldrich.com/IT/en/sds/sigma/p5147
-A2.3.03c;C;Freezer;Caffeic acid;5;g;Sigma-Aldrich;1;C0625;https://www.sigmaaldrich.com/IT/en/sds/sigma/c0625
-A2.3.03c;P;Freezer;Phylloquinone (K1);standard;;Sigma-Aldrich;1;47773;https://www.sigmaaldrich.com/IT/en/sds/supelco/47773
-A2.3.03c;M;Freezer;Menaquinone (K2);100;mg;Supelco;1;47774;https://www.sigmaaldrich.com/IT/en/sds/supelco/47774
-A2.3.03c;M;Freezer;Malvidin 3-glucoside chloride;10;mg;Sigma-Aldrich;1;PHL89728;https://www.sigmaaldrich.com/IT/en/sds/supelco/phl89728
-A2.3.03c;R;Freezer;Resveratrol 99% (HPLC);100;mg;Sigma-Aldrich;2;R5010;https://www.sigmaaldrich.com/IT/en/sds/sigma/r5010
-A2.3.03c;M;Freezer;Malvidin-3-galactoside chloride;1;mg;Sigma-Aldrich;1;79311;https://www.sigmaaldrich.com/IT/en/sds/sial/79311
-A2.3.03c;M;Freezer;Malvidin 3,5-diglucoside chloride;10;mg;PhytoLab;1;89727;https://phyproof.phytolab.com/f/sdb_en/malvidin-3-5-diglucoside-chloride-89727-reference-substance-material-safety-data-sheet-SDB_89727_EN.pdf
-A2.3.03c;P;Freezer;Procyanidin B2;10;mg;Sigma-Aldrich;1;PHL89552;https://www.sigmaaldrich.com/IT/en/sds/supelco/phl89552
-A2.3.03c;P;Freezer;Procyanidin C1;5;mg;Sigma-Aldrich;1;PHL89537;https://www.sigmaaldrich.com/IT/en/sds/supelco/phl89537
-A2.3.03c;A;Freezer;Astilbin;5;mg;;1;AAB143575;https://www.sigmaaldrich.com/IT/en/sds/sial/phl80356
-A2.3.03c;H;Freezer;Hydroxytyrosol;10;mg;Sigma-Aldrich;1;PHL80152;https://www.sigmaaldrich.com/IT/en/sds/supelco/phl80152?userType=anonymous
-A2.3.03c;P;Frigo;Protease from Streptomyces griseus;100;mg;Sigma;1;P5147;https://www.sigmaaldrich.com/IT/en/sds/sigma/p5147?userType=anonymous
-A2.3.03c;V;Frigo;Vitamin B12;1;g;Sigma;1;V2876;https://www.sigmaaldrich.com/IT/EN/sds/sigma/v2876
-A2.3.03c;V;Frigo;Vitamin K1;1;g;Sigma;1;95271;https://www.sigmaaldrich.com/IT/en/sds/sigma/95271
-A2.3.03c;L;Frigo;Lipase from Candida rugosa;5;g;Sigma;1;L1754;https://www.sigmaaldrich.com/IT/en/sds/sigma/l1754
-A2.3.03c;S;Frigo;Squalane 96%;5;g;Aldrich;1;234311;https://www.sigmaaldrich.com/IT/en/sds/aldrich/234311
-A2.3.03c;A;Frigo;a-amylase from Aspergillus oryzae;20;g;Sigma;1;10065;https://www.sigmaaldrich.com/IT/en/sds/sigma/10065
-A2.3.03c;P;Frigo;Phylloquinone (K1);Sample;;Supelco;1;47773;https://www.sigmaaldrich.com/IT/en/sds/supelco/47773?userType=anonymous
-A2.3.03c;M;Frigo;Menaquinone (K2);100;mg;Supelco;1;47774;https://www.sigmaaldrich.com/IT/en/sds/supelco/47774?userType=anonymous+
-A2.3.03c;B;Frigo;BSTFA;10;mL;Sigma;1;CL00.0242.0010;https://www.sigmaaldrich.com/IT/en/sds/aldrich/155195?userType=anonymous
-A2.3.03c;H;Frigo;4-Hydroxy-2,5-dimethyl-3(2h)-furanone 99%;25;g;Sigma;1;40703;https://www.sigmaaldrich.com/IT/en/sds/aldrich/40703?userType=anonymous
-A2.3.03c;G;Frigo;Guaiacol;1,5;g;Supelco;1;PHR1136;https://www.sigmaaldrich.com/IT/en/sds/sial/phr1136?userType=anonymous
-A2.3.03c;E;Frigo;Ethyl cinnamate 99% ;100;g;Sigma;1;112372;https://www.sigmaaldrich.com/IT/en/sds/aldrich/112372?userType=anonymous
-A2.3.03c;M;Frigo;4-mercapto-4-methyl-2-pentanone;1;g;Alfa Aesar;1;h31693.3;
-A2.3.03c;S;Frigo;Syringaldehyde analytical standard;100;mg;Sigma;1;"""08319""";https://www.sigmaaldrich.com/IT/en/sds/sial/08319?userType=anonymous
-A2.3.03c;D;Frigo;Damascenone;250;mg;Sigma;1;41163;https://www.sigmaaldrich.com/IT/en/sds/sial/41163?userType=anonymous
-A2.3.03c;L;Frigo;Linalool Oxide;Sample;;Sigma;1;W374600;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w374600?userType=anonymous
-A2.3.03c;C;Frigo;( R)-(+)B-Citronellol;1;g;Sigma;1;303461;https://www.sigmaaldrich.com/IT/en/sds/aldrich/303461?userType=anonymous
-A2.3.03c;I;Frigo;Iodoethane-d5;1;g;Sigma;1;324582;https://www.sigmaaldrich.com/IT/en/sds/aldrich/324582?userType=anonymous
-A2.3.03c;T;Frigo;(-)-α-Terpineol;Sample;;Sigma;2;W304522-SAMPLE-K;https://www.sigmaaldrich.com/IT/it/sds/aldrich/w304522?userType=anonymous
-A2.3.03c;T;Frigo;(+)-a-Terpineol;5;mL;Sigma;1;83073;https://www.sigmaaldrich.com/IT/it/sds/sial/83073?userType=anonymous
-A2.3.03c;L;Frigo;Linalool analytical standard;1;mL;Sigma;1;51782;https://www.sigmaaldrich.com/IT/it/sds/sial/51782?userType=anonymous
-A2.3.03c;T;Frigo;(S)-(-)-a-Terpineol;Sample;;Sigma;1;821078;https://www.sigmaaldrich.com/IT/it/sds/mm/8.21078?userType=anonymous
-A2.3.03c;F;Frigo;Furfural;1;ML;Sigma;1;"""04623""";https://www.sigmaaldrich.com/IT/en/sds/sial/04623?userType=anonymous
-A2.3.03c;W;Frigo;Whiskey lactone;Sample;;Sigma;1;W380300;https://www.sigmaaldrich.com/IT/it/sds/aldrich/w380300?userType=anonymous
-A2.3.03c;R;Frigo;(-)-Rose oxide;1;mL;Sigma;1;83917;https://www.sigmaaldrich.com/IT/it/sds/sial/83917?userType=anonymous
-A2.3.03c;C;Frigo;(S)-(-)-B-Ctironellol;Sample;;Sigma;1;W230920;https://www.sigmaaldrich.com/IT/en/sds/sial/w230920?userType=anonymous
-A2.3.03c;R;Frigo;(+)-Rose oxide;1;mL;Sigma;1;83915;https://www.sigmaaldrich.com/IT/en/sds/sial/83915?userType=anonymous
-A2.3.03c;A;Frigo;2-Aminoacetophenone 98%;5;g;Sigma;1;A37804;https://www.sigmaaldrich.com/IT/en/sds/aldrich/a37804?userType=anonymous
-A2.3.03c;A;Frigo;C8-C40 Alkanes Calibration;Sample;;Sigma;2;40147;https://www.sigmaaldrich.com/IT/en/sds/supelco/40147-u?userType=anonymous
-A2.3.03c;F;Frigo;FAEES C4-C24 Even Carbon Saturated in hexane;1;mL;Sigma;4;49454;https://www.sigmaaldrich.com/IT/it/sds/supelco/49454-u?userType=anonymous
-A2.3.03c;F;Frigo;Formic Acid-d2;Sample;;Sigma;1;426229;https://www.sigmaaldrich.com/IT/en/sds/aldrich/426229?userType=anonymous
-A2.3.03c;C;Frigo;(+)-Catechin hydrate ≥98% (HPLC), powder;5;g;Sigma;1;C1251;https://www.sigmaaldrich.com/IT/it/sds/sigma/c1251?userType=anonymous
-A2.3.03c;A;Frigo;Acetic acid ammonium salt-d7;Sample;;Sigma;1;440485;https://www.sigmaaldrich.com/IT/en/sds/aldrich/440485?userType=anonymous
-A2.3.03c;R;Frigo;Riboflavin;1;g;Sigma;1;PHR1054;https://www.sigmaaldrich.com/IT/en/sds/sial/phr1054?userType=anonymous
-A2.3.03c;D;Frigo;Diacetyl for synthesis;Sample;;Sigma;1;803528;https://www.sigmaaldrich.com/IT/en/sds/mm/8.03528?userType=anonymous
-A2.3.03c;T;Frigo;Toyopearl;150;mL;Sigma;1;814028;https://www.sigmaaldrich.com/IT/it/sds/supelco/814028?userType=anonymous
-A2.3.03c;A;Frigo;Acetaldehyde;1;L ;Sigma;1;402788;https://www.sigmaaldrich.com/IT/it/sds/sial/402788?userType=anonymous
-A2.3.03c;A;Frigo;Acido Piruvico;100;g;Sigma;1;ACRO132141000;https://www.sigmaaldrich.com/IT/it/sds/aldrich/107360?userType=anonymous
-A2.3.03c;S;Frigo;Starch indicator;500;mL;Chem-Lab;1;CL12.2603;https://www.chem-lab.be/en-gb/prod/1396181
-A2.3.03c;T;Frigo;Tune solution LC-QQQ;09.Apr;mL;Agilent;3;;
-A2.3.03c;S;Frigo;Soluzione idroalcolica;;;Maselli;2;;
-A2.3.03c;S;Frigo;Soluzione standard saccarosio 5%;;;Maselli;1;;
-A2.3.03c;A;Frigo;Astilbin;10;mg;Sigma;1;PHL80356;https://www.sigmaaldrich.com/IT/en/sds/sial/phl80356
-A2.3.03c;K;Frigo;Kaempferol 3-ß-D-glucopyranoside;25;mg;Sigma;1;79851;https://www.sigmaaldrich.com/IT/en/sds/sigma/79851
-A2.3.03c;S;Frigo;Soluzione standard saccarosio 3,5%;;;Maselli;1;;
-A2.3.03c;S;Frigo;Soluzione standard saccarosio 4%;;;Maselli;1;;
-A2.3.03c;R;Frigo;Trans-resveratrol;100;mg;Sigma;1;1602105;https://www.sigmaaldrich.com/IT/it/sds/usp/1602105?userType=anonymous
-A2.3.03c;P;Infiammabili 1;2-Propanol;2,5;L;Honeywell;1;33539;https://lab.honeywell.com/sm/api/rc/documents/download/33539-2.5L_SDS_GB_E?appId=76&catNo=33539-2.5L&matnr=10233881&lang=E&country=GB&type=SDS
-A2.3.03c;A;Infiammabili 1;Acetonitrile;2,5;L;Honeywell;1;34888;https://lab.honeywell.com/sm/api/rc/documents/download/34860-2.5L_SDS_GB_E?appId=76&catNo=34860-2.5L&matnr=10193177&lang=E&country=GB&type=SDS
-A2.3.03c;A;Infiammabili 1;Acetic Acid ;2,5;L;Honeywell;1;33209;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
-A2.3.03c;E;Infiammabili 1;Ethanol;2,5;L;Honeywell;1;2855;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
-A2.3.03c;D;Infiammabili 1;Diethyl ether;2,5;L;Honeywell;1;32203;https://lab.honeywell.com/sm/api/rc/documents/download/32201-2.5L_SDS_GB_E?appId=76&catNo=32201-2.5L&matnr=10191391&lang=E&country=GB&type=SDS
-A2.3.03c;A;Infiammabili 1;Acetone;2,5;L;Honeywell;2;32201;https://lab.honeywell.com/sm/api/rc/documents/download/32201-2.5L-GL_SDS_GB_E?appId=76&catNo=32201-2.5L-GL&matnr=10191389&lang=E&country=GB&type=SDS
-A2.3.03c;C;Infiammabili 2;Cyclohexane ≥99.8%;1;L;Honeywell;1;C100-307;https://lab.honeywell.com/sm/api/rc/documents/download/C100307-1L_SDS_GB_E?appId=76&catNo=C100307-1L&matnr=10639995&lang=E&country=GB&type=SDS
-A2.3.03c;M;Infiammabili 2;4-Methyl-2-pentanol 98%;1;L;Aldrich;1;109916;https://www.sigmaaldrich.com/IT/en/sds/aldrich/109916
-A2.3.03c;H;Infiammabili 2;Hexane (ACS Reagent, ≥99% GC);2,5;L;Honeywell;1;32293;https://lab.honeywell.com/sm/api/rc/documents/download/32293-2.5L_SDS_GB_E?appId=76&catNo=32293-2.5L&matnr=10191521&lang=E&country=GB&type=SDS
-A2.3.03c;E;Infiammabili 2;Ethyl acetate (puriss. ≥99.5%);2,5;L;Honeywell;1;33211;https://lab.honeywell.com/sm/api/rc/documents/download/33211-2.5L_SDS_GB_E?appId=76&catNo=33211-2.5L&matnr=10233571&lang=E&country=GB&type=SDS
-A2.3.03c;T;Infiammabili 2;tert-Butyl methyl ether for HPLC, ≥99.8%;2,5;L;Honeywell;1;34875;https://lab.honeywell.com/sm/api/rc/documents/download/34875-2.5L_SDS_GB_E?appId=76&catNo=34875-2.5L&matnr=10193214&lang=E&country=GB&type=SDS
-A2.3.03c;D;Infiammabili 2;1,4 Dioxane;1;L;Sigma-Aldrich;1;296309;https://www.sigmaaldrich.com/IT/en/sds/sial/296309
-A2.3.03c;B;Infiammabili 2;1 Butanol ≥99.9%;1;L;Honeywell;3;537993;https://lab.honeywell.com/sm/api/rc/documents/download/537993-2.5L_SDS_GB_E?appId=76&catNo=537993-2.5L&matnr=10644914&lang=E&country=GB&type=SDS
-A2.3.03c;P;Infiammabili 2;Pentadecane;25;g;Sigma-Aldrich;1;P3406;https://www.sigmaaldrich.com/IT/en/sds/aldrich/p3406
-A2.3.03c;D;Infiammabili 2;Dichloromethane;2,5;L;Honeywell;2;32222;https://lab.honeywell.com/sm/api/rc/documents/download/32222-2.5L_SDS_GB_E?appId=76&catNo=32222-2.5L&matnr=10233575&lang=E&country=GB&type=SDS
-A2.3.03c;A;Infiammabili 2;Acetonitrile;2,5;L;Honeywell;1;34888;https://lab.honeywell.com/sm/api/rc/documents/download/34888-2.5L_SDS_GB_E?appId=76&catNo=34888-2.5L&matnr=10193237&lang=E&country=GB&type=SDS
-A2.3.03c;I;Infiammabili 2;Iodoethane;100;g;Sigma-Aldrich;1;I7780;https://www.sigmaaldrich.com/IT/en/sds/sial/i7780
-A2.3.03c;M;Infiammabili 2;Methanol anhydrous;250;mL;Sigma-Aldrich;1;322415;https://www.sigmaaldrich.com/IT/en/sds/sial/322415
-A2.3.03c;D;Infiammabili 2;N,N-Dimethylformamide;250;mL;Sigma-Aldrich;1;227056;https://www.sigmaaldrich.com/IT/en/sds/sial/227056
-A2.3.03c;I;Infiammabili 2;Iodoethane-D5;5;g;Sigma-Aldrich;1;324582;https://www.sigmaaldrich.com/IT/en/sds/aldrich/324582
-A2.3.03c;M;Infiammabili 2;Methyl nonanoate;10;g;Sigma-Aldrich;1;245895;https://www.sigmaaldrich.com/IT/en/sds/aldrich/245895
-A2.3.03c;A;Ufficio;Acetic acid puriss.;1;L;Honeywell;2;33209;https://lab.honeywell.com/sm/api/rc/documents/download/33209-1L_SDS_GB_E?appId=76&catNo=33209-1L&matnr=10192247&lang=E&country=GB&type=SDS
-A2.3.03c;A;Ufficio;Acetic acid puriss.;02.May;L;Honeywell;3;33209;https://lab.honeywell.com/sm/api/rc/documents/download/33209-1L_SDS_GB_E?appId=76&catNo=33209-1L&matnr=10192247&lang=E&country=GB&type=SDS
-A2.3.03c;A;Ufficio;Acetone puriss.;02.May;L;Honeywell;2;32201;https://lab.honeywell.com/sm/api/rc/documents/download/32201-2.5L_SDS_GB_E?appId=76&catNo=32201-2.5L&matnr=10191391&lang=E&country=GB&type=SDS
-A2.3.03c;A;Ufficio;Acetornitrile E CHROMASOLV ;02.May;L;Carlo Erba;3;412392000;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/002300BB16300/000000000412391000/downloadVariant
-A2.3.03c;A;Ufficio;Ammonium acetate puriss. ;1;KG;Honeywell;1;32301;https://lab.honeywell.com/sm/api/rc/documents/download/32301-1KG_SDS_GB_E?appId=76&catNo=32301-1KG&matnr=10191539&lang=E&country=GB&type=SDS
-A2.3.03c;C;Ufficio;Chloroform puriss. ;02.May;L;Honeywell;2;32211;https://lab.honeywell.com/sm/api/rc/documents/download/32211-2.5L_SDS_GB_E?appId=76&catNo=32211-2.5L&matnr=10191422&lang=E&country=GB&type=SDS
-A2.3.03c;C;Ufficio;Cyclohexane Laboratory Reagent ;02.May;L;Honeywell;1;C100307;https://lab.honeywell.com/sm/api/rc/documents/download/32211-2.5L_SDS_GB_E?appId=76&catNo=32211-2.5L&matnr=10191422&lang=E&country=GB&type=SDS
-A2.3.03c;D;Ufficio;Dichloromethane;02.May;L;Honeywell;1;24233;https://lab.honeywell.com/sm/api/rc/documents/download/24233-2.5L_SDS_GB_E?appId=76&catNo=24233-2.5L&matnr=10189855&lang=E&country=GB&type=SDS
-A2.3.03c;D;Ufficio;Diethyl ether contains BHT as inhibitor, puriss ;02.May;L;Honeywell;1;32203;https://lab.honeywell.com/sm/api/rc/documents/download/32203-2.5L_SDS_GB_E?appId=76&catNo=32203-2.5L&matnr=10191401&lang=E&country=GB&type=SDS
-A2.3.03c;E;Ufficio;Ethanol puriss.;02.May;L;Honeywell;3;2860;https://lab.honeywell.com/sm/api/rc/documents/download/02860-2.5L_SDS_GB_E?appId=76&catNo=02860-2.5L&matnr=10641691&lang=E&country=GB&type=SDS
-A2.3.03c;E;Ufficio;Ethyl acetate puriss.;02.May;L;Honeywell;2;33211;https://lab.honeywell.com/sm/api/rc/documents/download/33211-2.5L_SDS_GB_E?appId=76&catNo=33211-2.5L&matnr=10233571&lang=E&country=GB&type=SDS
-A2.3.03c;H;Ufficio;Hexane puriss. ;02.May;L;Honeywell;2;32293;https://lab.honeywell.com/sm/api/rc/documents/download/32293-2.5L_SDS_GB_E?appId=76&catNo=32293-2.5L&matnr=10191521&lang=E&country=GB&type=SDS
-A2.3.03c;H;Ufficio;Hydrocloric acid puriss. ;02.May;L;Honeywell;1;30721;https://lab.honeywell.com/sm/api/rc/documents/download/30721-2.5L_SDS_GB_E?appId=76&catNo=30721-2.5L&matnr=10190803&lang=E&country=GB&type=SDS
-A2.3.03c;P;Ufficio;Perdrogen TM 30% H2O2 puriss.;1;L;Honeywell;1;31642;https://lab.honeywell.com/sm/api/rc/documents/download/31642-1L_SDS_GB_E?appId=76&catNo=31642-1L&matnr=10191317&lang=E&country=GB&type=SDS
-A2.3.03c;C;Ufficio;Chloroform puriss. ;1;L;Honeywell;1;32211;https://lab.honeywell.com/sm/api/rc/documents/download/32211-1L_SDS_GB_E?appId=76&catNo=32211-1L&matnr=10191420&lang=E&country=GB&type=SDS
-A2.3.03c;B;Ufficio;1-Butanol;1;L;Honeywell;1;33065;https://lab.honeywell.com/sm/api/rc/documents/download/33065-1L_SDS_GB_E?appId=76&catNo=33065-1L&matnr=10192120&lang=E&country=GB&type=SDS
-A2.3.03c;S;Ufficio;Sodium carbonate puriss.;1;KG;Honeywell;1;31432;https://lab.honeywell.com/sm/api/rc/documents/download/31432-1KG_SDS_GB_E?appId=76&catNo=31432-1KG&matnr=10094563&lang=E&country=GB&type=SDS
-A2.3.03c;S;Ufficio;Sodium hydroxide puriss. ;1;KG;Honeywell;1;30620;https://lab.honeywell.com/sm/api/rc/documents/download/30620-1KG_SDS_GB_E?appId=76&catNo=30620-1KG&matnr=10094491&lang=E&country=GB&type=SDS
-A2.3.03c;S;Ufficio;Sulfuric acid puriss.;02.May;L;Sigma ;1;30743-M;https://www.sigmaaldrich.com/IT/en/sds/sial/30743-m
-A2.3.03c;S;Ufficio;Sulfuric acid puriss.;1;L;Honeywell;1;30743;https://lab.honeywell.com/sm/api/rc/documents/download/30743-1L_SDS_GB_E?appId=76&catNo=30743-1L&matnr=10190821&lang=E&country=GB&type=SDS
-A2.3.03c;P;Ufficio davanti;2-propanol puriss;02.May;L;Carlo Erba;7;415158;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/097100AA02750/000000000000415158/downloadVariant
-A2.3.03c;E;Ufficio davanti;Ethanol;02.May;L;Honeywell;2;2855;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
-A2.3.03c;E;Ufficio davanti;Ethyl acetate;02.May;L;Honeywell;2;33211;https://lab.honeywell.com/sm/api/rc/documents/download/33211-2.5L_SDS_GB_E?appId=76&catNo=33211-2.5L&matnr=10233571&lang=E&country=GB&type=SDS
-A2.3.03c;M;Ufficio davanti;Methanol;02.May;L;VWR;5;131091;https://www.itwreagents.com/download_file/sds/131091/gb/sds_131091_en.pdf
-A2.3.03c;F;Ufficio davanti;Formic Acid;1;L;VWR;3;131030;https://www.itwreagents.com/download_file/sds/131030/gb/sds_131030_en.pdf
-A2.3.03c;T;Ufficio davanti;1-Tetradecene;5;mL;Sigma;1;87187;https://www.sigmaaldrich.com/IT/en/sds/sial/87187
-A2.3.03c;H;Ufficio davanti;n-heptane;1;L;Carlo Erba;1;508212;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/081100DD14150/000000000000508212/downloadVariant
-A2.3.03c;P;Ufficio davanti;Pentane;1;L;Sigma;1;60489;https://www.sigmaaldrich.com/IT/en/sds/sigald/60489
-A2.3.03c;P;Ufficio davanti;Petroleum ether;1;L;Sigma;4;24587-M;https://www.sigmaaldrich.com/IT/en/sds/sial/24587-m
-A2.3.03c;T;Ufficio davanti;Tetrahydrofuran, anhydrous;1;L;Sigma;1;186562;https://www.sigmaaldrich.com/IT/en/sds/sial/186562
-A2.3.03c;D;Ufficio davanti;1,4-Dioxane;1;L;Sigma;1;589591;https://www.sigmaaldrich.com/IT/en/sds/mm/5.89591
-A2.3.03c;D;Ufficio davanti;Dichloromethane puriss.;02.May;L;Honeywell;2;32222;https://lab.honeywell.com/sm/api/rc/documents/download/32222-2.5L_SDS_GB_E?appId=76&catNo=32222-2.5L&matnr=10233575&lang=E&country=GB&type=SDS
-A2.3.03c;D;Ufficio davanti;Diethyl ether, anhydrous, A.C.S. reagent;1;L;Sigma;2;673811;https://www.sigmaaldrich.com/IT/en/sds/sigald/673811?userType=anonymous
-A2.3.03c;B;Ufficio davanti;1-Butanol;1;L;Sigma;3;34867;https://www.sigmaaldrich.com/IT/en/sds/sigald/34867
 E0.12b;A;Pii;1-AMINOCYCLOPROPANECARBOXYLIC ACID;1;g;TOKYO CHEMICAL INDUSTRY;1;A1178;https://www.tcichemicals.com/OP/en/sds/A1178_JP_EN.pdf
 E0.12b;M;Pii;2-MERCAPTOETHANOL;10;mL;Carlo Erba;1;460691;https://www.carloerbareagents.com/cerstorefront/medias/CH1143-EU.pdf?context=bWFzdGVyfHNhZmV0eS1kYXRhLXNoZWV0c3w1NDY3MTV8YXBwbGljYXRpb24vcGRmfGFEY3lMMmhpTnk4eE5UUTBPVE0xTmpJM01UWTBOaTlEU0RFeE5ETmZSVlV1Y0dSbXw5MTkzNDBkNmMzNzdmODliZmNmNTYxZTVhZGJlMWUwOTQ5NGZkOGM0OWE5NjU3ZjMwNTIyNDBkMDAxYmU3ZGUz&attachment=true
 E0.12b;P;Pii;2-PROPANOL;2,5;L;Sigma Aldrich;2;190764-2.5L;https://www.sigmaaldrich.com/IT/en/sds/sigald/190764
@@ -2671,3 +2406,313 @@ A2.4.09;P;uff tecnici;2-propanol;2,5;L;Panreac;4;2210901612;https://www.itwreage
 A2.4.09;A;uff tecnici;azoto totale TNb 220 - 5-220 mg/L N;;;Macherey-Nagel;4;985088;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985088_en-EN_GHS.pdf
 A2.4.09;C;uff tecnici;cyclohexane;2,5;L;Honeywell;1;33117;https://lab.honeywell.com/sm/api/rc/documents/download/33117-2.5L_SDS_GB_E?appId=76&catNo=33117-2.5L&matnr=10192160&lang=E&country=GB&type=SDS
 A2.4.09;F;uff tecnici;fosfato orto&tot.15 - 0.30- 15.00mg/L P(PO4-P), 1.0-45.0mg/L;;;Macherey-Nagel;3;985080;https://www.mn-net.com/files/digitalAssets/sds/en-EN/985080_en-EN_GHS.pdf
+A2.3.03c;F;Acidi 1;Formic Acid 99% LCMS;1;L;Carlo Erba;1;405824;https://www.fishersci.it/store/msds?partNumber=10141570&productDescription=lt-formic-acid--certified-ar-for-analysis&keyword=true&countryCode=GB&language=en
+A2.3.03c;H;Acidi 1;Hydrocloric Acid;2,5;L;Honeywell - Fluka;1;30721;https://lab.honeywell.com/sm/api/rc/documents/download/30721-1L_SDS_GB_E?appId=76&catNo=30721-1L&matnr=10598287&lang=E&country=GB&type=SDS
+A2.3.03c;P;Acidi 1;Phosporic Acid 85%;1;L;Chem-Lab;2;CL00.0605.1000;https://www.chem-lab.be/en-gb/prod/1393422
+A2.3.03c;S;Acidi 1;Sulfuric acid;2.5;L;Honeywell - Fluka;1;7208;https://lab.honeywell.com/sm/api/rc/documents/download/07208-1L_SDS_GB_E?appId=76&catNo=07208-1L&matnr=10185806&lang=E&country=GB&type=SDS
+A2.3.03c;H;Acidi 1;Hydrogen Perioxide 0.9 weight % solution;1;L;Chem-Lab;1;CL12.2303.1000;https://www.chem-lab.be/en-gb/prod/1396067
+A2.3.03c;H;Acidi 1;Hydrogen Peroxide 30%;2;L;Sigma-Aldrich;2;822287;https://www.sigmaaldrich.com/IT/en/sds/mm/8.22287
+A2.3.03c;A;Acidi 1;Ammonium formate 99%;250;g;ACROS;2;401152500;https://www.sigmaaldrich.com/IT/en/sds/sial/70221
+A2.3.03c;A;Acidi 1;Ammonium formate;100;g;Sigma-Aldrich;1;516961;https://www.sigmaaldrich.com/IT/en/sds/aldrich/516961?userType=anonymous
+A2.3.03c;A;Acidi 1;Ammonium formate eluent additive for LC-MS;100;g;Sigma-Aldrich;1;70221;https://www.sigmaaldrich.com/IT/en/sds/sial/70221?userType=anonymous
+A2.3.03c;S;Acidi 1;Sodium thiosulfate concentrate;;;Honeywell - Fluka;2;38243;https://www.carlroth.com/medias/SDB-HN25-MT-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyNDIxNDN8YXBwbGljYXRpb24vcGRmfGFEVXhMMmd5WXk4NU1UYzJPVFF6TVRNeU56QXlMMU5FUWw5SVRqSTFYMDFVWDBWT0xuQmtaZ3xlYzE5ZGU4ZmMxN2QyOGE1OTg1OTBkOWZkNDUwMGQyNDM5OTg2NmM2YmNhZDAyYjYyMGZjOTJhZDE0MGQ4YWMz
+A2.3.03c;A;Acidi 1;Acido solforico 1mol/L (2N);1;L;zeta Lab;2;CE41057;https://www.sigmaaldrich.com/IT/en/sds/mm/1.60313
+A2.3.03c;I;Acidi 1;Iodine ACS reagent 99.8% solid;100;g;Sigma-Aldrich;1;207772;https://www.sigmaaldrich.com/IT/en/sds/sigald/207772
+A2.3.03c;A;Acidi 1;Acido Trifluoroacetico;100;ml;VWR;2;;https://www.sigmaaldrich.com/IT/en/sds/sigald/t6508
+A2.3.03c;P;Acidi 1;1,2 propandiolo;2.5;L;Sigma-Aldrich;1;102796219;https://www.sigmaaldrich.com/IT/it/sds/sial/398039?userType=anonymous
+A2.3.03c;G;Acidi 1;glicol propilenico;2.5;L;Carlo Erba;1;454053;https://www.sigmaaldrich.com/IT/it/sds/aldrich/w294004?userType=anonymous
+A2.3.03c;N;Acidi 1;Nitric acid;2.5;L;Honeywell - Fluka;1;30709;https://www.sigmaaldrich.com/IT/en/sds/sigald/438073?userType=anonymous
+A2.3.03c;B;Acidi 1;1,4 Butanediol;1;L;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/mm/8.01532?userType=anonymous
+A2.3.03c;G;Acidi 1;glicerina 30° be RPH;1;L;Carlo erba;1;;https://www.carloerbareagents.com/cerstorefront/cer-it/documents/search?baseProductCode=078200CC16180&lang=EU
+A2.3.03c;M;Acidi 2;5-Metil-3-eptanone;1;L;Sigma-Aldrich;1;67260;https://www.sigmaaldrich.com/IT/en/sds/aldrich/67260
+A2.3.03c;P;Acidi 2;α-Pinene;250;ml;Sigma-Aldrich;1;147524;https://www.sigmaaldrich.com/IT/en/sds/aldrich/147524
+A2.3.03c;M;Acidi 2;2-Methylpentanal;100;ml;Sigma-Aldrich;1;258563;https://www.sigmaaldrich.com/IT/en/sds/aldrich/258563
+A2.3.03c;P;Acidi 2;(-)-β-Pinene;250;ml;Sigma-Aldrich;1;112089;https://www.sigmaaldrich.com/IT/en/sds/aldrich/112089
+A2.3.03c;P;Acidi 2;(-)a-Pinene;100;ml;Sigma-Aldrich;1;P45702;https://www.sigmaaldrich.com/IT/en/sds/aldrich/p45702?userType=anonymous
+A2.3.03c;I;Acidi 2;Iron (III) nitrate nonahydrate;1;kg;Carlo Erba;1;451727;https://www.carloerbareagents.com/cerstorefront/cer-it/Products-categories/Chemicals/Ferro-nitrato-ico-nonaidrato-RPE---Per-analisi---ACS/p/095600AA02550
+A2.3.03c;H;Acidi 2;4-Hydroxybenzoic acid;1;kg;Sigma-Aldrich;1;W398608;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w398608
+A2.3.03c;A;Acidi 2;Ammonium iron (II) sulfate hexahydrate;500;g;Sigma-Aldrich;1;215406;https://www.sigmaaldrich.com/IT/en/sds/sigald/215406
+A2.3.03c;C;Acidi 2;Citric acid 1aq a.r;1;kg;chem lab;1;CL000320;https://lab.honeywell.com/sm/api/rc/documents/download/30702-2.5L_SDS_GB_E?appId=76&catNo=30702-2.5L&matnr=10629262&lang=E&country=GB&type=SDS
+A2.3.03c;C;Acidi 2;Citric acid anhydrous v.p.;1;kg;chem lab;1;CL000372;https://www.chem-lab.be/en-gb/prod/1394436
+A2.3.03c;C;Acidi 2;Choline chloride;1;kg;VWR;1;448;https://digitalassets.avantorsciences.com/adaptivemedia/rendition?id=91045f56a167b78bb3c061a7eb390a97f397bb3f&vid=91045f56a167b78bb3c061a7eb390a97f397bb3f&prid=original&clid=SAPDAM
+A2.3.03c;A;Acidi 2;Acido borico;1;kg;Sigma-Aldrich;1;B7660;b7660
+A2.3.03c;O;Acidi 2;ortho-phosphoric Acid 85%;1;L;PanReac;1;7664-38-2;1032_en_GB.pdf
+A2.3.03c;L;Acidi 2;Levulinic acid;1;kg;Sigma-Aldrich;1;W262706;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w262706?userType=anonymous
+A2.3.03c;M;Acidi 2;Multielement Standard Solution 6 for ICP;100;ml;Sigma-Aldrich;2;43843;https://www.sigmaaldrich.com/IT/en/sds/sial/43843?userType=anonymous
+A2.3.03c;I;Acidi 2;ICP Multi-element standard solution IV;100;ml;Sigma-Aldrich;1;111355;
+A2.3.03c;M;Acidi 2;Molybdenum Standard for ICP;100;ml;Sigma-Aldrich;1;39891;https://www.sigmaaldrich.com/IT/en/sds/sial/39891
+A2.3.03c;S;Acidi 2;Selenium Standard for ICP;100;ml;Sigma-Aldrich;1;98838;https://www.sigmaaldrich.com/IT/en/sds/sial/98838
+A2.3.03c;Z;Acidi 2;Zinc Standard for ICP;100;ml;Sigma-Aldrich;1;68961;https://www.sigmaaldrich.com/IT/en/sds/sial/68961
+A2.3.03c;I;Acidi 2;Iron Standard for ICP;100;ml;Sigma-Aldrich;1;56209;https://www.sigmaaldrich.com/IT/en/sds/sial/56209
+A2.3.03c;A;Acidi 2;Aluminium  Standard for ICP;100;ml;Sigma-Aldrich;1;41377;https://www.sigmaaldrich.com/IT/en/sds/sial/41377
+A2.3.03c;P;Acidi 2;Potassium Standard for ICP;100;ml;Sigma-Aldrich;1;68371;https://www.sigmaaldrich.com/IT/en/sds/sial/68371
+A2.3.03c;S;Acidi 2;Sodium Standard for ICP;100;ml;Sigma-Aldrich;1;39924;https://www.sigmaaldrich.com/IT/en/sds/sial/39924
+A2.3.03c;M;Acidi 2;Magnesium Standard for ICP;100;ml;Sigma-Aldrich;1;80759;https://www.sigmaaldrich.com/IT/en/sds/sial/80759
+A2.3.03c;C;Acidi 2;Calcium Standard for ICP;100;ml;Sigma-Aldrich;1;94458;https://www.sigmaaldrich.com/IT/en/sds/sial/94458
+A2.3.03c;S;Acidi 2;Scandium Standard for ICP;100;ml;Sigma-Aldrich;1;92279;https://www.sigmaaldrich.com/IT/en/sds/sial/92279
+A2.3.03c;L;Acidi 2;Lanthanum Standard for ICP;100;ml;Sigma-Aldrich;1;11523;https://www.sigmaaldrich.com/IT/en/sds/sial/11523
+A2.3.03c;C;Acidi 2;Copper Standard for ICP;100;ml;Sigma-Aldrich;1;94459;https://www.sigmaaldrich.com/IT/en/sds/sial/94459
+A2.3.03c;M;Acidi 2;Manganese Standard for ICP;100;ml;Sigma-Aldrich;1;74128;https://www.sigmaaldrich.com/IT/en/sds/sial/74128
+A2.3.03c;P;Acidi 2;Phosphorous Standard for ICP;100;ml;Sigma-Aldrich;1;19916;https://www.sigmaaldrich.com/IT/en/sds/sial/19916
+A2.3.03c;S;Acidi 2;Sulfur Standard for ICP;100;ml;Sigma-Aldrich;1;94430;https://www.sigmaaldrich.com/IT/en/sds/sial/94430
+A2.3.03c;S;Acidi 2;Silicum Standard for ICP;100;ml;Sigma-Aldrich;1;8729;https://www.sigmaaldrich.com/IT/en/sds/sial/08729
+A2.3.03c;L;Acidi 2;Lead Standard for ICP;100;ml;Sigma-Aldrich;1;41318;https://www.sigmaaldrich.com/IT/en/sds/sial/41318
+A2.3.03c;T;Acidi 2;Titanium Standard for ICP;100;ml;Sigma-Aldrich;1;12237;https://www.sigmaaldrich.com/IT/en/sds/sial/12237
+A2.3.03c;E;Acidi 3;4-Ethylphenol;100;g;Aldrich chemistry;1;E44205;https://www.sigmaaldrich.com/IT/en/sds/sial/251275
+A2.3.03c;A;Acidi 3;Acido gallico anidro 99%;250;g;Apollo Scientific;1;APOSOR51754;https://www.sigmaaldrich.com/IT/en/sds/mm/8.42649?userType=anonymous
+A2.3.03c;A;Acidi 3;Acido caffeico ;5;g;Sigma-Aldrich;5;C0625;https://www.sigmaaldrich.com/IT/en/sds/sigma/c0625?userType=anonymous
+A2.3.03c;E;Acidi 3;Ellagic acid dihydrate ≥98.0% (by HPLC, titration analysis);5;g;TCI;1;TCIE0375;https://www.tcichemicals.com/OP/en/documentSearch
+A2.3.03c;E;Acidi 3;(-)-Epicatechin;1;g;Sigma-Aldrich;1;E1753;https://www.sigmaaldrich.com/IT/en/sds/sigma/e1753?userType=anonymous
+A2.3.03c;P;Acidi 3;Phyrogallol;10;g;Sigma-Aldrich;2;254002;https://www.sigmaaldrich.com/IT/it/sds/sial/254002?userType=anonymous
+A2.3.03c;C;Acidi 3;p-Coumaric acid ≥98% purity (HPLC), powder;10;g;Sigma-Aldrich;1;C9008;https://www.sigmaaldrich.com/IT/it/sds/sigma/c9008?userType=anonymous
+A2.3.03c;A;Acidi 3;Ammonium chloride;500;g;Sigma-Aldrich;1;213330;https://www.sigmaaldrich.com/IT/en/sds/sigald/213330
+A2.3.03c;G;Acidi 3;Gallic acid anhydrous;0.1000;kg;Carbosynth;1;FG11942;https://www.sigmaaldrich.com/IT/en/sds/sial/70221
+A2.3.03c;D;Acidi 3;3,4-Dihydroxybenzoic Acid;;;TCI;1;C0055;https://www.tcichemicals.com/IT/en/p/C0055#docomentsSectionPDP
+A2.3.03c;H;Acidi 3;2-(Hydroxyphenyl)ethanol;500;mg;Sigma-Aldrich;1;79058;https://www.sigmaaldrich.com/IT/en/sds/sial/79058
+A2.3.03c;C;Acidi 3;Chlorogenic acid hydrate;;;TCI;1;C0181;https://www.tcichemicals.com/IT/en/p/C0181#docomentsSectionPDP
+A2.3.03c;F;Acidi 3;trans-Ferulic acid 98%;10;g;Sigma-Aldrich;1;128708;https://www.sigmaaldrich.com/IT/en/sds/aldrich/128708?userType=anonymous
+A2.3.03c;M;Acidi 3;3-mercapto-1-hexanol 98% ;5;ml;Acros;1;347560050;https://www.sigmaaldrich.com/IT/en/sds/aldrich/cds001520
+A2.3.03c;M;Acidi 3;3-Mercaptohexyl acetate 98%  ;SAMPLE;;Sigma-Aldrich;1;W385101;https://www.sigmaaldrich.com/IT/en/sds/sial/w385101
+A2.3.03c;M;Acidi 3;3-methyl-1,2-cyclopentanedione 99%;10;g;Sigma-Aldrich;1;178500;https://www.sigmaaldrich.com/IT/en/sds/aldrich/178500
+A2.3.03c;M;Acidi 3;2-methoxy-3-(1-methylpropyl)pyrazine 98%;25;g;Sigma-Aldrich;1;W343307;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w343307
+A2.3.03c;B;Acidi 3;Benzyl alcohol ;100;ml;Sigma-Aldrich;1;13160;https://www.sigmaaldrich.com/IT/en/sds/sigald/13160
+A2.3.03c;E;Acidi 3;eugenol;5;g;Sigma-Aldrich;1;E51791;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e51791
+A2.3.03c;I;Acidi 3;2-Isopropyl-3-methoxypyrazine;SAMPLE;;Sigma-Aldrich;1;W335808;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e44205
+A2.3.03c;P;Acidi 3;2-Pentanol;1;mL;Sigma-Aldrich;1;44759;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w335808
+A2.3.03c;M;Acidi 3;4-Methylcatechol;5;g;Aldrich chemistry;1;M34200;https://www.sigmaaldrich.com/IT/en/sds/sial/44759
+A2.3.03c;M;Acidi 3;3-(Methylthio)-1-propanol;SAMPLE;;Sigma-Aldrich;1;W341509;https://www.sigmaaldrich.com/IT/en/sds/aldrich/m34200
+A2.3.03c;M;Acidi 3;2-Methyl-3-pentanol;10;g;Aldrich chemistry;1;129976;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w341509
+A2.3.03c;E;Acidi 3;Ethyl lactate;SAMPLE;;Sigma-Aldrich;1;W244015;https://www.sigmaaldrich.com/IT/en/sds/aldrich/129976
+A2.3.03c;T;Acidi 3;2,4,6-Trichloroanisole;1;g;Aldrich chemistry;1;235393;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w244015
+A2.3.03c;G;Acidi 3;(+-) Geosmin solution;;;Sigma-Aldrich;1;CRM47522;https://www.sigmaaldrich.com/IT/en/sds/aldrich/235393
+A2.3.03c;M;Acidi 3;Methyl anthranilate;SAMPLE;;Sigma-Aldrich;1;W268224;https://www.sigmaaldrich.com/IT/en/sds/sial/v1104
+A2.3.03c;T;Acidi 3;Tolylene-2,4-diisocyanate;250;g;Sigma-Aldrich;1;216836;https://www.biosynth.com/Files/MSDS/FG/11/MSDS_FG11942_4000_EN.pdf
+A2.3.03c;I;Acidi 3;Iodine 0.05 mol/l (0.1N) in aqueous solution;1;L;VWR;1;30917295;https://www.sigmaaldrich.com/IT/en/sds/supelco/150690?userType=anonymous
+A2.3.03c;F;Acidi 3;Dimethyl sulfoxide;1;L;Honeywell;1;41640;https://www.sigmaaldrich.com/IT/en/sds/sigald/472301?userType=anonymous
+A2.3.03c;A;Acidi 3;Acrolein analytical standard;1;ml;Sigma-Aldrich;1;89116;https://www.sigmaaldrich.com/IT/en/sds/sial/89116?userType=anonymous
+A2.3.03c;M;Acidi 3;2-Mercaptoethanol 99% pure;250;ml;thermo scientific;1;;https://documents.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR12547~~PDF~~MTR~~CLP1~~EN~~2023-09-26%2017:22:27~~2-Mercaptoethanol~~
+A2.3.03c;B;Acidi 3;Benzaldehyde 99%;250;ml;Sigma-Aldrich;1;B1334;https://www.sigmaaldrich.com/IT/en/sds/sial/b1334
+A2.3.03c;G;Acidi 3;Glicole propilenico;1;L;Oxxigena;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/216836
+A2.3.03c;G;Acidi 3;Glicerina vegetale;1;L;Oxxigena;1;;
+A2.3.03c;A;Acidi 4;Amberlite XAD 16;500;g;Supelco;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/xad16
+A2.3.03c;S;Acidi 4;Sea Sand purified by acid and calcined for analysis;1;kg;Supelco;1;1077121000;https://www.sigmaaldrich.com/IT/en/sds/mm/1.07712
+A2.3.03c;S;Acidi 4;Sephadex LH 20;1;;Supelco;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/lh20100
+A2.3.03c;A;Acidi 4;Amberlite XAD1180N;250;g;Sigma-Aldrich;1;6474;https://www.sigmaaldrich.com/IT/en/sds/sial/06474
+A2.3.03c;A;Acidi 4;Amberlite XAD-7HP;1;kg;Supelco;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/xad7
+A2.3.03c;T;Acidi 4;TOYOPEARL HW-40F Bulk Media phase hydroxylated methacrylate;500;ml;;1;807448;https://www.sigmaaldrich.com/IT/it/sds/supelco/807448?userType=anonymous
+A2.3.03c;T;Acidi 4;TOYOPEARL HW-50F;500;ml;Sigma-Aldrich;1;807453;https://www.sigmaaldrich.com/IT/en/sds/supelco/807453?userType=anonymous
+A2.3.03c;S;Acidi 4;Silica gel Inorganic Sorbent high purity garde 230-400mesh;1;kg;Supelco;2;227196;https://www.sigmaaldrich.com/IT/it/sds/sial/227196?userType=anonymous
+A2.3.03c;A;Acidi 4;Acqua ossigenata 30%;1;L;;1;0M008597;https://www.sigmaaldrich.com/IT/en/sds/mm/1.08597?userType=anonymous
+A2.3.03c;H;Acidi 4;Hydrogen peroxide 30%;1;l;merck;1;108597;https://www.sigmaaldrich.com/IT/en/sds/mm/1.08597?userType=anonymous
+A2.3.03c;A;Basi 1;Ammonia 30%;1;L;PanReac;1;;1130_en_GB.pdf
+A2.3.03c;C;Basi 1;Calcium hydroxide (12%CaO solution);500;mL;Chem-Lab;2;CL12.0303.0500;https://www.chem-lab.be/en-gb/prod/1395607
+A2.3.03c;H;Basi 1;Hydrogen peroxide 0.9 weight % solution;1;L;Chem-Lab;2;CL12.2303.1000;https://www.chem-lab.be/en-gb/prod/1395607/Calcium-hydroxide-12-CaO-solution-Solutions-for-Wine-and-Olive-Oil-Analysis-CL12-0303
+A2.3.03c;M;Basi 1;Mixture indicator 1;100;mL;Chem-Lab;3;CL12.0904.0100;https://www.chem-lab.be/en-gb/prod/1396115
+A2.3.03c;S;Basi 1;Sodium hydroxide 0.01 mol/l;1;L;Chem-Lab;4;CL05.1408.1000;https://www.chem-lab.be/en-gb/prod/1393563
+A2.3.03c;S;Basi 1;Sodium hydroxide ;1;kg;Honeywell-Fluka;2;30620;https://lab.honeywell.com/sm/api/rc/documents/download/30620-1KG_SDS_GB_E?appId=76&catNo=30620-1KG&matnr=10094491&lang=E&country=GB&type=SDS
+A2.3.03c;S;Basi 1;Sodium sulfate;500;g;Sigma-Aldrich;3;239313;https://www.sigmaaldrich.com/IT/en/sds/sigald/239313
+A2.3.03c;P;Basi 1;Perdrogen 30% H202;1;L;Honeywell-Fluka;1;31642;https://www.fishersci.it/store/msds?partNumber=10687022&productDescription%3D1LT+Hydrogen+peroxide+30%25+w%2Fv+%28100+volumes%29%2C+extra+pure+SLR&countryCode=IT&language=it
+A2.3.03c;S;Basi 1;Sodium carbonate powder;1;kg;Sigma-Aldrich;1;223530;https://www.sigmaaldrich.com/IT/en/sds/sigald/223530?userType=anonymous
+A2.3.03c;S;Basi 1;Sodium carbonate puriss;1;kg;Sigma-Aldrich;1;31432;https://www.sigmaaldrich.com/IT/en/sds/sigald/223484?userType=anonymous
+A2.3.03c;P;Basi 1;Potassium permanganate solution;1;L;Supelco;1;109121;https://www.sigmaaldrich.com/IT/en/sds/mm/1.09121
+A2.3.03c;P;Basi 1;Potassium hydroxide 85%;1;kg;PanReac;1;1415151211;1515_en_GB.pdf
+A2.3.03c;P;Basi 1;Pyridine;1;L;Chem-Lab;1;CL00.1611;https://www.chem-lab.be/en-gb/prod/1394289
+A2.3.03c;S;Basi 1;sodium phosphate monobasic dihydrate;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sigma/71505
+A2.3.03c;P;Basi 1;Phenolphtalein 10g/l in ethanol indicator solution;100;ml;Chem-Lab;1;CL06.0604;https://www.chem-lab.be/en-gb/prod/1393737
+A2.3.03c;S;Basi 2;Sodium Hydride, 60%;100;g;Sigma-Aldrich;1;452912;https://www.sigmaaldrich.com/IT/en/sds/aldrich/452912
+A2.3.03c;G;Basi 2;Gelatine;500;g;VWR;2;;https://www.sigmaaldrich.com/IT/en/sds/mm/1.04070
+A2.3.03c;L;Basi 2;Lithium chloride, anhydrous, 99%;250;g;Alfa Aesar;1;10515;https://www.alfa.com/en/msds/?language=EE&subformat=CLP1&sku=10515
+A2.3.03c;U;Basi 2;Urea;1;kg;Sigma-Aldrich;1;33247;https://www.sigmaaldrich.com/IT/en/sds/sial/33247
+A2.3.03c;S;Basi 2;Soda caustica;1;kg;;2;;
+A2.3.03c;C;Basi 2;B- Cyclodexterin;100;g;TCI;2;;https://www.tcichemicals.com/BE/en/p/C0777#docomentsSectionPDP
+A2.3.03c;E;Basi 2;Ethyl trans caffeate;100;mg;Sigma-Aldrich;1;PHL83086;https://www.sigmaaldrich.com/IT/en/sds/sial/phl83086?userType=anonymous
+A2.3.03c;E;Basi 2;Ethyl 4-hydroxy-3-methoxycinnamate 99%;1;g;Sigma-Aldrich;1;320617;https://www.sigmaaldrich.com/IT/en/sds/aldrich/320617?userType=anonymous
+A2.3.03c;P;Basi 2;6-O-palmitoyl-L-ascorbic acid;25;g;Sigma-Aldrich;1;76183;https://www.sigmaaldrich.com/IT/en/sds/sigma/76183?userType=anonymous
+A2.3.03c;E;Basi 2;Ethyl gallate;100;mg;Sigma-Aldrich;1;PHL83080;https://www.sigmaaldrich.com/IT/en/sds/sial/phl83080?userType=anonymous
+A2.3.03c;P;Basi 2;Potassium methoxide solution;250;ml;Sigma-Aldrich;1;60402;https://www.sigmaaldrich.com/IT/en/sds/aldrich/60402?userType=anonymous
+A2.3.03c;M;Basi 2;Methyl nonanoate;10;g;Sigma-Aldrich;1;245895;https://www.sigmaaldrich.com/IT/en/sds/aldrich/245895?userType=anonymous
+A2.3.03c;T;Basi 2;Tyrosol;20;mg;Sigma-Aldrich;1;PHL80166;https://www.sigmaaldrich.com/IT/it/sds/supelco/phl80166?userType=anonymous
+A2.3.03c;E;Basi 2;Ethyl 3,4-dihydroxybenzoate, 97%;5;g;Sigma-Aldrich;1;E24859;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e24859?userType=anonymous
+A2.3.03c;F;Basi 2;Trans-ferulic acid, 99%;25;g;Sigma-Aldrich;1;128708;https://www.sigmaaldrich.com/IT/it/sds/aldrich/128708?userType=anonymous
+A2.3.03c;S;Basi 2;L (+)- serina 99%;25;g;TCI;1;S0035;https://www.tcichemicals.com/OP/en/documentSearch
+A2.3.03c;T;Basi 2;L-Tyrosine 99%;100;g;thermo scientific;1;;https://documents.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAAA11141~~PDF~~MTR~~CLP1~~EN~~2024-02-05%2018:23:50~~L-Tyrosine~~
+A2.3.03c;B;Basi 2;betaina anidro 98%;100;g;thermo scientific;1;;https://documents.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ALFAAB24397~~PDF~~MTR~~CLP1~~EN~~2024-02-05%2017:51:03~~Betaine%20%20anhydrous~~
+A2.3.03c;L;Basi 2;L-leucina;100;g;TCI;1;L0029;https://www.tcichemicals.com/BE/en/p/C0777#docomentsSectionPDP
+A2.3.03c;A;Basi 2;L(+)- arginina 99%;100;g;TCI;1;A0526;https://www.tcichemicals.com/BE/en/p/C0777#docomentsSectionPDP
+A2.3.03c;S;Basi 2;sodio metilato (soluzione 30% in alcole metilico);1;L;Sigma-Aldrich;1;818194;https://www.sigmaaldrich.com/IT/en/sds/mm/8.18194?userType=anonymous
+A2.3.03c;P;Basi 3;Potassium disulfite;500;g;Sigma-Aldrich;1;P2522;https://www.sigmaaldrich.com/IT/en/sds/sigald/p2522
+A2.3.03c;I;Basi 3;Idrossido di potassio;1000;g;Sigma-Aldrich;1;814353;https://www.sigmaaldrich.com/IT/en/sds/mm/8.14353
+A2.3.03c;P;Basi 3;Potassium hydroxide;500;g;Sigma-Aldrich;1;P5958;https://www.sigmaaldrich.com/IT/en/sds/mm/8.14353
+A2.3.03c;P;Basi 3;Potassium hydroxide;1;kg;Honeywell- fluka;1;30603;https://www.sigmaaldrich.com/IT/en/sds/mm/8.14353
+A2.3.03c;P;Basi 3;Potassium iodide;250;g;Honeywell- fluka;1;30315;https://lab.honeywell.com/sm/api/rc/documents/download/30315-250G_SDS_GB_E?appId=76&catNo=30315-250G&matnr=10190659&lang=E&country=GB&type=SDS
+A2.3.03c;P;Basi 3;Potassio idrossido  pellets;500;g;VWR;1;26669;https://www.sigmaaldrich.com/IT/en/sds/mm/1.05033
+A2.3.03c;G;Basi 3;Gum arabic;1;kg;Merck;1;1,04228;https://www.sigmaaldrich.com/IT/en/sds/mm/1.04228
+A2.3.03c;V;Basi 3;Vanillin;100;g;Sigma-Aldrich;2;V1104;https://www.sigmaaldrich.com/IT/en/sds/sial/v1104?userType=anonymous
+A2.3.03c;S;Basi 3;Syringealdehyde;5;g;Sigma-Aldrich;1;S7602;https://www.sigmaaldrich.com/IT/en/sds/aldrich/s7602?userType=anonymous
+A2.3.03c;H;Basi 3;2-Hydroxybenzaldehyde for synthesis;250;ml;Sigma-Aldrich;1;S8501940;https://www.sigmaaldrich.com/IT/en/sds/mm/8.00640?userType=anonymous
+A2.3.03c;H;Basi 3;4-Hxdroxybenzaldehyde;100;g;TCI;1;H0198;https://www.sigmaaldrich.com/IT/en/sds/mm/8.04536?userType=anonymous
+A2.3.03c;M;FOOD GRADE 1;DL-Malic acid FCC;1;kg;Sigma-Aldrich;1;27606;https://www.sigmaaldrich.com/IT/it/sds/sigma/27606
+A2.3.03c;M;FOOD GRADE 1;DL-Methionine FCC FG;1;kg;Sigma-Aldrich;1;W330108;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w330108
+A2.3.03c;S;FOOD GRADE 1;Succinic Acid;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/s7501
+A2.3.03c;T;FOOD GRADE 1;L-(+)- Tartaric Acid;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/sial/251380
+A2.3.03c;L;FOOD GRADE 1;Lactic Acid;1;kg;Sigma-Aldrich;1;;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w261106
+A2.3.03c;C;FOOD GRADE 1;Citric acid FCC, FG;1;kg;Sigma-Aldrich;1;W230618;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w230618
+A2.3.03c;M;FOOD GRADE 1;Metabisolfito di potassio;1;kg;Viny;1;240-795-3;https://www.enolapi.net/wordpress/wp-content/uploads/2017/10/METABISOLFITO-DI-POTASSIO-scheda-di-sicurezza.pdf?x44800
+A2.3.03c;C;FOOD GRADE 1;Caffeine anhydrous 99% FCC, FG;1;kg;Sigma-Aldrich;1;W222402;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w222402
+A2.3.03c;M;FOOD GRADE 1;Maltol FCC FG;250;g;Sigma-Aldrich;1;W265608;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w265608?userType=anonymous
+A2.3.03c;A;Freezer;Acetobromo-a-D-glucose;10;g;Sigma-Aldrich;1;A1750;https://www.sigmaaldrich.com/IT/en/sds/sigma/a1750?userType=anonymous
+A2.3.03c;S;Freezer;Silver p-toluenesulfonate 99%;10;g;Sigma-Aldrich;1;176427;https://www.sigmaaldrich.com/IT/en/sds/aldrich/176427?userType=anonymous
+A2.3.03c;V;Freezer;Vitamin B12;1;g;Sigma;1;V2876;https://www.sigmaaldrich.com/IT/EN/sds/sigma/v2876
+A2.3.03c;M;Freezer;N-Methyl-N-(trimethyl-silyl)trifluoroacetamide;1;ml;Sigma-Aldrich;10;69479;https://www.sigmaaldrich.com/IT/en/sds/sial/69479?userType=anonymous
+A2.3.03c;R;Freezer;Riboflavin;1;g;Sigma-Aldrich;1;PHR1054;https://www.sigmaaldrich.com/IT/en/sds/sial/phr1054?userType=anonymous
+A2.3.03c;P;Freezer;Phylloquinone (K1);standard;;Sigma-Aldrich;1;47773;https://www.sigmaaldrich.com/IT/en/sds/supelco/47773
+A2.3.03c;V;Freezer;Vitamin K1;1;g;Sigma;1;95271;https://www.sigmaaldrich.com/IT/en/sds/sigma/95271
+A2.3.03c;M;Freezer;Menaquinone (K2);100;mg;Supelco;1;47774;https://www.sigmaaldrich.com/IT/en/sds/supelco/47774
+A2.3.03c;E;Freezer;Ethanethiol;1;ml;Sigma-Aldrich;1;W425800;https://www.sigmaaldrich.com/IT/en/sds/aldrich/w425800
+A2.3.03c;B;Freezer;Benzyl mercaptan;100;g;Aldrich;1;B25401;https://www.sigmaaldrich.com/IT/en/sds/aldrich/b25401
+A2.3.03c;P;Freezer;Phloroglucinol >99% (HPLC);100;g;Aldrich;1;79330;https://www.sigmaaldrich.com/IT/en/sds/aldrich/79330
+A2.3.03c;V;Freezer;Vanillic Acid 97%;25;g;Aldrich;1;H36001;https://www.sigmaaldrich.com/IT/en/sds/aldrich/h36001
+A2.3.03c;R;Freezer;Rutin Hydrate;0.0500;kg;Carbosynth;1;OR03679;https://www.biosynth.com/Files/MSDS/OR/03/MSDS_OR03679_4000_EN.pdf
+A2.3.03c;P;Freezer;Procyanidin A2;5;mg;Extrasynthese;1;0985 S;https://www.extrasynthese.com/MSDS/GBR/0985.pdf
+A2.3.03c;H;Freezer;4-Hydroxy-3-methoxycinnamic acid;100;mg;Sigma-Aldrich;1;90034;https://www.sigmaaldrich.com/IT/en/sds/sial/90034
+A2.3.03c;D;Freezer;4-(Dimethylamino)cinnamaldehyde;5;g;Sigma;1;D4506;https://www.sigmaaldrich.com/IT/en/sds/mm/8.22034
+A2.3.03c;C;Freezer;(+)- Cathechin;10;mg;Extrasynthese;1;0976 S;https://www.extrasynthese.com/MSDS/GBR/0976.pdf
+A2.3.03c;S;Freezer;Syringic acid;5;g;Sigma;1;S6881;https://www.sigmaaldrich.com/IT/en/sds/sigma/s6881
+A2.3.03c;E;Freezer;(-)-Epicatechin;1;g;Sigma;1;E1753;https://www.sigmaaldrich.com/IT/en/sds/sigma/e1753
+A2.3.03c;K;Freezer;Kaempferol-3-b-glucopyranoside;5;mg;Carbosynth;1;MK10036;https://www.biosynth.com/Files/MSDS/MK/10/MSDS_MK10036_4000_EN.pdf
+A2.3.03c;D;Freezer;3,5-Dicaffeoylquinic acid;2;mg;Carbosynth;1;FD41813;https://www.biosynth.com/Files/MSDS/MSDS_FD41813_5000_EN.pdf
+A2.3.03c;C;Freezer;(+)-Catechin hydrate;5;g;Sigma;2;C1251;https://www.sigmaaldrich.com/IT/en/sds/sigma/c1251
+A2.3.03c;B;Freezer;Betulin;50;mg;Fluka;1;92648;https://www.sigmaaldrich.com/IT/en/sds/sial/92648
+A2.3.03c;P;Freezer;Protease from Streptomyces griseus;100;mg;Sigma-Aldrich;1;P5147;https://www.sigmaaldrich.com/IT/en/sds/sigma/p5147
+A2.3.03c;M;Freezer;Malvidin 3,5-diglucoside chloride;10;mg;PhytoLab;1;89727;https://phyproof.phytolab.com/f/sdb_en/malvidin-3-5-diglucoside-chloride-89727-reference-substance-material-safety-data-sheet-SDB_89727_EN.pdf
+A2.3.03c;P;Freezer;Procyanidin B2;1;mg;Sigma-Aldrich;1;42157;https://www.sigmaaldrich.com/IT/en/sds/sial/42157?userType=anonymous
+A2.3.03c;A;Freezer;Astilbin;10;mg;PhytoLab;1;80356;https://phyproof.phytolab.com/f/sdb_en/astilbin-80356-reference-substance-material-safety-data-sheet-SDB_80356_EN.pdf
+A2.3.03c;A;Freezer;Astilbin;5;mg;;1;AAB143575;https://www.sigmaaldrich.com/IT/en/sds/sial/phl80356
+A2.3.03c;M;Freezer;Malvidin (chloride);1;mg;Cayman chemical company;1;19752;https://cdn.caymanchem.com/cdn/msds/19752m.pdf
+A2.3.03c;L;Freezer;Laccase from Agaricus bisporus ;100;mg;Sigma-Aldrich;1;40452;40452 (sigmaaldrich.com)
+A2.3.03c;T;Freezer;Tyrosinase from mushroom ;;;Sigma-Aldrich;1;T3824;t3824 (sigmaaldrich.com)
+A2.3.03c;Q;Freezer;Quercetin 3-glucuronide primary reference standard;25;mg;Sigma-Aldrich;1;0,031059.0;https://www.sigmaaldrich.com/IT/en/sds/sial/00310590?userType=anonymous
+A2.3.03c;E;Freezer;Engeletin ≥98% (HPLC);5;mg;Sigma-Aldrich;2;SML2492;https://www.sigmaaldrich.com/IT/en/sds/sigma/sml2492?userType=anonymous
+A2.3.03c;P;Freezer;Procyanidin C1;5;mg;PhytoLab;1;89537;https://phyproof.phytolab.com/f/sdb_en/procyanidin-c1-89537-reference-substance-material-safety-data-sheet-SDB_89537_EN.pdf
+A2.3.03c;P;Freezer;Procyanidin B2;10;mg;PhytoLab;1;89552;https://phyproof.phytolab.com/f/sdb_en/procyanidin-b2-89552-reference-substance-material-safety-data-sheet-SDB_89552_EN.pdf
+A2.3.03c;C;Freezer;Coniferyl alcohol;10;mg;Sigma-Aldrich;1;41402;https://www.sigmaaldrich.com/IT/en/sds/supelco/41402?userType=anonymous
+A2.3.03c;P;Freezer;Pelargonidin-3-O-rutinoside chloride;5;mg;Extrasynthese;1;943;https://www.extrasynthese.com/MSDS/GBR/0943_pelargonidin_3_o_rutinoside_chloride_MSDS_FDS.pdf
+A2.3.03c;E;Freezer;(+)-epsilon-Viniferin;10;mg;Extrasynthese;1;4760S;https://www.extrasynthese.com/MSDS/GBR/4760_epsilon_viniferin_MSDS_FDS.pdf
+A2.3.03c;K;Freezer;Kaempferol-3-O-glucoside;10;mg;Extrasynthese;1;1243S;https://www.extrasynthese.com/MSDS/GBR/1243_kaempferol_3_o_glucoside_MSDS_FDS.pdf
+A2.3.03c;C;Freezer;p-Coumaric acid;1;g;Sigma;1;C9008;https://www.sigmaaldrich.com/IT/en/sds/sigma/c9008?userType=anonymous
+A2.3.03c;C;Freezer;Chlorogenic acid;25;mg;Extrasynthese;1;4991S;https://www.extrasynthese.com/MSDS/GBR/4991_chlorogenic_acid_MSDS_FDS.pdf
+A2.3.03c;M;Freezer;Malvidin 3-glucoside chloride;10;mg;PhytoLab;2;89728;https://phyproof.phytolab.com/f/sdb_en/malvidin-3-glucoside-chloride-89728-reference-substance-material-safety-data-sheet-SDB_89728_EN.pdf
+A2.3.03c;H;Freezer;Hydroxytyrosol;10;mg;PhytoLab;1;80152;https://phyproof.phytolab.com/f/sdb_en/hydroxytyrosol-80152-reference-substance-material-safety-data-sheet-SDB_80152_EN.pdf
+A2.3.03c;Q;Freezer;Quercetin 3-β-D-glucoside ≥90% (HPLC);10;mg;Sigma-Aldrich;2;17793;https://www.sigmaaldrich.com/IT/en/sds/sigma/17793?userType=anonymous
+A2.3.03c;S;Frigo;sinapyl alcohol techicla grade 80%;100;mg;Sigma;1;404586;404586
+A2.3.03c;E;Frigo;(-)-Epigallocatechin with HPLC;20;mg;Extrasynthese;1;0979S;https://www.extrasynthese.com/MSDS/GBR/0979_epigallocatechin_MSDS_FDS.pdf
+A2.3.03c;P;Frigo;Procyanidin B2;20;mg;Extrasynthese;1;984;https://www.extrasynthese.com/MSDS/GBR/0984_procyanidin_b2_MSDS_FDS.pdf
+A2.3.03c;R;Frigo;Resveratrol with HPLC;40;mg;Extrasynthese;1;4963 S;https://www.extrasynthese.com/MSDS/GBR/4963_resveratrol_MSDS_FDS.pdf
+A2.3.03c;P;Frigo;Polydatin with HPLC;20;mg;Extrasynthese;1;4974 S;https://www.extrasynthese.com/MSDS/GBR/4974_polydatin_MSDS_FDS.pdf
+A2.3.03c;D;Frigo;6,7-Dihydroxycoumarin 98%;1;gr;Sigma;1;246573;https://www.sigmaaldrich.com/IT/en/sds/aldrich/246573?userType=anonymous
+A2.3.03c;A;Frigo;Aucubin analytical standard;5;mg;Sigma;1;55561;https://www.sigmaaldrich.com/IT/en/sds/sial/55561?userType=anonymous
+A2.3.03c;H;Frigo;3-Hydroxytyrosol;1;g;TCI;1;D2756;https://www.tcichemicals.com/OP/en/documentSearch
+A2.3.03c;M;Frigo;Malvidin chloride;1;mg;Sigma;1;68120;https://www.sigmaaldrich.com/IT/en/sds/sigma/68120?userType=anonymous
+A2.3.03c;P;Frigo;1,2-Phtalic dicarboxaldehyde 98+%;5;g;thermo scientific;1;;https://documents.thermofisher.com/DirectWebViewer/private/document.aspx?prd=ACR13108~~PDF~~MTR~~CLP1~~EN~~2025-06-03%2006:11:26~~1%202-Phthalic%20dicarboxaldehyde~~
+A2.3.03c;R;Frigo;Resveratrol  ;25;mg;Sigma;1;554325;https://www.sigmaaldrich.com/IT/en/sds/mm/554325?userType=anonymous
+A2.3.03c;G;Frigo;Geraniol;100;mg;Extrasynthese;1;5023S;https://www.extrasynthese.com/MSDS/GBR/5023_geraniol_MSDS_FDS.pdf
+A2.3.03c;M;Frigo;2.methyl-3-pentanol;10;g;alfa aesar;2;L08015;https://www.fishersci.it/store/msds?partNumber=11337945&productDescription%3D2-METHYL-3-PENTANOL%2C+99%25+10G&countryCode=IT&language=it
+A2.3.03c;L;Frigo;R-(+)-Limonene;100;mg;Extrasynthese;1;5082S;https://www.extrasynthese.com/MSDS/GBR/5082_r_limonene_MSDS_FDS.pdf
+A2.3.03c;L;Frigo;S-(-)-Limonene;100;mg;Extrasynthese;1;5454S;https://www.extrasynthese.com/MSDS/GBR/5454_s_limonene_MSDS_FDS.pdf
+A2.3.03c;N;Frigo;Nerol;100;mg;Extrasynthese;1;5051;https://www.extrasynthese.com/MSDS/GBR/5051_nerol_MSDS_FDS.pdf
+A2.3.03c;G;Frigo;Geraniol;100;mg;Extrasynthese;1;5023S;https://www.extrasynthese.com/MSDS/GBR/5023_geraniol_MSDS_FDS.pdf
+A2.3.03c;A;Frigo;ABTS;2;g;Roche;1;11684302001;https://www.sigmaaldrich.com/IT/it/sds/roche/11684302001?userType=anonymous
+A2.3.03c;F;Frigo;Trans-ferulic acid;25;g;Sigma;1;128708;https://www.sigmaaldrich.com/IT/en/sds/aldrich/128708?userType=anonymous
+A2.3.03c;P;Frigo;Protocatechuicacid ethyl ester;5;g;Sigma;1;E24859;https://www.sigmaaldrich.com/IT/en/sds/aldrich/e24859?userType=anonymous
+A2.3.03c;P;Frigo;6-O-Palmitoyl-L-ascorbic acid;25;g;Sigma;1;76183;https://www.sigmaaldrich.com/IT/en/sds/sigma/76183?userType=anonymous
+A2.3.03c;E;Frigo;Ethyl 4-hydroxy-3-methoxycinnamate;1;g;Sigma;1;320617;https://www.sigmaaldrich.com/IT/en/sds/aldrich/320617?userType=anonymous
+A2.3.03c;E;Frigo;Ethyl trans-caffeate;100;mg;PhytoLab;1;83086;https://phyproof.phytolab.com/f/sdb_en/ethyl-trans-caffeate-83086-reference-substance-material-safety-data-sheet-SDB_83086_EN.pdf
+A2.3.03c;T;Frigo;Tyrosol;20;mg;PhytoLab;1;80166;https://phyproof.phytolab.com/f/sdb_en/tyrosol-80166-reference-substance-material-safety-data-sheet-SDB_80166_EN.pdf
+A2.3.03c;E;Frigo;Ethyl gallate;100;mg;PhytoLab;1;83080;https://phyproof.phytolab.com/f/sdb_en/ethyl-gallate-83080-reference-substance-material-safety-data-sheet-SDB_83080_EN.pdf
+A2.3.03c;A;Frigo;Ammonium acetate ;5;g;CIL;1;DLM-3071-5;https://isotope.com/ammonium-acetate-d7-dlm-3071-5
+A2.3.03c;P;Frigo;PolymideSealing Resin;5;g;;;;
+A2.3.03c;F;Frigo;Formic acid D2;5;g;CIL;1;DLM-286-5;https://isotope.com/formic-acid-d2-d-d2o-dlm-286-group
+A2.3.03c;H;Frigo;Hydrogen chloride - methanol solution;50;ml;Sigma;3;17935;https://www.sigmaaldrich.com/IT/en/sds/sial/17935?userType=anonymous
+A2.3.03c;P;Infiammabili 1;2-Propanol;2,5;L;Honeywell;1;33539;https://lab.honeywell.com/sm/api/rc/documents/download/33539-2.5L_SDS_GB_E?appId=76&catNo=33539-2.5L&matnr=10233881&lang=E&country=GB&type=SDS
+A2.3.03c;P;Infiammabili 1;2-Propanol;1;L;Honeywell;1;34863;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/097100AA02750/000000000000415158/downloadVariant
+A2.3.03c;A;Infiammabili 1;Acetic Acid ;2,5;L;Honeywell;1;33209;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
+A2.3.03c;D;Infiammabili 1;Diethyl ether;2,5;L;Honeywell;2;32203;https://lab.honeywell.com/sm/api/rc/documents/download/32201-2.5L_SDS_GB_E?appId=76&catNo=32201-2.5L&matnr=10191391&lang=E&country=GB&type=SDS
+A2.3.03c;A;Infiammabili 1;Acetone;2,5;L;Honeywell;1;32201;https://lab.honeywell.com/sm/api/rc/documents/download/32201-2.5L-GL_SDS_GB_E?appId=76&catNo=32201-2.5L-GL&matnr=10191389&lang=E&country=GB&type=SDS
+A2.3.03c;B;Infiammabili 1;tert-Butyl methyl ether;2.5;L;Honeywell;1;34875;https://www.sigmaaldrich.com/IT/en/sds/sigald/443808?userType=anonymous
+A2.3.03c;T;Infiammabili 1;Tetrahydrofuran;1;L;Sigma aldrich;1;186562;https://www.sigmaaldrich.com/IT/en/sds/sial/186562?userType=anonymous
+A2.3.03c;P;Infiammabili 1;Petroleum ether;1;L;Sigma aldrich;1;24587;https://www.sigmaaldrich.com/IT/en/sds/sial/24587-m?userType=anonymous
+A2.3.03c;M;Infiammabili 1;Methanol;2.5;L;Honeywell;1;34966;https://www.sigmaaldrich.com/IT/en/sds/sigald/34860?userType=anonymous
+A2.3.03c;D;Infiammabili 1;Dichloromethane;2.5;L;Honeywell;1;32222;https://lab.honeywell.com/sm/api/rc/documents/download/32222-2.5L_SDS_GB_E?appId=76&catNo=32222-2.5L&matnr=10233575&lang=E&country=GB&type=SDS
+A2.3.03c;A;smaltimento;Acetonitrile;2,5;L;Honeywell;1;34888;https://lab.honeywell.com/sm/api/rc/documents/download/34860-2.5L_SDS_GB_E?appId=76&catNo=34860-2.5L&matnr=10193177&lang=E&country=GB&type=SDS
+A2.3.03c;C;Infiammabili 2;Cyclohexane ≥99.8%;1;L;Honeywell;1;C100-307;https://lab.honeywell.com/sm/api/rc/documents/download/C100307-1L_SDS_GB_E?appId=76&catNo=C100307-1L&matnr=10639995&lang=E&country=GB&type=SDS
+A2.3.03c;M;Infiammabili 2;4-Methyl-2-pentanol 98%;1;L;Aldrich;1;109916;https://www.sigmaaldrich.com/IT/en/sds/aldrich/109916
+A2.3.03c;H;Infiammabili 2;Hexane (ACS Reagent, ≥99% GC);2,5;L;Honeywell;1;32293;https://lab.honeywell.com/sm/api/rc/documents/download/32293-2.5L_SDS_GB_E?appId=76&catNo=32293-2.5L&matnr=10191521&lang=E&country=GB&type=SDS
+A2.3.03c;E;Infiammabili 2;Ethyl acetate (puriss. ≥99.5%);2,5;L;Honeywell;2;33211;https://lab.honeywell.com/sm/api/rc/documents/download/33211-2.5L_SDS_GB_E?appId=76&catNo=33211-2.5L&matnr=10233571&lang=E&country=GB&type=SDS
+A2.3.03c;D;Infiammabili 2;Dichloromethane;2,5;L;Honeywell;2;32222;https://lab.honeywell.com/sm/api/rc/documents/download/32222-2.5L_SDS_GB_E?appId=76&catNo=32222-2.5L&matnr=10233575&lang=E&country=GB&type=SDS
+A2.3.03c;M;Infiammabili 2;Methanol anhydrous;250;ml;Sigma-Aldrich;1;322415;https://www.sigmaaldrich.com/IT/en/sds/sial/322415
+A2.3.03c;D;Infiammabili 2;N,N-Dimethylformamide;250;ml;Sigma-Aldrich;1;227056;https://www.sigmaaldrich.com/IT/en/sds/sial/227056
+A2.3.03c;I;Infiammabili 2;Iodoethane-D5;5;g;Sigma-Aldrich;1;324582;https://www.sigmaaldrich.com/IT/en/sds/aldrich/324582
+A2.3.03c;M;Infiammabili 2;Methanol;2.5;L;Honeywell;1;32213;https://www.sigmaaldrich.com/IT/en/sds/sigald/34860?userType=anonymous
+A2.3.03c;E;Infiammabili 2;Ethanol;2.5;L;Honeywell;1;2855;https://www.sigmaaldrich.com/IT/en/sds/mm/1.00971?userType=anonymous
+A2.3.03c;H;Infiammabili 2;n-heptane;1;L;Carlo erba;1;412591;https://www.sigmaaldrich.com/IT/en/sds/mm/1.04365?userType=anonymous
+A2.3.03c;T;Infiammabili 2;Tetrahydrofuran;1;L;Sigma aldrich;1;186562;https://www.sigmaaldrich.com/IT/en/sds/sial/186562?userType=anonymous
+A2.3.03c;D;smaltimento;dimethyl disulfide;250;ml;Sigma-Aldrich;2;471569;https://www.sigmaaldrich.com/IT/en/sds/mm/8.20791?userType=anonymous
+A2.3.03c;C;smaltimento;Cyclohexane ≥99.8%;1;L;Honeywell;1;C100-307;https://lab.honeywell.com/sm/api/rc/documents/download/C100307-1L_SDS_GB_E?appId=76&catNo=C100307-1L&matnr=10639995&lang=E&country=GB&type=SDS
+A2.3.03c;A;REAGENTI 1;Ammonium acetate puriss. ;1;KG;1;Sigma-Aldrich;32301;https://lab.honeywell.com/sm/api/rc/documents/download/32301-1KG_SDS_GB_E?appId=76&catNo=32301-1KG&matnr=10191539&lang=E&country=GB&type=SDS
+A2.3.03c;A;REAGENTI 1;Activated charcoal;1;kg;1;Sigma-Aldrich;5120;https://www.sigmaaldrich.com/IT/en/sds/sigald/242276?userType=anonymous
+A2.3.03c;C;REAGENTI 1;Calcium Chloride anhydrous;1;kg;1;Sigma-Aldrich;328757;https://www.sigmaaldrich.com/IT/en/sds/sigma/c5670?userType=anonymous
+A2.3.03c;A;REAGENTI 1;Ammonium chloride;1;kg;1;Sigma-Aldrich;102663138;https://www.sigmaaldrich.com/IT/en/sds/sigald/213330?userType=anonymous
+A2.3.03c;M;REAGENTI 1;Magnesium sulfate;1;kg;1;Sigma-Aldrich;793612;https://www.sigmaaldrich.com/IT/en/sds/sigald/m7506?userType=anonymous
+A2.3.03c;D;REAGENTI 1;LLG dessiccants beads 1 to 3 mm;1;kg;5;LLG;9042584;
+A2.3.03c;S;REAGENTI 1;Sodium sulfate;500;g;1;Sigma-Aldrich;239313;https://www.sigmaaldrich.com/IT/en/sds/sial/s6547?userType=anonymous
+A2.3.03c;S;REAGENTI 1;Sodium acetate;100;g;1;Sigma-Aldrich;791741;https://www.sigmaaldrich.com/IT/en/sds/sigald/241245?userType=anonymous
+A2.3.03c;A;REAGENTI 1;Antischiuma silicone 2%;500;ml;2;TITOLCHIMICA;;
+A2.3.03c;S;REAGENTI 1;Sodium chloride;1;kg;1;Sigma-Aldrich;s9888;https://www.sigmaaldrich.com/IT/it/sds/sigald/s9888?userType=anonymous
+A2.3.03c;S;REAGENTI 1;Sodium citrate dibasic sesquihydrate;1;kg;1;Sigma-Aldrich;71635;https://www.sigmaaldrich.com/IT/en/sds/sial/71635
+A2.3.03c;F;REAGENTI 1;D-(-)-Fructose;1;kg;1;Sigma-Aldrich;F0127;https://www.sigmaaldrich.com/IT/en/sds/sigma/f0127
+A2.3.03c;G;REAGENTI 1;D(+)Glucose;1;kg;1;Sigma-Aldrich;CL00.7505.1000;https://www.chem-lab.be/en-gb/prod/1392929
+A2.3.03c;P;REAGENTI 1;Potassium L- tartrate monobasic for analysis;1;kg;1;Sigma-Aldrich;474517;https://www.sigmaaldrich.com/IT/en/sds/aldrich/243531
+A2.3.03c;M;REAGENTI 1;L-(-)-Malic acid;100;g;1;Sigma-Aldrich;112577;https://www.sigmaaldrich.com/IT/en/sds/aldrich/112577?userType=anonymous
+A2.3.03c;F;REAGENTI 1;D-(-)-Fructose;250;g;1;acros organics;;https://www.sigmaaldrich.com/IT/en/sds/sigma/f0127
+A2.3.03c;P;REAGENTI 1;Poly(vinylpolypyrrolidone);25;g;1;Sigma-Aldrich;77627;https://www.sigmaaldrich.com/IT/it/sds/sial/77627?userType=anonymous
+A2.3.03c;B;ufficio;1-Butanol;1;L;1;33065;71-36-3;https://lab.honeywell.com/sm/api/rc/documents/download/33065-1L_SDS_GB_E?appId=76&catNo=33065-1L&matnr=10192120&lang=E&country=GB&type=SDS
+A2.3.03c;P;ufficio;2-Propanol;2,5;L;1;;;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/097100AA02750/000000000000415158/downloadVariant
+A2.3.03c;A;ufficio;Acetic acid puriss.;1;L;2;33209;;https://lab.honeywell.com/sm/api/rc/documents/download/33209-1L_SDS_GB_E?appId=76&catNo=33209-1L&matnr=10192247&lang=E&country=GB&type=SDS
+A2.3.03c;A;ufficio;Acetic acid puriss.;2.5;L;3;33209;;https://lab.honeywell.com/sm/api/rc/documents/download/33209-1L_SDS_GB_E?appId=76&catNo=33209-1L&matnr=10192247&lang=E&country=GB&type=SDS
+A2.3.03c;A;ufficio ;Acetornitrile per HPLC;2.5;L;3;412392000;75-05-8;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/002300BB16300/000000000412391000/downloadVariant
+A2.3.03c;A;ufficio ;Acetornitrile per LC-MS;2,5;L;2;;;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/002300BB16300/000000000412391000/downloadVariant
+A2.3.03c;C;ufficio;Chloroform puriss. ;2.5;L;2;32211;67-66-3;https://lab.honeywell.com/sm/api/rc/documents/download/32211-2.5L_SDS_GB_E?appId=76&catNo=32211-2.5L&matnr=10191422&lang=E&country=GB&type=SDS
+A2.3.03c;C;ufficio;Chloroform puriss. ;1;L;1;32211;67-66-3;https://lab.honeywell.com/sm/api/rc/documents/download/32211-1L_SDS_GB_E?appId=76&catNo=32211-1L&matnr=10191420&lang=E&country=GB&type=SDS
+A2.3.03c;C;ufficio;Chloroform ;1;L;1;438581;67-66-3;CH0219-GB.pdf
+A2.3.03c;C;ufficio;Cyclohexane Laboratory Reagent ;2.5;L;1;C100307;110-87-2;https://lab.honeywell.com/sm/api/rc/documents/download/32211-2.5L_SDS_GB_E?appId=76&catNo=32211-2.5L&matnr=10191422&lang=E&country=GB&type=SDS
+A2.3.03c;D;ufficio;Dichloromethane;2.5;L;1;24233;;https://lab.honeywell.com/sm/api/rc/documents/download/24233-2.5L_SDS_GB_E?appId=76&catNo=24233-2.5L&matnr=10189855&lang=E&country=GB&type=SDS
+A2.3.03c;E;ufficio;Ethanol per HPLC;2,5;L;3;;;https://lab.honeywell.com/sm/api/rc/documents/download/02860-2.5L_SDS_GB_E?appId=76&catNo=02860-2.5L&matnr=10641691&lang=E&country=GB&type=SDS
+A2.3.03c;E;ufficio;Ethanol puriss.;2.5;L;4;02860;64-17-5;https://lab.honeywell.com/sm/api/rc/documents/download/02860-2.5L_SDS_GB_E?appId=76&catNo=02860-2.5L&matnr=10641691&lang=E&country=GB&type=SDS
+A2.3.03c;E;ufficio;Ethyl acetate puriss.;2.5;L;3;33211;141-78-6;https://lab.honeywell.com/sm/api/rc/documents/download/33211-2.5L_SDS_GB_E?appId=76&catNo=33211-2.5L&matnr=10233571&lang=E&country=GB&type=SDS
+A2.3.03c;F;ufficio;Formic Acid per LC_MS;1;L;3;;;https://www.fishersci.it/store/msds?partNumber=10141570&productDescription=lt-formic-acid--certified-ar-for-analysis&keyword=true&countryCode=GB&language=en
+A2.3.03c;H;ufficio;Hexane puriss. ;2.5;L;1;32293;110-54-3;https://lab.honeywell.com/sm/api/rc/documents/download/32293-2.5L_SDS_GB_E?appId=76&catNo=32293-2.5L&matnr=10191521&lang=E&country=GB&type=SDS
+A2.3.03c;H;ufficio;Hydrocloric acid puriss. ;2.5;L;1;30721;7647-01-0;https://lab.honeywell.com/sm/api/rc/documents/download/30721-2.5L_SDS_GB_E?appId=76&catNo=30721-2.5L&matnr=10190803&lang=E&country=GB&type=SDS
+A2.3.03c;M;ufficio;Methanol per LC-MS;2,5;L;1;;;https://www.sigmaaldrich.com/IT/en/sds/sigald/34860?userType=anonymous
+A2.3.03c;S;ufficio;Sulfuric acid puriss.;2.5;L;1;Sigma;30743-M;https://www.sigmaaldrich.com/IT/en/sds/sial/30743-m
+A2.3.03c;S;ufficio;Sulfuric acid puriss.;1;L;1;30743;7664-93-9;https://lab.honeywell.com/sm/api/rc/documents/download/30743-1L_SDS_GB_E?appId=76&catNo=30743-1L&matnr=10190821&lang=E&country=GB&type=SDS
+A2.3.03c;P;ufficio davanti;2-propanol puriss LC_MS;2.5;L;1;67-63-0;415158;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/097100AA02750/000000000000415158/downloadVariant
+A2.3.03c;P;ufficio davanti;2-propanol HPLC;2.5;L;4;;;https://www.carloerbareagents.com/cerstorefront/cer-exp/p/097100AA02750/000000000000415158/downloadVariant
+A2.3.03c;D;ufficio davanti;1,4-Dioxane;1;L;1;;589591;https://www.sigmaaldrich.com/IT/en/sds/mm/5.89591
+A2.3.03c;B;ufficio davanti;1-Butanol;1;L;3;71-36-3;34867;https://www.sigmaaldrich.com/IT/en/sds/sigald/34867
+A2.3.03c;T;ufficio davanti;1-Tetradecene;5;mL;1;1120-36-1;87187;https://www.sigmaaldrich.com/IT/en/sds/sial/87187
+A2.3.03c;D;ufficio davanti;Dichloromethane puriss.;2.5;L;2;75-09-2;32222;https://lab.honeywell.com/sm/api/rc/documents/download/32222-2.5L_SDS_GB_E?appId=76&catNo=32222-2.5L&matnr=10233575&lang=E&country=GB&type=SDS
+A2.3.03c;D;ufficio davanti;Diethyl ether, anhydrous, A.C.S. reagent;1;L;2;60-29-7;673811;https://www.sigmaaldrich.com/IT/en/sds/sigald/673811?userType=anonymous
+A2.3.03c;E;ufficio davanti;Ethanol 96%;500;ml;1;;159010;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
+A2.3.03c;E;ufficio davanti;Ethanol;2.5;L;1;64-17-5;02855;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
+A2.3.03c;E;ufficio davanti;Ethanol assoluto;2,5;L;1;;;https://lab.honeywell.com/sm/api/rc/documents/download/02855-2.5L_SDS_GB_E?appId=76&catNo=02855-2.5L&matnr=10640163&lang=E&country=GB&type=SDS
+A2.3.03c;E;ufficio davanti;Ethyl acetate;2.5;L;2;141-78-6;33211;https://lab.honeywell.com/sm/api/rc/documents/download/33211-2.5L_SDS_GB_E?appId=76&catNo=33211-2.5L&matnr=10233571&lang=E&country=GB&type=SDS
+A2.3.03c;F;ufficio davanti;Formic Acid;1;L;2;64-18-6;131030;https://www.itwreagents.com/download_file/sds/131030/gb/sds_131030_en.pdf
+A2.3.03c;M;ufficio davanti;Methanol per HPLC;2.5;L;1;67-56-1;131091;https://www.itwreagents.com/download_file/sds/131091/gb/sds_131091_en.pdf
+A2.3.03c;M;ufficio davanti;Methanol per LC-MS;2,5;L;1;67-56-1;;https://www.itwreagents.com/download_file/sds/131091/gb/sds_131091_en.pdf
+A2.3.03c;P;ufficio davanti;Pentane;1;L;1;109-66-0;60489;https://www.sigmaaldrich.com/IT/en/sds/sigald/60489
+A2.3.03c;P;ufficio davanti;Petroleum ether;1;L;4;101316-46-5;24587-M;https://www.sigmaaldrich.com/IT/en/sds/sial/24587-m
+A2.3.03c;A;ufficio davanti;Antischiuma siliconica sol. 2%;500;ml;1;;TC47000PP;
+A2.3.03c;C;ufficio davanti;Calcio idrossido (12% CaO) soluzione;500;ml;;;CL12.0303.0500;https://www.chem-lab.be/en-gb/prod/1395607
+A2.3.03c;C;ufficio davanti;Calcium chloride anhydrous;1;kg;2;;328757;https://www.sigmaaldrich.com/IT/en/sds/sigma/c5670?userType=anonymous
+A2.3.03c;H;ufficio davanti;Hydrogen peroxide 30%;1;L;1;;108597;https://www.sigmaaldrich.com/IT/en/sds/mm/1.08597?userType=anonymous
+A2.3.03c;C;ufficio davanti;Cryo cool fluid;1;L;2;10715640;;
