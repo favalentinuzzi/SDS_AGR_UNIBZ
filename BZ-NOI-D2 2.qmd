@@ -1,5 +1,5 @@
 ---
-title: "Lab E2.11 - Thin Film Laboratory"
+title: "Lab D2.2 - International Competence Centre on Food Fermentations"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="E2.11")
+lista <- subset(lista_tot, lab=="D2.2")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -143,9 +143,9 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Niko Münzenrieder - [email](mailto:niko.münzenrieder@unibz.it)
+**Laboratory Responsible**: Raffaella Di Cagno - [email](mailto:raffaella.dicagno@unibz.it)
 
-**Laboratory Technician**: Andrea La Monica - [email](mailto:andrea.lamonica@unibz.it) [phone](tel:+390471017040) 
+**Laboratory Technician**: Stefano Tonini - [email](mailto:stefano.tonini2@unibz.it) [phone](tel:+390471017187) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 08 / 09 / 2023
+Last update: 08 / 09 / 2025
 
 ------------------------------------------------------------------------
 
@@ -182,13 +182,13 @@ tab_reagenti(letter_B)
 
 ```
 
-<!-- ### C -->
+### C
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_C) -->
+tab_reagenti(letter_C)
 
-<!-- ``` -->
+```
 
 ### D
 
@@ -206,21 +206,21 @@ tab_reagenti(letter_E)
 
 ```
 
-<!-- ### F -->
+### F
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_F) -->
+tab_reagenti(letter_F)
 
-<!-- ``` -->
+```
 
-<!-- ### G -->
+### G
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_G) -->
+tab_reagenti(letter_G)
 
-<!-- ``` -->
+```
 
 ### H
 
@@ -230,13 +230,13 @@ tab_reagenti(letter_H)
 
 ```
 
-<!-- ### I -->
+### I
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_I) -->
+tab_reagenti(letter_I)
 
-<!-- ``` -->
+```
 
 <!-- ### J -->
 
@@ -246,21 +246,21 @@ tab_reagenti(letter_H)
 
 <!-- ``` -->
 
-<!-- ### K -->
+### K
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_K) -->
+tab_reagenti(letter_K)
 
-<!-- ``` -->
+```
 
-<!-- ### L -->
+### L
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_L) -->
+tab_reagenti(letter_L)
 
-<!-- ``` -->
+```
 
 ### M
 
@@ -270,13 +270,13 @@ tab_reagenti(letter_M)
 
 ```
 
-<!-- ### N -->
+### N
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_N) -->
+tab_reagenti(letter_N)
 
-<!-- ``` -->
+```
 
 ### O
 
@@ -302,21 +302,21 @@ tab_reagenti(letter_P)
 
 <!-- ``` -->
 
-<!-- ### R -->
+### R
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_R) -->
+tab_reagenti(letter_R)
 
-<!-- ``` -->
+```
 
-<!-- ### S -->
+### S
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_S) -->
+tab_reagenti(letter_S)
 
-<!-- ``` -->
+```
 
 ### T
 
@@ -326,13 +326,13 @@ tab_reagenti(letter_T)
 
 ```
 
-<!-- ### U -->
+### U
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_U) -->
+tab_reagenti(letter_U)
 
-<!-- ``` -->
+```
 
 <!-- ### V -->
 
@@ -342,13 +342,13 @@ tab_reagenti(letter_T)
 
 <!-- ``` -->
 
-<!-- ### W -->
+### W
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_W) -->
+tab_reagenti(letter_W)
 
-<!-- ``` -->
+```
 
 <!-- ### X -->
 
@@ -358,18 +358,18 @@ tab_reagenti(letter_T)
 
 <!-- ``` -->
 
-<!-- ### Y -->
+### Y
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Y) -->
+tab_reagenti(letter_Y)
 
-<!-- ``` -->
+```
 
-<!-- ### Z -->
+### Z
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Z) -->
+tab_reagenti(letter_Z)
 
-<!-- ``` -->
+```

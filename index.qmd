@@ -67,6 +67,7 @@ The date on which the lists were updated can be found on each individual page.
 
 ## D2 Building
 
+- [BZ-NOI-D2 2](BZ-NOI-D2 2.qmd) - International Competence Centre on Food Fermentations
 
 ## F1 Building
 
