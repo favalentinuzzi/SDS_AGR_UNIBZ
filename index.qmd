@@ -18,20 +18,21 @@ The date on which the lists were updated can be found on each individual page.
 ## E Building
 
 - [BZ-E0.10](BZ_E010.qmd) - Technical Room
-- [BZ-E0.11](BZ_E011.qmd) - Laboratory for Entomology and Fruit Analysis
+- [BZ-E0.11](BZ_E011.qmd) - Laboratory for Agro-Environmental Science
 - BZ-E0.12a - Laboratory for Instrumental Analyses
 - [BZ-E0.12b](BZ_E012b.qmd) - Lab for Plant and Microbe Biotechnologies
-- [BZ-E0.20](BZ_E020.qmd) - Laboratory for Sample Preparation I
+- [BZ-E0.20](BZ_E020.qmd) - Laboratory for Sample Preparation
 - [BZ-E0.21](BZ_E021.qmd) - Laboratory for Bioorganic Chemistry and Bio-crystallography
 - [BZ-E0.22](BZ_E022.qmd) - Laboratory for Phytopathology
 - [BZ-E0.23](BZ_E023.qmd) - Laboratory for Animal Science
+- [BZ-E1.10](BZ_E110.qmd) - Laboratory for Soil DNA
 - [BZ-E1.11](BZ_E111.qmd) - Isotope Laboratory
 - [BZ-E1.12](BZ_E112.qmd) - Teaching Laboratory I
 - [BZ-E1.20](BZ_E120.qmd) - Laboratory for Analytical Chemistry
 - [BZ-E1.21](BZ_E121.qmd) - Soil molecular ecology lab
 - [BZ-E1.22](BZ_E122.qmd) - Molecular entomology lab
 - [BZ-E1.23](BZ_E123.qmd) - Laboratory for Soil Analysis
-- [BZ-E2.11](BZ_E211.qmd) - Sensing Tech
+- [BZ-E2.11](BZ_E211.qmd) - Laboratory for Insect Ecology & Sustainable Pest Management
 - [BZ-E2.31](BZ_E231.qmd) - Teaching Laboratory II
 
 ## K Building
@@ -71,7 +72,7 @@ The date on which the lists were updated can be found on each individual page.
 
 ## F1 Building
 
-- BZ-NOI-F1 2.26 - Chemical Teaching Lab
+- [BZ-NOI-F1 2.26](BZ_F1226.qmd) - Chemical Teaching Lab
 - [BZ-NOI-F1 2.29](BZ_F1229.qmd) - Applied and Agro-Environmental Microbiology Lab
 
 # Laimburg

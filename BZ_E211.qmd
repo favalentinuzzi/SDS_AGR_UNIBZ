@@ -1,5 +1,5 @@
 ---
-title: "Lab E2.11 - Thin Film Lab"
+title: "Lab E2.11 - Laboratory for Insect Ecology & Sustainable Pest Management"
 ---
 
 ```{r setup, include=FALSE}
@@ -143,9 +143,9 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Niko Münzenrieder - [email](mailto:niko.münzenrieder@unibz.it)
+**Laboratory Responsible**: Sergio Angeli - [email](mailto:sergio.angeli@unibz.it)
 
-**Laboratory Technician**: Andrea La Monica - [email](mailto:andrea.lamonica@unibz.it) [phone](tel:+390471017040) 
+**Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::

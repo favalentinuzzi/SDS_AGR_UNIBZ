@@ -143,7 +143,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Franco Concli - [email](mailto:franco.concli@unibz.it)
+**Laboratory Responsible**: Christian Ceccon - [email](mailto:christian.ceccon@unibz.it)
 
 **Laboratory Technician**: Christian Ceccon - [email](mailto:christian.ceccon@unibz.it) [phone](tel:+390471 017014) 
 

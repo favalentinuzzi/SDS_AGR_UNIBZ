@@ -1,5 +1,5 @@
 ---
-title: "Lab E0.20 - Laboratory for Sample Preparation"
+title: "Lab E1.10 - Laboratory for Soil DNA"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="E0.20")
+lista <- subset(lista_tot, lab=="E1.10")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -28,7 +28,7 @@ subset_by_letter <- function(data, letter) {
 tab_reagenti <- function(input) {
   output <- input %>%
     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
-    select(-c(1,2,5,6,8,10)) %>%
+    select(-c(1,2,3,5,6,8,10)) %>%
     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
   
@@ -143,9 +143,9 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Elisa Varolo - [email](mailto:elisa.varolo@unibz.it)
+**Laboratory Responsible**: Tanja Mimmo - [email](mailto:tanja.mimmo@unibz.it)
 
-**Laboratory Technician**: Christian Ceccon - [email](mailto:christian.ceccon@unibz.it) [phone](tel:+390471 017014) 
+**Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471 017627)
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 24 / 01 / 2024
+Last update: 03 / 10 / 2025
 
 ------------------------------------------------------------------------
 
@@ -166,21 +166,21 @@ Last update: 24 / 01 / 2024
 
 ## Reagents
 
-### A
+<!-- ### A -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_A)
+<!-- tab_reagenti(letter_A) -->
 
-```
+<!-- ``` -->
 
-### B
+<!-- ### B -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_B)
+<!-- tab_reagenti(letter_B) -->
 
-```
+<!-- ``` -->
 
 ### C
 
@@ -190,21 +190,21 @@ tab_reagenti(letter_C)
 
 ```
 
-### D
+<!-- ### D -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_D)
+<!-- tab_reagenti(letter_D) -->
 
-```
+<!-- ``` -->
 
-### E
+<!-- ### E -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_E)
+<!-- tab_reagenti(letter_E) -->
 
-```
+<!-- ``` -->
 
 <!-- ### F -->
 
@@ -214,29 +214,29 @@ tab_reagenti(letter_E)
 
 <!-- ``` -->
 
-### G
+<!-- ### G -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_G)
+<!-- tab_reagenti(letter_G) -->
 
-```
+<!-- ``` -->
 
-### H
+<!-- ### H -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_H)
+<!-- tab_reagenti(letter_H) -->
 
-```
+<!-- ``` -->
 
-### I
+<!-- ### I -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_I)
+<!-- tab_reagenti(letter_I) -->
 
-```
+<!-- ``` -->
 
 <!-- ### J -->
 
@@ -246,45 +246,45 @@ tab_reagenti(letter_I)
 
 <!-- ``` -->
 
-### K
+<!-- ### K -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_K)
+<!-- tab_reagenti(letter_K) -->
 
-```
+<!-- ``` -->
 
-### L
+<!-- ### L -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_L)
+<!-- tab_reagenti(letter_L) -->
 
-```
+<!-- ``` -->
 
-### M
+<!-- ### M -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_M)
+<!-- tab_reagenti(letter_M) -->
 
-```
+<!-- ``` -->
 
-### N
+<!-- ### N -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_N)
+<!-- tab_reagenti(letter_N) -->
 
-```
+<!-- ``` -->
 
-### O
+<!-- ### O -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_O)
+<!-- tab_reagenti(letter_O) -->
 
-```
+<!-- ``` -->
 
 ### P
 
@@ -302,13 +302,13 @@ tab_reagenti(letter_P)
 
 <!-- ``` -->
 
-### R
+<!-- ### R -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_R)
+<!-- tab_reagenti(letter_R) -->
 
-```
+<!-- ``` -->
 
 ### S
 
@@ -318,29 +318,28 @@ tab_reagenti(letter_S)
 
 ```
 
-### T
-
-```{r echo=FALSE}
-
-tab_reagenti(letter_T)
-
-```
-
-### U
-
-```{r echo=FALSE}
-
-tab_reagenti(letter_U)
-
-```
-
-<!-- ### V -->
+<!-- ### T -->
 
 <!-- ```{r echo=FALSE} -->
 
-<!-- tab_reagenti(letter_V) -->
+<!-- tab_reagenti(letter_T) -->
 
 <!-- ``` -->
+<!-- ### U -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_U) -->
+
+<!-- ``` -->
+
+### V
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_V)
+
+```
 
 <!-- ### W -->
 
@@ -366,10 +365,10 @@ tab_reagenti(letter_U)
 
 <!-- ``` -->
 
-### Z
+<!-- ### Z -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_Z)
+<!-- tab_reagenti(letter_Z) -->
 
-```
+<!-- ``` -->

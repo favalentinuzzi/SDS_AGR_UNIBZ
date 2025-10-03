@@ -124,3 +124,8 @@ generate_svg(qrcode = qr_code_E121, filename = "E121.svg", size = 500, show = TR
 qr_code_E211 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_E211.html")
 
 generate_svg(qrcode = qr_code_E211, filename = "E211.svg", size = 500, show = TRUE)
+
+
+qr_code_D22 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ-NOI-D2%202.html")
+
+generate_svg(qrcode = qr_code_D22, filename = "D22.svg", size = 500, show = TRUE)

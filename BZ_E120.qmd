@@ -1,5 +1,5 @@
 ---
-title: "Lab E1.20 - Laboratory for Analytical Chemistry II"
+title: "Lab E1.20 - Laboratory for Analytical Chemistry"
 ---
 
 ```{r setup, include=FALSE}
@@ -145,7 +145,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ::: {.callout-note}
 **Laboratory Responsible**: Tanja Mimmo - [email](mailto:tanja.mimmo@unibz.it)
 
-**Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+390471017627) 
+**Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::

@@ -1,5 +1,5 @@
 ---
-title: "Lab E0.20 - Laboratory for Sample Preparation"
+title: "Lab NOI-F1.2.26 - Chemical Teaching Lab"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="E0.20")
+lista <- subset(lista_tot, lab=="F1.2.26")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -28,7 +28,7 @@ subset_by_letter <- function(data, letter) {
 tab_reagenti <- function(input) {
   output <- input %>%
     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
-    select(-c(1,2,5,6,8,10)) %>%
+    select(-c(1,2,3,5,6,8,10)) %>%
     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
   
@@ -145,7 +145,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 ::: {.callout-note}
 **Laboratory Responsible**: Elisa Varolo - [email](mailto:elisa.varolo@unibz.it)
 
-**Laboratory Technician**: Christian Ceccon - [email](mailto:christian.ceccon@unibz.it) [phone](tel:+390471 017014) 
+**Laboratory Technician**: Elisa Varolo - [email](mailto:elisa.varolo@unibz.it) [phone](tel:+39 0471017013) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 24 / 01 / 2024
+Last update: 03 / 10 / 2025
 
 ------------------------------------------------------------------------
 
@@ -206,13 +206,13 @@ tab_reagenti(letter_E)
 
 ```
 
-<!-- ### F -->
+### F
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_F) -->
+tab_reagenti(letter_F)
 
-<!-- ``` -->
+```
 
 ### G
 
@@ -342,13 +342,13 @@ tab_reagenti(letter_U)
 
 <!-- ``` -->
 
-<!-- ### W -->
+### W
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_W) -->
+tab_reagenti(letter_W)
 
-<!-- ``` -->
+```
 
 <!-- ### X -->
 
@@ -358,13 +358,13 @@ tab_reagenti(letter_U)
 
 <!-- ``` -->
 
-<!-- ### Y -->
+### Y
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Y) -->
+tab_reagenti(letter_Y)
 
-<!-- ``` -->
+```
 
 ### Z
 

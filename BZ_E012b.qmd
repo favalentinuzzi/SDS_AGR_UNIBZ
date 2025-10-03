@@ -1,5 +1,5 @@
 ---
-title: "Lab E0.12b - Laboratory for Analytical Chemistry I"
+title: "Lab E0.12b - Lab for Plant and Microbe Biotechnologies"
 ---
 
 ```{r setup, include=FALSE}
