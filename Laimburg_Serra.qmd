@@ -1,5 +1,5 @@
 ---
-title: "Lab A2.2.27 - Phenomics & Metabolomics"
+title: "Laimburg-Serra - Greenhouse Laimburg"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ library(dplyr)
 lista_tot <- read.csv2("lista_sds_2.csv", header = TRUE)
 
 # filtering for Lab
-lista <- subset(lista_tot, lab=="A2.2.27")
+lista <- subset(lista_tot, lab=="Laimburg-Serra")
 
 colnames(lista) <- c("lab", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
 
@@ -28,7 +28,7 @@ subset_by_letter <- function(data, letter) {
 tab_reagenti <- function(input) {
   output <- input %>%
     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
-    select(-c(1,2,5,6,8,10)) %>%
+    select(-c(1,2,3,5,6,8,10)) %>%
     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
     kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
   
@@ -143,9 +143,9 @@ letter_Z <- subset_by_letter(lista, "Z")
 ```
 
 ::: {.callout-note}
-**Laboratory Responsible**: Raffaella Di Cagno - [email](mailto:raffaella.dicagno@unibz.it)
+**Laboratory Responsible**: Carlo Andreotti - [email](mailto:carlo.andreotti@unibz.it)
 
-**Laboratory Technician**: Sara Casagrande - [email](mailto:sara.casagrande@unibz.it) [phone](tel:+390471017713) 
+**Laboratory Technician**: Maurizio Ventura - [email](mailto:maurizio.ventura@unibz.it) [phone](tel:+39 0471017806) 
 
 **General technician contact** - [email](mailto:techstaff.agriculture@unibz.it) [phone](tel:+393316742962)
 :::
@@ -246,13 +246,13 @@ tab_reagenti(letter_I)
 
 <!-- ``` -->
 
-<!-- ### K -->
+### K
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_K) -->
+tab_reagenti(letter_K)
 
-<!-- ``` -->
+```
 
 ### L
 
@@ -333,42 +333,43 @@ tab_reagenti(letter_T)
 tab_reagenti(letter_U)
 
 ```
-### V
+
+<!-- ### V -->
+
+<!-- ```{r echo=FALSE} -->
+
+<!-- tab_reagenti(letter_V) -->
+
+<!-- ``` -->
+
+### W
 
 ```{r echo=FALSE}
 
-tab_reagenti(letter_V)
+tab_reagenti(letter_W)
 
 ```
 
-<!-- ### W -->
+<!-- ### X -->
 
 <!-- ```{r echo=FALSE} -->
 
-<!-- tab_reagenti(letter_W) -->
+<!-- tab_reagenti(letter_X) -->
 
 <!-- ``` -->
 
-### X
+### Y
 
 ```{r echo=FALSE}
 
-tab_reagenti(letter_X)
+tab_reagenti(letter_Y)
 
 ```
 
-<!-- ### Y -->
+### Z
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Y) -->
+tab_reagenti(letter_Z)
 
-<!-- ``` -->
-
-<!-- ### Z -->
-
-<!-- ```{r echo=FALSE} -->
-
-<!-- tab_reagenti(letter_Z) -->
-
-<!-- ``` -->
+```

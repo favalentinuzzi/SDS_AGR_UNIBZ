@@ -84,6 +84,6 @@ The date on which the lists were updated can be found on each individual page.
 - Laimburg Lab 1 (D.0.08) - Laboratory for Plant Pathology and Plant Biology
 - Laimburg Lab 2 (D.0.07) - Laboratory for Analitical Chemistry
 - Laimburg Lab 3 (D.0.09) - Laboratory for Ecophysiology
-- Laimburg-Serra - Greenhouse Laimburg
+- [Laimburg-Serra](Laimburg_Serra.qmd) - Greenhouse Laimburg
 
 :::
