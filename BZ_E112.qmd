@@ -26,14 +26,19 @@ subset_by_letter <- function(data, letter) {
 }
 
 tab_reagenti <- function(input) {
-  output <- input %>%
+
+  names(input) <- make.names(names(input), unique = TRUE)
+
+  input %>%
     mutate(SDS = cell_spec("SDS", "html", link = sds)) %>%
     select(-c(1,2,3,5,6,8,10)) %>%
     kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
-    kable_styling(bootstrap_options = c("striped", "hover", "responsive", "condensed"), font_size = 16)
-  
-  return(output)
+    kable_styling(
+      bootstrap_options = c("striped", "hover", "responsive", "condensed"),
+      font_size = 16
+    )
 }
+
 
 # tab_fridge <- function(input) {
 #   output <- input %>%
@@ -154,7 +159,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 08 / 09 / 2023
+Last update: 23 / 12 / 2025
 
 ------------------------------------------------------------------------
 
@@ -238,21 +243,21 @@ tab_reagenti(letter_I)
 
 ```
 
-<!-- ### J -->
+### J
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_J) -->
+tab_reagenti(letter_J)
 
-<!-- ``` -->
+```
 
-<!-- ### K -->
+### K
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_K) -->
+tab_reagenti(letter_K)
 
-<!-- ``` -->
+```
 
 ### L
 
@@ -278,13 +283,13 @@ tab_reagenti(letter_N)
 
 ```
 
-<!-- ### O -->
+### O
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_O) -->
+tab_reagenti(letter_O)
 
-<!-- ``` -->
+```
 
 ### P
 
@@ -294,21 +299,21 @@ tab_reagenti(letter_P)
 
 ```
 
-<!-- ### Q -->
+### Q
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Q) -->
+tab_reagenti(letter_Q)
 
-<!-- ``` -->
+```
 
-<!-- ### R -->
+### R
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_R) -->
+tab_reagenti(letter_R)
 
-<!-- ``` -->
+```
 
 ### S
 
@@ -334,37 +339,37 @@ tab_reagenti(letter_U)
 
 ```
 
-<!-- ### V -->
+### V
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_V) -->
+tab_reagenti(letter_V)
 
-<!-- ``` -->
+```
 
-<!-- ### W -->
+### W
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_W) -->
+tab_reagenti(letter_W)
 
-<!-- ``` -->
+```
 
-<!-- ### X -->
+### X
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_X) -->
+tab_reagenti(letter_X)
 
-<!-- ``` -->
+```
 
-<!-- ### Y -->
+### Y
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Y) -->
+tab_reagenti(letter_Y)
 
-<!-- ``` -->
+```
 
 ### Z
 
