@@ -19,7 +19,7 @@ The date on which the lists were updated can be found on each individual page.
 
 - [BZ-E0.10](BZ_E010.qmd) - Technical Room
 - [BZ-E0.11](BZ_E011.qmd) - Laboratory for Agro-Environmental Science
-- BZ-E0.12a - Laboratory for Instrumental Analyses
+- [BZ-E0.12a](BZ_E012a.qmd)- Laboratory for Instrumental Analyses
 - [BZ-E0.12b](BZ_E012b.qmd) - Lab for Plant and Microbe Biotechnologies
 - [BZ-E0.20](BZ_E020.qmd) - Laboratory for Sample Preparation
 - [BZ-E0.21](BZ_E021.qmd) - Laboratory for Bioorganic Chemistry and Bio-crystallography

@@ -139,3 +139,8 @@ generate_svg(qrcode = qr_code_F1226, filename = "F1226.svg", size = 500, show = 
 qr_code_F1229 <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/BZ_F1229.html")
 
 generate_svg(qrcode = qr_code_F1229, filename = "F1229.svg", size = 500, show = TRUE)
+
+
+qr_code_LSerra <- qr_code("https://favalentinuzzi.github.io/SDS_AGR_UNIBZ/Laimburg_Serra.html")
+
+generate_svg(qrcode = qr_code_LSerra, filename = "LSerra.svg", size = 500, show = TRUE)

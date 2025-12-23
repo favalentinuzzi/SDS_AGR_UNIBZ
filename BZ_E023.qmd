@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 05 / 02 / 2024
+Last update: 23 / 12 / 2025
 
 ------------------------------------------------------------------------
 
@@ -174,21 +174,21 @@ tab_reagenti(letter_A)
 
 ```
 
-<!-- ### B -->
+### B
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_B) -->
+tab_reagenti(letter_B)
 
-<!-- ``` -->
+```
 
-<!-- ### C -->
+### C
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_C) -->
+tab_reagenti(letter_C)
 
-<!-- ``` -->
+```
 
 ### D
 
@@ -238,21 +238,21 @@ tab_reagenti(letter_I)
 
 ```
 
-<!-- ### J -->
+### J
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_J) -->
+tab_reagenti(letter_J)
 
-<!-- ``` -->
+```
 
-<!-- ### K -->
+### K
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_K) -->
+tab_reagenti(letter_K)
 
-<!-- ``` -->
+```
 
 ### L
 
@@ -270,21 +270,21 @@ tab_reagenti(letter_M)
 
 ```
 
-<!-- ### N -->
+### N
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_N) -->
+tab_reagenti(letter_N)
 
-<!-- ``` -->
+```
 
-<!-- ### O -->
+### O
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_O) -->
+tab_reagenti(letter_O)
 
-<!-- ``` -->
+```
 
 ### P
 
@@ -294,21 +294,21 @@ tab_reagenti(letter_P)
 
 ```
 
-<!-- ### Q -->
+### Q
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Q) -->
+tab_reagenti(letter_Q)
 
-<!-- ``` -->
+```
 
-<!-- ### R -->
+### R
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_R) -->
+tab_reagenti(letter_R)
 
-<!-- ``` -->
+```
 
 ### S
 
@@ -326,50 +326,50 @@ tab_reagenti(letter_T)
 
 ```
 
-<!-- ### U -->
+### U
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_U) -->
+tab_reagenti(letter_U)
 
-<!-- ``` -->
+```
 
-<!-- # ### V -->
-<!-- #  -->
-<!-- # ```{r echo=FALSE} -->
-<!-- #  -->
-<!-- # tab_reagenti(letter_V) -->
+### V
 
-<!-- ``` -->
+```{r echo=FALSE}
 
-<!-- ### W -->
+tab_reagenti(letter_V)
 
-<!-- ```{r echo=FALSE} -->
+```
 
-<!-- tab_reagenti(letter_W) -->
+### W
 
-<!-- ``` -->
+```{r echo=FALSE}
 
-<!-- ### X -->
+tab_reagenti(letter_W)
 
-<!-- ```{r echo=FALSE} -->
+```
 
-<!-- tab_reagenti(letter_X) -->
+### X
 
-<!-- ``` -->
+```{r echo=FALSE}
 
-<!-- ### Y -->
+tab_reagenti(letter_X)
 
-<!-- ```{r echo=FALSE} -->
+```
 
-<!-- tab_reagenti(letter_Y) -->
+### Y
 
-<!-- ``` -->
+```{r echo=FALSE}
 
-<!-- ### Z -->
+tab_reagenti(letter_Y)
 
-<!-- ```{r echo=FALSE} -->
+```
 
-<!-- tab_reagenti(letter_Z) -->
+### Z
 
-<!-- ``` -->
+```{r echo=FALSE}
+
+tab_reagenti(letter_Z)
+
+```

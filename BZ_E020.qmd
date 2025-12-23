@@ -154,7 +154,7 @@ letter_Z <- subset_by_letter(lista, "Z")
 Call [112](tel:112) in case of Emergency
 :::
 
-Last update: 24 / 01 / 2024
+Last update: 23 / 12 / 2025
 
 ------------------------------------------------------------------------
 
@@ -206,13 +206,13 @@ tab_reagenti(letter_E)
 
 ```
 
-<!-- ### F -->
+### F
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_F) -->
+tab_reagenti(letter_F)
 
-<!-- ``` -->
+```
 
 ### G
 
@@ -238,13 +238,13 @@ tab_reagenti(letter_I)
 
 ```
 
-<!-- ### J -->
+### J
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_J) -->
+tab_reagenti(letter_J)
 
-<!-- ``` -->
+```
 
 ### K
 
@@ -294,13 +294,13 @@ tab_reagenti(letter_P)
 
 ```
 
-<!-- ### Q -->
+### Q
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Q) -->
+tab_reagenti(letter_Q)
 
-<!-- ``` -->
+```
 
 ### R
 
@@ -334,37 +334,37 @@ tab_reagenti(letter_U)
 
 ```
 
-<!-- ### V -->
+### V
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_V) -->
+tab_reagenti(letter_V)
 
-<!-- ``` -->
+```
 
-<!-- ### W -->
+### W
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_W) -->
+tab_reagenti(letter_W)
 
-<!-- ``` -->
+```
 
-<!-- ### X -->
+### X
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_X) -->
+tab_reagenti(letter_X)
 
-<!-- ``` -->
+```
 
-<!-- ### Y -->
+### Y
 
-<!-- ```{r echo=FALSE} -->
+```{r echo=FALSE}
 
-<!-- tab_reagenti(letter_Y) -->
+tab_reagenti(letter_Y)
 
-<!-- ``` -->
+```
 
 ### Z
 
